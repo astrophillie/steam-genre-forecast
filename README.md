@@ -32,8 +32,8 @@ Five category series are built from games with complete 60-month histories. Last
 
 ```text
 Frozen sources → pandas preparation → SQLite category series
-              → chronological model comparison → saved 2027 forecasts
-              → HTML / CSS / JavaScript website
+               → chronological model comparison → saved 2027 forecasts
+               → HTML / CSS / JavaScript website
 ```
 
 Python, pandas and SQLite support the research pipeline. The website uses native HTML, CSS, JavaScript and SVG charts, with no frontend build step.
