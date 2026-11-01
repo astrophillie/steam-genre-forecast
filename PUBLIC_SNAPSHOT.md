@@ -1,6 +1,6 @@
 # Public snapshot exclusions and notebook copies
 
-This curated release contains 247 files: 245 selected project files, including the public notebook copies, plus this notice and `ASSET_PROVENANCE.md`. The original research checkout and its local history remain separate. File counts refer to the release contents, not Git internals or temporary validation files.
+This curated release contains 247 files: 245 selected project files, including the public notebook copies, plus this notice and the README website screenshot. The original research checkout and its local history remain separate. File counts refer to the release contents, not Git internals or temporary validation files.
 
 ## Files withheld from this snapshot
 
@@ -72,6 +72,6 @@ Frozen research outputs, policy, scientific figures and manifests remain unchang
 
 This snapshot retains category-level historical observations, forecasts, derived summaries, game names and metadata, cohort decisions, concentration shares and scenario results. Aggregate totals, shares or differences between scenarios may allow information about individual games to be inferred. Omitting selected CSVs and notebook outputs is not a guarantee that individual values cannot be reconstructed.
 
-Neither these exclusions nor the project's non-commercial purpose establish permission to redistribute the remaining observations, metadata or derived results. [ASSET_PROVENANCE.md](ASSET_PROVENANCE.md) separately records the unresolved creator and publication permission for the included arcade-room artwork. The decision to include material must not be read as a claim of rights clearance.
+Neither these exclusions nor the project's non-commercial purpose establish permission to redistribute the remaining observations, metadata or derived results.
 
-No project-wide reuse license has been selected or supplied. Third-party font notices remain in place; no blanket license is granted for the artwork, datasets or other third-party material.
+No project-wide reuse license has been selected or supplied. Third-party font notices remain in place; no blanket license is granted for datasets or other third-party material.
