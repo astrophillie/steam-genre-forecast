@@ -15,7 +15,7 @@ The forecasts cover 519 games with complete histories. They’re provisional est
 
 ![Steam Genre Forecast arcade interface](docs/images/website-preview.png)
 
-Explore Overview, Forecasts, History, Models and Methods through synchronized category controls, interactive charts and automatic light/dark themes. [Preview the website locally](#run-locally). A hosted demo link will be added after deployment.
+Explore Overview, Forecasts, History, Models and Methods through synchronized category controls, interactive charts and automatic light/dark themes. [Preview the website locally](#run-locally). [Open the live website](https://steam-genre-forecast.netlify.app/).
 
 ## Key findings
 
