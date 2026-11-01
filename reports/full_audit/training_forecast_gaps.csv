@@ -1,0 +1,21 @@
+category,origin,training_one_step_mae,development_long_lead_mae,training_rows,caveat
+Action,2020-06-01,40827.87225327126,110006.36049559065,84,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Action,2021-06-01,43630.12538918434,490602.71142594976,96,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Action,2022-06-01,44766.8215256438,342548.59022962465,108,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Action,2023-06-01,52551.121774699044,423900.4233168727,120,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Indie,2020-06-01,16339.935800381887,63895.05677770616,84,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Indie,2021-06-01,16714.714465188816,52218.69166037636,96,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Indie,2022-06-01,15385.317154867742,56386.36135246755,108,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Indie,2023-06-01,18409.463749877294,44887.37805701586,120,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Massively Multiplayer,2020-06-01,18813.758289858655,48637.27503144997,84,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Massively Multiplayer,2021-06-01,20763.445191124185,33474.378953966196,96,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Massively Multiplayer,2022-06-01,22192.30234539254,83834.32838794189,108,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Massively Multiplayer,2023-06-01,20533.36637429907,99577.27759230456,120,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+RPG,2020-06-01,23995.49672239221,98099.45505010059,84,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+RPG,2021-06-01,22474.66642978752,46591.11415241466,96,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+RPG,2022-06-01,24416.565637106687,48212.19415992167,108,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+RPG,2023-06-01,25448.28119569625,41579.53561119747,120,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Strategy,2020-06-01,12619.992285015478,79646.15214125325,84,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Strategy,2021-06-01,11385.500318880057,30426.01100767375,96,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Strategy,2022-06-01,12390.924966908919,16855.14462117844,108,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting
+Strategy,2023-06-01,12441.930870822429,29199.143129574368,120,In-sample one-step versus held-out recursive long-lead errors differ in horizon and distribution; gap alone does not prove overfitting

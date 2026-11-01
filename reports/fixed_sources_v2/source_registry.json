@@ -1,0 +1,73 @@
+{
+  "version": "fixed_sources_v2",
+  "frozen_on": "2026-10-26",
+  "sources": [
+    {
+      "source_id": 1,
+      "name": "Pinned lunthu baseline",
+      "path": "database\\steam.sqlite",
+      "sha256": "7f89e41d96616cd4398c52ab568c2008d80feca2762b09f2b3cbdeec0391efab",
+      "url": "https://www.kaggle.com/datasets/lunthu/steam-monthly-average-players",
+      "licence_note": "Dataset reportsCC0; original provenance retained",
+      "rows": 612265
+    },
+    {
+      "source_id": 2,
+      "name": "Aanomali multiplayer",
+      "path": "data\\raw\\fixed_sources_v2\\aanomali_monthly.csv",
+      "sha256": "7e9df8ef83acf895fa643acd0a198e18777b213d34b2fbb8385caced79631044",
+      "url": "https://github.com/aanomali/steam-multiplayer-forecasting/tree/582dca92f49d4cb6ff57392a92750ae6024d3ffb",
+      "licence_note": "MIT repository; upstream observation redistribution not independently established",
+      "rows": 38821
+    },
+    {
+      "source_id": 3,
+      "name": "Liu giveaway research",
+      "path": "data\\raw\\fixed_sources_v2\\liu_monthly.csv",
+      "sha256": "3e91cbdb2f186a86ee79225262db81d24acde13e895b164d3acbb8ad3c3881b6",
+      "url": "https://github.com/liunicholas/egs-steam-research-paper/tree/c920ccf9be4550b9e849423f9f137fbf62d26d8c",
+      "licence_note": "No explicit licence detected; local analysis, raw redistribution deferred",
+      "rows": 38642
+    },
+    {
+      "source_id": 4,
+      "name": "Previously validated Aakash snapshot",
+      "path": "data\\processed\\supplemental_monthly_validated.parquet",
+      "sha256": "c1254b20165886804b2eaad3d9dbdc80c728e3d5a3fada06005047352a4e29cf",
+      "url": "https://github.com/Aakash-1107/Game-Market-Intelligence/releases/tag/data-2026-10-07",
+      "licence_note": "Upstream reuse unresolved; retain local derived analysis",
+      "rows": 4994
+    },
+    {
+      "source_id": 5,
+      "name": "Existing SteamCharts pilot",
+      "path": "reports\\steamcharts_pilot\\20261025T085419Z_52879d\\monthly_players.csv",
+      "sha256": "03563b1787dfb656c4a3f183bf0d856ad4a7e7705e320af635b0e0263ec4535a",
+      "url": "https://steamcharts.com",
+      "licence_note": "Existing bounded cache; no new access or bulk collection",
+      "rows": 2330
+    }
+  ],
+  "metadata": {
+    "path": "data\\raw\\fronkon_metadata\\games.parquet",
+    "sha256": "775b17f2a5a52b96a8441739cd0dd4939916335b6edeebbfc4a1b238388c5a77",
+    "scope": "Existing snapshot labels applied retrospectively"
+  },
+  "canonical_rows": 632576,
+  "canonical_apps": 7051,
+  "archive_last_month": "2026-09-01",
+  "modelling_cutoff": "2026-01-01",
+  "window_start": "2021-02-01",
+  "common_months": 60,
+  "cohort_apps": 519,
+  "category_months": 300,
+  "horizon_to_dec2027": 23,
+  "target_2027_leads": [
+    12,
+    23
+  ],
+  "policy": "First approved source wins after compatible overlap; reject discrepancies above0.011; no missing-to-zero conversion",
+  "scope": "Selected covered cohort; historical reference v1 retained; no additional source search planned",
+  "distribution": "Raw sources stay ignored/local; licence caveats retained for publication",
+  "no_more_sources": true
+}

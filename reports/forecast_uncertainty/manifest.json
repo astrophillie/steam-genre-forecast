@@ -1,0 +1,12 @@
+{
+  "method": "Symmetric empirical90th-percentile absolute long-lead errors, higher quantile; lower bound clipped at zero",
+  "minimum_calibration_rows": 12,
+  "calibration_cutoff": "2025-09-01",
+  "projection_sha256": "c8557c0561f4556b22957acb6b3ad4ea4aa5ab7c3335894f17de59a32171f6ea",
+  "history_hashes": {
+    "base": "08e816b9f612fffe49efece837a7f72836691ec44fe63cb21f089c4d5ecd9493",
+    "tuned": "ef30cdc4cde90114d5f089007e08f4ada4d7b4ad17c5b7ee42ad781e8653a179",
+    "features": "4bf1e433b8d24bab87882c5a15b92202d537138bfc4ae0ad2cac730211778446"
+  },
+  "scope": "Exploratory historical-error bands; dependent overlapping development folds; no calibrated90% guarantee, no annual confidence interval or ranking probability"
+}

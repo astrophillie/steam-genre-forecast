@@ -1,0 +1,901 @@
+category,month,avg_players,retained_games,empty_category,scenario,excluded_union_games
+Action,2021-02-01,3195371.98,308,False,Full cohort,0
+Action,2021-03-01,3019424.23,308,False,Full cohort,0
+Action,2021-04-01,2970456.85,308,False,Full cohort,0
+Action,2021-05-01,2862095.67,308,False,Full cohort,0
+Action,2021-06-01,2734527.56,308,False,Full cohort,0
+Action,2021-07-01,2738723.03,308,False,Full cohort,0
+Action,2021-08-01,2713777.82,308,False,Full cohort,0
+Action,2021-09-01,2567410,308,False,Full cohort,0
+Action,2021-10-01,2532298.58,308,False,Full cohort,0
+Action,2021-11-01,2578907.16,308,False,Full cohort,0
+Action,2021-12-01,2707741.34,308,False,Full cohort,0
+Action,2022-01-01,2994887.42,308,False,Full cohort,0
+Action,2022-02-01,2947875.94,308,False,Full cohort,0
+Action,2022-03-01,2736146.31,308,False,Full cohort,0
+Action,2022-04-01,2743863.14,308,False,Full cohort,0
+Action,2022-05-01,2698148.86,308,False,Full cohort,0
+Action,2022-06-01,2789635.98,308,False,Full cohort,0
+Action,2022-07-01,2855990.48,308,False,Full cohort,0
+Action,2022-08-01,2914938.89,308,False,Full cohort,0
+Action,2022-09-01,2858231.9,308,False,Full cohort,0
+Action,2022-10-01,2765258.46,308,False,Full cohort,0
+Action,2022-11-01,2833613.1,308,False,Full cohort,0
+Action,2022-12-01,3023853.18,308,False,Full cohort,0
+Action,2023-01-01,3197721.75,308,False,Full cohort,0
+Action,2023-02-01,3146756.37,308,False,Full cohort,0
+Action,2023-03-01,3236197.19,308,False,Full cohort,0
+Action,2023-04-01,3267143.18,308,False,Full cohort,0
+Action,2023-05-01,3349006.73,308,False,Full cohort,0
+Action,2023-06-01,3245622.71,308,False,Full cohort,0
+Action,2023-07-01,3235309.2,308,False,Full cohort,0
+Action,2023-08-01,3154188.04,308,False,Full cohort,0
+Action,2023-09-01,3142985.57,308,False,Full cohort,0
+Action,2023-10-01,2931799.23,308,False,Full cohort,0
+Action,2023-11-01,2855390.17,308,False,Full cohort,0
+Action,2023-12-01,3199536.23,308,False,Full cohort,0
+Action,2024-01-01,3201300.79,308,False,Full cohort,0
+Action,2024-02-01,3104141.53,308,False,Full cohort,0
+Action,2024-03-01,3308696.66,308,False,Full cohort,0
+Action,2024-04-01,3268179.9,308,False,Full cohort,0
+Action,2024-05-01,3303622.26,308,False,Full cohort,0
+Action,2024-06-01,3339613,308,False,Full cohort,0
+Action,2024-07-01,3264685.19,308,False,Full cohort,0
+Action,2024-08-01,3193516.64,308,False,Full cohort,0
+Action,2024-09-01,2930093.71,308,False,Full cohort,0
+Action,2024-10-01,2852326.26,308,False,Full cohort,0
+Action,2024-11-01,3014367.72,308,False,Full cohort,0
+Action,2024-12-01,3190147.43,308,False,Full cohort,0
+Action,2025-01-01,3177562.77,308,False,Full cohort,0
+Action,2025-02-01,3281922.52,308,False,Full cohort,0
+Action,2025-03-01,3216730.58,308,False,Full cohort,0
+Action,2025-04-01,3081077.37,308,False,Full cohort,0
+Action,2025-05-01,3090159.54,308,False,Full cohort,0
+Action,2025-06-01,3157826.56,308,False,Full cohort,0
+Action,2025-07-01,3112265.12,308,False,Full cohort,0
+Action,2025-08-01,3154385.45,308,False,Full cohort,0
+Action,2025-09-01,3043658.24,308,False,Full cohort,0
+Action,2025-10-01,3003148.46,308,False,Full cohort,0
+Action,2025-11-01,3140854.22,308,False,Full cohort,0
+Action,2025-12-01,3263523.7,308,False,Full cohort,0
+Action,2026-01-01,3396661.79,308,False,Full cohort,0
+Indie,2021-02-01,1038458.93,260,False,Full cohort,0
+Indie,2021-03-01,872749.44,260,False,Full cohort,0
+Indie,2021-04-01,788624.42,260,False,Full cohort,0
+Indie,2021-05-01,720721.65,260,False,Full cohort,0
+Indie,2021-06-01,696887.63,260,False,Full cohort,0
+Indie,2021-07-01,735491.57,260,False,Full cohort,0
+Indie,2021-08-01,718946.34,260,False,Full cohort,0
+Indie,2021-09-01,659567.87,260,False,Full cohort,0
+Indie,2021-10-01,637578.17,260,False,Full cohort,0
+Indie,2021-11-01,688922,260,False,Full cohort,0
+Indie,2021-12-01,754112.74,260,False,Full cohort,0
+Indie,2022-01-01,868990.4,260,False,Full cohort,0
+Indie,2022-02-01,782455.41,260,False,Full cohort,0
+Indie,2022-03-01,686038.88,260,False,Full cohort,0
+Indie,2022-04-01,699554.3,260,False,Full cohort,0
+Indie,2022-05-01,704715.45,260,False,Full cohort,0
+Indie,2022-06-01,786205.71,260,False,Full cohort,0
+Indie,2022-07-01,832346.6,260,False,Full cohort,0
+Indie,2022-08-01,750409.43,260,False,Full cohort,0
+Indie,2022-09-01,671781.99,260,False,Full cohort,0
+Indie,2022-10-01,723821.45,260,False,Full cohort,0
+Indie,2022-11-01,767225.87,260,False,Full cohort,0
+Indie,2022-12-01,876247.17,260,False,Full cohort,0
+Indie,2023-01-01,947908.34,260,False,Full cohort,0
+Indie,2023-02-01,803875.91,260,False,Full cohort,0
+Indie,2023-03-01,762580.91,260,False,Full cohort,0
+Indie,2023-04-01,811798.4,260,False,Full cohort,0
+Indie,2023-05-01,751779.2,260,False,Full cohort,0
+Indie,2023-06-01,738018.25,260,False,Full cohort,0
+Indie,2023-07-01,857996.57,260,False,Full cohort,0
+Indie,2023-08-01,792704.78,260,False,Full cohort,0
+Indie,2023-09-01,730689.74,260,False,Full cohort,0
+Indie,2023-10-01,738792.63,260,False,Full cohort,0
+Indie,2023-11-01,740091.4,260,False,Full cohort,0
+Indie,2023-12-01,818428.49,260,False,Full cohort,0
+Indie,2024-01-01,835458.79,260,False,Full cohort,0
+Indie,2024-02-01,748706.08,260,False,Full cohort,0
+Indie,2024-03-01,844850.61,260,False,Full cohort,0
+Indie,2024-04-01,850561.47,260,False,Full cohort,0
+Indie,2024-05-01,797670.92,260,False,Full cohort,0
+Indie,2024-06-01,767669.55,260,False,Full cohort,0
+Indie,2024-07-01,852136.82,260,False,Full cohort,0
+Indie,2024-08-01,829637.5,260,False,Full cohort,0
+Indie,2024-09-01,761828.5,260,False,Full cohort,0
+Indie,2024-10-01,772722.29,260,False,Full cohort,0
+Indie,2024-11-01,804421.21,260,False,Full cohort,0
+Indie,2024-12-01,863973.29,260,False,Full cohort,0
+Indie,2025-01-01,878706.29,260,False,Full cohort,0
+Indie,2025-02-01,803795.18,260,False,Full cohort,0
+Indie,2025-03-01,785210.38,260,False,Full cohort,0
+Indie,2025-04-01,742288.54,260,False,Full cohort,0
+Indie,2025-05-01,714552.19,260,False,Full cohort,0
+Indie,2025-06-01,779770.98,260,False,Full cohort,0
+Indie,2025-07-01,860742.56,260,False,Full cohort,0
+Indie,2025-08-01,776436.04,260,False,Full cohort,0
+Indie,2025-09-01,668204.98,260,False,Full cohort,0
+Indie,2025-10-01,717221.69,260,False,Full cohort,0
+Indie,2025-11-01,761745.13,260,False,Full cohort,0
+Indie,2025-12-01,788360.68,260,False,Full cohort,0
+Indie,2026-01-01,875035.09,260,False,Full cohort,0
+Massively Multiplayer,2021-02-01,729484.97,71,False,Full cohort,0
+Massively Multiplayer,2021-03-01,659147.98,71,False,Full cohort,0
+Massively Multiplayer,2021-04-01,664249.46,71,False,Full cohort,0
+Massively Multiplayer,2021-05-01,642908.73,71,False,Full cohort,0
+Massively Multiplayer,2021-06-01,653291.84,71,False,Full cohort,0
+Massively Multiplayer,2021-07-01,672072.42,71,False,Full cohort,0
+Massively Multiplayer,2021-08-01,669676.68,71,False,Full cohort,0
+Massively Multiplayer,2021-09-01,582889.96,71,False,Full cohort,0
+Massively Multiplayer,2021-10-01,565597.21,71,False,Full cohort,0
+Massively Multiplayer,2021-11-01,561678.1,71,False,Full cohort,0
+Massively Multiplayer,2021-12-01,613304.5,71,False,Full cohort,0
+Massively Multiplayer,2022-01-01,731034.65,71,False,Full cohort,0
+Massively Multiplayer,2022-02-01,723787.67,71,False,Full cohort,0
+Massively Multiplayer,2022-03-01,648592.19,71,False,Full cohort,0
+Massively Multiplayer,2022-04-01,680510.48,71,False,Full cohort,0
+Massively Multiplayer,2022-05-01,657674.5,71,False,Full cohort,0
+Massively Multiplayer,2022-06-01,703362.07,71,False,Full cohort,0
+Massively Multiplayer,2022-07-01,688684.24,71,False,Full cohort,0
+Massively Multiplayer,2022-08-01,663181.92,71,False,Full cohort,0
+Massively Multiplayer,2022-09-01,658814.12,71,False,Full cohort,0
+Massively Multiplayer,2022-10-01,620339.07,71,False,Full cohort,0
+Massively Multiplayer,2022-11-01,615687.39,71,False,Full cohort,0
+Massively Multiplayer,2022-12-01,708051.96,71,False,Full cohort,0
+Massively Multiplayer,2023-01-01,743270.84,71,False,Full cohort,0
+Massively Multiplayer,2023-02-01,719205.08,71,False,Full cohort,0
+Massively Multiplayer,2023-03-01,677304.94,71,False,Full cohort,0
+Massively Multiplayer,2023-04-01,741904.17,71,False,Full cohort,0
+Massively Multiplayer,2023-05-01,683431.72,71,False,Full cohort,0
+Massively Multiplayer,2023-06-01,647129.08,71,False,Full cohort,0
+Massively Multiplayer,2023-07-01,666633.91,71,False,Full cohort,0
+Massively Multiplayer,2023-08-01,669612.95,71,False,Full cohort,0
+Massively Multiplayer,2023-09-01,633717.84,71,False,Full cohort,0
+Massively Multiplayer,2023-10-01,637090.24,71,False,Full cohort,0
+Massively Multiplayer,2023-11-01,650504.69,71,False,Full cohort,0
+Massively Multiplayer,2023-12-01,762274.22,71,False,Full cohort,0
+Massively Multiplayer,2024-01-01,772987.45,71,False,Full cohort,0
+Massively Multiplayer,2024-02-01,718233.04,71,False,Full cohort,0
+Massively Multiplayer,2024-03-01,732179.54,71,False,Full cohort,0
+Massively Multiplayer,2024-04-01,763624.66,71,False,Full cohort,0
+Massively Multiplayer,2024-05-01,720464.84,71,False,Full cohort,0
+Massively Multiplayer,2024-06-01,758177.04,71,False,Full cohort,0
+Massively Multiplayer,2024-07-01,778239.53,71,False,Full cohort,0
+Massively Multiplayer,2024-08-01,806766.24,71,False,Full cohort,0
+Massively Multiplayer,2024-09-01,749193.05,71,False,Full cohort,0
+Massively Multiplayer,2024-10-01,733491.56,71,False,Full cohort,0
+Massively Multiplayer,2024-11-01,774684.51,71,False,Full cohort,0
+Massively Multiplayer,2024-12-01,803873.91,71,False,Full cohort,0
+Massively Multiplayer,2025-01-01,815222.71,71,False,Full cohort,0
+Massively Multiplayer,2025-02-01,823644.84,71,False,Full cohort,0
+Massively Multiplayer,2025-03-01,841758.84,71,False,Full cohort,0
+Massively Multiplayer,2025-04-01,767715.15,71,False,Full cohort,0
+Massively Multiplayer,2025-05-01,766311.34,71,False,Full cohort,0
+Massively Multiplayer,2025-06-01,815466.18,71,False,Full cohort,0
+Massively Multiplayer,2025-07-01,794435.54,71,False,Full cohort,0
+Massively Multiplayer,2025-08-01,761345.77,71,False,Full cohort,0
+Massively Multiplayer,2025-09-01,693163.75,71,False,Full cohort,0
+Massively Multiplayer,2025-10-01,695862.99,71,False,Full cohort,0
+Massively Multiplayer,2025-11-01,761721.69,71,False,Full cohort,0
+Massively Multiplayer,2025-12-01,749098.41,71,False,Full cohort,0
+Massively Multiplayer,2026-01-01,800468.06,71,False,Full cohort,0
+RPG,2021-02-01,1006470.05,144,False,Full cohort,0
+RPG,2021-03-01,871192.86,144,False,Full cohort,0
+RPG,2021-04-01,767563.59,144,False,Full cohort,0
+RPG,2021-05-01,725911.46,144,False,Full cohort,0
+RPG,2021-06-01,737055.12,144,False,Full cohort,0
+RPG,2021-07-01,767057,144,False,Full cohort,0
+RPG,2021-08-01,746032.38,144,False,Full cohort,0
+RPG,2021-09-01,678274.45,144,False,Full cohort,0
+RPG,2021-10-01,637057.84,144,False,Full cohort,0
+RPG,2021-11-01,684629.44,144,False,Full cohort,0
+RPG,2021-12-01,804529.27,144,False,Full cohort,0
+RPG,2022-01-01,879237.45,144,False,Full cohort,0
+RPG,2022-02-01,792040.98,144,False,Full cohort,0
+RPG,2022-03-01,634580.29,144,False,Full cohort,0
+RPG,2022-04-01,663339.11,144,False,Full cohort,0
+RPG,2022-05-01,672755.65,144,False,Full cohort,0
+RPG,2022-06-01,725663.67,144,False,Full cohort,0
+RPG,2022-07-01,748146.09,144,False,Full cohort,0
+RPG,2022-08-01,713603.47,144,False,Full cohort,0
+RPG,2022-09-01,713834.84,144,False,Full cohort,0
+RPG,2022-10-01,724768.27,144,False,Full cohort,0
+RPG,2022-11-01,720004.2,144,False,Full cohort,0
+RPG,2022-12-01,840929.22,144,False,Full cohort,0
+RPG,2023-01-01,905389.52,144,False,Full cohort,0
+RPG,2023-02-01,771249.83,144,False,Full cohort,0
+RPG,2023-03-01,732597.22,144,False,Full cohort,0
+RPG,2023-04-01,800080.86,144,False,Full cohort,0
+RPG,2023-05-01,723655.09,144,False,Full cohort,0
+RPG,2023-06-01,712831.17,144,False,Full cohort,0
+RPG,2023-07-01,825372.14,144,False,Full cohort,0
+RPG,2023-08-01,1184299.36,144,False,Full cohort,0
+RPG,2023-09-01,982896.04,144,False,Full cohort,0
+RPG,2023-10-01,898561.53,144,False,Full cohort,0
+RPG,2023-11-01,795822.06,144,False,Full cohort,0
+RPG,2023-12-01,923625.29,144,False,Full cohort,0
+RPG,2024-01-01,981324.94,144,False,Full cohort,0
+RPG,2024-02-01,841245.1,144,False,Full cohort,0
+RPG,2024-03-01,898687.96,144,False,Full cohort,0
+RPG,2024-04-01,959964.37,144,False,Full cohort,0
+RPG,2024-05-01,924051.09,144,False,Full cohort,0
+RPG,2024-06-01,836337,144,False,Full cohort,0
+RPG,2024-07-01,907225.29,144,False,Full cohort,0
+RPG,2024-08-01,885820.9,144,False,Full cohort,0
+RPG,2024-09-01,754078.83,144,False,Full cohort,0
+RPG,2024-10-01,745952.48,144,False,Full cohort,0
+RPG,2024-11-01,771969.47,144,False,Full cohort,0
+RPG,2024-12-01,866700.98,144,False,Full cohort,0
+RPG,2025-01-01,917939.16,144,False,Full cohort,0
+RPG,2025-02-01,849956.5,144,False,Full cohort,0
+RPG,2025-03-01,812586.17,144,False,Full cohort,0
+RPG,2025-04-01,797954.88,144,False,Full cohort,0
+RPG,2025-05-01,782054.71,144,False,Full cohort,0
+RPG,2025-06-01,826576.57,144,False,Full cohort,0
+RPG,2025-07-01,861292.38,144,False,Full cohort,0
+RPG,2025-08-01,825840.56,144,False,Full cohort,0
+RPG,2025-09-01,710654.68,144,False,Full cohort,0
+RPG,2025-10-01,749735.51,144,False,Full cohort,0
+RPG,2025-11-01,815045.27,144,False,Full cohort,0
+RPG,2025-12-01,868989.87,144,False,Full cohort,0
+RPG,2026-01-01,976982.89,144,False,Full cohort,0
+Strategy,2021-02-01,1032951.16,174,False,Full cohort,0
+Strategy,2021-03-01,983594.6,174,False,Full cohort,0
+Strategy,2021-04-01,995600.57,174,False,Full cohort,0
+Strategy,2021-05-01,987701.13,174,False,Full cohort,0
+Strategy,2021-06-01,964617.03,174,False,Full cohort,0
+Strategy,2021-07-01,994085.02,174,False,Full cohort,0
+Strategy,2021-08-01,988543.7,174,False,Full cohort,0
+Strategy,2021-09-01,939218.79,174,False,Full cohort,0
+Strategy,2021-10-01,975121.02,174,False,Full cohort,0
+Strategy,2021-11-01,992344.74,174,False,Full cohort,0
+Strategy,2021-12-01,1033653.25,174,False,Full cohort,0
+Strategy,2022-01-01,1127107.7,174,False,Full cohort,0
+Strategy,2022-02-01,1036824.64,174,False,Full cohort,0
+Strategy,2022-03-01,976634.39,174,False,Full cohort,0
+Strategy,2022-04-01,1015126.74,174,False,Full cohort,0
+Strategy,2022-05-01,1006084.67,174,False,Full cohort,0
+Strategy,2022-06-01,990737.15,174,False,Full cohort,0
+Strategy,2022-07-01,1000697.6,174,False,Full cohort,0
+Strategy,2022-08-01,995497.82,174,False,Full cohort,0
+Strategy,2022-09-01,1021307.37,174,False,Full cohort,0
+Strategy,2022-10-01,990259.32,174,False,Full cohort,0
+Strategy,2022-11-01,1073608.85,174,False,Full cohort,0
+Strategy,2022-12-01,1043864.31,174,False,Full cohort,0
+Strategy,2023-01-01,1046622.07,174,False,Full cohort,0
+Strategy,2023-02-01,957372.01,174,False,Full cohort,0
+Strategy,2023-03-01,970982.4,174,False,Full cohort,0
+Strategy,2023-04-01,991957.08,174,False,Full cohort,0
+Strategy,2023-05-01,983309.59,174,False,Full cohort,0
+Strategy,2023-06-01,956722.41,174,False,Full cohort,0
+Strategy,2023-07-01,1060540.9,174,False,Full cohort,0
+Strategy,2023-08-01,1430016.43,174,False,Full cohort,0
+Strategy,2023-09-01,1221619.33,174,False,Full cohort,0
+Strategy,2023-10-01,1113582.75,174,False,Full cohort,0
+Strategy,2023-11-01,1080601.41,174,False,Full cohort,0
+Strategy,2023-12-01,1128928.51,174,False,Full cohort,0
+Strategy,2024-01-01,1174827.84,174,False,Full cohort,0
+Strategy,2024-02-01,1055483.89,174,False,Full cohort,0
+Strategy,2024-03-01,1054277.35,174,False,Full cohort,0
+Strategy,2024-04-01,1067847.55,174,False,Full cohort,0
+Strategy,2024-05-01,1109477.98,174,False,Full cohort,0
+Strategy,2024-06-01,1086289.27,174,False,Full cohort,0
+Strategy,2024-07-01,1115088.84,174,False,Full cohort,0
+Strategy,2024-08-01,1072189.83,174,False,Full cohort,0
+Strategy,2024-09-01,1087456.85,174,False,Full cohort,0
+Strategy,2024-10-01,1066261.62,174,False,Full cohort,0
+Strategy,2024-11-01,1106365.34,174,False,Full cohort,0
+Strategy,2024-12-01,1095575.7,174,False,Full cohort,0
+Strategy,2025-01-01,1121747.01,174,False,Full cohort,0
+Strategy,2025-02-01,1038551.2,174,False,Full cohort,0
+Strategy,2025-03-01,1001884.55,174,False,Full cohort,0
+Strategy,2025-04-01,978732.58,174,False,Full cohort,0
+Strategy,2025-05-01,1002149.76,174,False,Full cohort,0
+Strategy,2025-06-01,991566.25,174,False,Full cohort,0
+Strategy,2025-07-01,1044440.43,174,False,Full cohort,0
+Strategy,2025-08-01,1134120.31,174,False,Full cohort,0
+Strategy,2025-09-01,1136852.39,174,False,Full cohort,0
+Strategy,2025-10-01,1109582.21,174,False,Full cohort,0
+Strategy,2025-11-01,1141070.53,174,False,Full cohort,0
+Strategy,2025-12-01,1196882.28,174,False,Full cohort,0
+Strategy,2026-01-01,1226911.31,174,False,Full cohort,0
+Action,2021-02-01,1732826.82,304,False,Without shared top-1 union,4
+Action,2021-03-01,1608599.65,304,False,Without shared top-1 union,4
+Action,2021-04-01,1569624.46,304,False,Without shared top-1 union,4
+Action,2021-05-01,1525490,304,False,Without shared top-1 union,4
+Action,2021-06-01,1504990.74,304,False,Without shared top-1 union,4
+Action,2021-07-01,1530425.73,304,False,Without shared top-1 union,4
+Action,2021-08-01,1508555.09,304,False,Without shared top-1 union,4
+Action,2021-09-01,1427371.89,304,False,Without shared top-1 union,4
+Action,2021-10-01,1345106.42,304,False,Without shared top-1 union,4
+Action,2021-11-01,1370973.71,304,False,Without shared top-1 union,4
+Action,2021-12-01,1482554.86,304,False,Without shared top-1 union,4
+Action,2022-01-01,1573465.91,304,False,Without shared top-1 union,4
+Action,2022-02-01,1535296.37,304,False,Without shared top-1 union,4
+Action,2022-03-01,1402470.47,304,False,Without shared top-1 union,4
+Action,2022-04-01,1418795.94,304,False,Without shared top-1 union,4
+Action,2022-05-01,1412485.66,304,False,Without shared top-1 union,4
+Action,2022-06-01,1496095.35,304,False,Without shared top-1 union,4
+Action,2022-07-01,1561083.45,304,False,Without shared top-1 union,4
+Action,2022-08-01,1537590.74,304,False,Without shared top-1 union,4
+Action,2022-09-01,1477119.82,304,False,Without shared top-1 union,4
+Action,2022-10-01,1432064.95,304,False,Without shared top-1 union,4
+Action,2022-11-01,1432166.42,304,False,Without shared top-1 union,4
+Action,2022-12-01,1627876.36,304,False,Without shared top-1 union,4
+Action,2023-01-01,1744343,304,False,Without shared top-1 union,4
+Action,2023-02-01,1628926.65,304,False,Without shared top-1 union,4
+Action,2023-03-01,1686177.11,304,False,Without shared top-1 union,4
+Action,2023-04-01,1639557.72,304,False,Without shared top-1 union,4
+Action,2023-05-01,1527020.55,304,False,Without shared top-1 union,4
+Action,2023-06-01,1481951.4,304,False,Without shared top-1 union,4
+Action,2023-07-01,1655954.84,304,False,Without shared top-1 union,4
+Action,2023-08-01,1523879.31,304,False,Without shared top-1 union,4
+Action,2023-09-01,1478325.35,304,False,Without shared top-1 union,4
+Action,2023-10-01,1446026.7,304,False,Without shared top-1 union,4
+Action,2023-11-01,1431929.84,304,False,Without shared top-1 union,4
+Action,2023-12-01,1662894.55,304,False,Without shared top-1 union,4
+Action,2024-01-01,1660589.26,304,False,Without shared top-1 union,4
+Action,2024-02-01,1557157.08,304,False,Without shared top-1 union,4
+Action,2024-03-01,1630563.58,304,False,Without shared top-1 union,4
+Action,2024-04-01,1519141.51,304,False,Without shared top-1 union,4
+Action,2024-05-01,1478757.74,304,False,Without shared top-1 union,4
+Action,2024-06-01,1520058.77,304,False,Without shared top-1 union,4
+Action,2024-07-01,1527349.66,304,False,Without shared top-1 union,4
+Action,2024-08-01,1470500.19,304,False,Without shared top-1 union,4
+Action,2024-09-01,1292462.32,304,False,Without shared top-1 union,4
+Action,2024-10-01,1229079.42,304,False,Without shared top-1 union,4
+Action,2024-11-01,1295768.96,304,False,Without shared top-1 union,4
+Action,2024-12-01,1404854.97,304,False,Without shared top-1 union,4
+Action,2025-01-01,1384932.96,304,False,Without shared top-1 union,4
+Action,2025-02-01,1408257.8,304,False,Without shared top-1 union,4
+Action,2025-03-01,1317105.44,304,False,Without shared top-1 union,4
+Action,2025-04-01,1226956.91,304,False,Without shared top-1 union,4
+Action,2025-05-01,1231798.42,304,False,Without shared top-1 union,4
+Action,2025-06-01,1328224.27,304,False,Without shared top-1 union,4
+Action,2025-07-01,1360102.22,304,False,Without shared top-1 union,4
+Action,2025-08-01,1295079.23,304,False,Without shared top-1 union,4
+Action,2025-09-01,1173286.68,304,False,Without shared top-1 union,4
+Action,2025-10-01,1151936.3,304,False,Without shared top-1 union,4
+Action,2025-11-01,1199430.05,304,False,Without shared top-1 union,4
+Action,2025-12-01,1293166,304,False,Without shared top-1 union,4
+Action,2026-01-01,1345494.35,304,False,Without shared top-1 union,4
+Indie,2021-02-01,920716.66,259,False,Without shared top-1 union,4
+Indie,2021-03-01,786379.62,259,False,Without shared top-1 union,4
+Indie,2021-04-01,711034.17,259,False,Without shared top-1 union,4
+Indie,2021-05-01,643851.04,259,False,Without shared top-1 union,4
+Indie,2021-06-01,617546.12,259,False,Without shared top-1 union,4
+Indie,2021-07-01,642667.78,259,False,Without shared top-1 union,4
+Indie,2021-08-01,635614.14,259,False,Without shared top-1 union,4
+Indie,2021-09-01,590064.88,259,False,Without shared top-1 union,4
+Indie,2021-10-01,572021.18,259,False,Without shared top-1 union,4
+Indie,2021-11-01,619271.94,259,False,Without shared top-1 union,4
+Indie,2021-12-01,678508.63,259,False,Without shared top-1 union,4
+Indie,2022-01-01,778058.94,259,False,Without shared top-1 union,4
+Indie,2022-02-01,695888.84,259,False,Without shared top-1 union,4
+Indie,2022-03-01,608691.22,259,False,Without shared top-1 union,4
+Indie,2022-04-01,618838.47,259,False,Without shared top-1 union,4
+Indie,2022-05-01,631785.06,259,False,Without shared top-1 union,4
+Indie,2022-06-01,704218.87,259,False,Without shared top-1 union,4
+Indie,2022-07-01,753505.41,259,False,Without shared top-1 union,4
+Indie,2022-08-01,667345.45,259,False,Without shared top-1 union,4
+Indie,2022-09-01,595609.85,259,False,Without shared top-1 union,4
+Indie,2022-10-01,651839,259,False,Without shared top-1 union,4
+Indie,2022-11-01,694389.03,259,False,Without shared top-1 union,4
+Indie,2022-12-01,790430.73,259,False,Without shared top-1 union,4
+Indie,2023-01-01,852634.92,259,False,Without shared top-1 union,4
+Indie,2023-02-01,713870.63,259,False,Without shared top-1 union,4
+Indie,2023-03-01,678184.97,259,False,Without shared top-1 union,4
+Indie,2023-04-01,729261.32,259,False,Without shared top-1 union,4
+Indie,2023-05-01,664030.09,259,False,Without shared top-1 union,4
+Indie,2023-06-01,646093.6,259,False,Without shared top-1 union,4
+Indie,2023-07-01,762351.07,259,False,Without shared top-1 union,4
+Indie,2023-08-01,709241.05,259,False,Without shared top-1 union,4
+Indie,2023-09-01,661397.3,259,False,Without shared top-1 union,4
+Indie,2023-10-01,669436.86,259,False,Without shared top-1 union,4
+Indie,2023-11-01,671078.7,259,False,Without shared top-1 union,4
+Indie,2023-12-01,734411.81,259,False,Without shared top-1 union,4
+Indie,2024-01-01,745393.51,259,False,Without shared top-1 union,4
+Indie,2024-02-01,666589.79,259,False,Without shared top-1 union,4
+Indie,2024-03-01,762607.85,259,False,Without shared top-1 union,4
+Indie,2024-04-01,769676.09,259,False,Without shared top-1 union,4
+Indie,2024-05-01,715297.16,259,False,Without shared top-1 union,4
+Indie,2024-06-01,669808.71,259,False,Without shared top-1 union,4
+Indie,2024-07-01,758956.82,259,False,Without shared top-1 union,4
+Indie,2024-08-01,739004.49,259,False,Without shared top-1 union,4
+Indie,2024-09-01,685582.82,259,False,Without shared top-1 union,4
+Indie,2024-10-01,682945.7,259,False,Without shared top-1 union,4
+Indie,2024-11-01,708556.16,259,False,Without shared top-1 union,4
+Indie,2024-12-01,751367.81,259,False,Without shared top-1 union,4
+Indie,2025-01-01,754210.17,259,False,Without shared top-1 union,4
+Indie,2025-02-01,682226.09,259,False,Without shared top-1 union,4
+Indie,2025-03-01,673626.62,259,False,Without shared top-1 union,4
+Indie,2025-04-01,644483.98,259,False,Without shared top-1 union,4
+Indie,2025-05-01,609028.74,259,False,Without shared top-1 union,4
+Indie,2025-06-01,681308,259,False,Without shared top-1 union,4
+Indie,2025-07-01,758583.62,259,False,Without shared top-1 union,4
+Indie,2025-08-01,673418.21,259,False,Without shared top-1 union,4
+Indie,2025-09-01,582689.98,259,False,Without shared top-1 union,4
+Indie,2025-10-01,619810.76,259,False,Without shared top-1 union,4
+Indie,2025-11-01,663532.4,259,False,Without shared top-1 union,4
+Indie,2025-12-01,682876.28,259,False,Without shared top-1 union,4
+Indie,2026-01-01,754032.3,259,False,Without shared top-1 union,4
+Massively Multiplayer,2021-02-01,412785.18,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-03-01,379663.98,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-04-01,400548.56,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-05-01,381336.91,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-06-01,394612.06,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-07-01,392998.66,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-08-01,401516.08,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-09-01,346284.85,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-10-01,341602.34,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-11-01,350766.85,69,False,Without shared top-1 union,4
+Massively Multiplayer,2021-12-01,384029.58,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-01-01,397780.84,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-02-01,396046.64,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-03-01,345129.64,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-04-01,376253.21,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-05-01,383889.9,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-06-01,440187.42,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-07-01,432824.84,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-08-01,395745.42,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-09-01,387202.94,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-10-01,351797.74,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-11-01,358930.76,69,False,Without shared top-1 union,4
+Massively Multiplayer,2022-12-01,409945.16,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-01-01,444338.99,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-02-01,408328.3,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-03-01,389503.89,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-04-01,461630.78,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-05-01,412183.63,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-06-01,390761,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-07-01,407480.68,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-08-01,405776.32,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-09-01,382469.01,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-10-01,379063.65,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-11-01,375283.42,69,False,Without shared top-1 union,4
+Massively Multiplayer,2023-12-01,431244.99,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-01-01,433364.51,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-02-01,385801.82,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-03-01,368594.7,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-04-01,401886.06,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-05-01,366726.86,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-06-01,372817.68,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-07-01,391662.73,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-08-01,430885.76,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-09-01,374679.99,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-10-01,350364.99,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-11-01,363206.26,69,False,Without shared top-1 union,4
+Massively Multiplayer,2024-12-01,370170.5,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-01-01,383176.28,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-02-01,385299.37,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-03-01,384647.74,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-04-01,352469.56,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-05-01,355534.71,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-06-01,407111.19,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-07-01,389015.29,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-08-01,362823.98,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-09-01,329553.13,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-10-01,331893.07,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-11-01,385523.74,69,False,Without shared top-1 union,4
+Massively Multiplayer,2025-12-01,364207.54,69,False,Without shared top-1 union,4
+Massively Multiplayer,2026-01-01,389068.58,69,False,Without shared top-1 union,4
+RPG,2021-02-01,888727.78,143,False,Without shared top-1 union,4
+RPG,2021-03-01,784823.04,143,False,Without shared top-1 union,4
+RPG,2021-04-01,689973.34,143,False,Without shared top-1 union,4
+RPG,2021-05-01,649040.85,143,False,Without shared top-1 union,4
+RPG,2021-06-01,657713.61,143,False,Without shared top-1 union,4
+RPG,2021-07-01,674233.21,143,False,Without shared top-1 union,4
+RPG,2021-08-01,662700.18,143,False,Without shared top-1 union,4
+RPG,2021-09-01,608771.46,143,False,Without shared top-1 union,4
+RPG,2021-10-01,571500.85,143,False,Without shared top-1 union,4
+RPG,2021-11-01,614979.38,143,False,Without shared top-1 union,4
+RPG,2021-12-01,728925.16,143,False,Without shared top-1 union,4
+RPG,2022-01-01,788305.99,143,False,Without shared top-1 union,4
+RPG,2022-02-01,705474.41,143,False,Without shared top-1 union,4
+RPG,2022-03-01,557232.63,143,False,Without shared top-1 union,4
+RPG,2022-04-01,582623.28,143,False,Without shared top-1 union,4
+RPG,2022-05-01,599825.26,143,False,Without shared top-1 union,4
+RPG,2022-06-01,643676.83,143,False,Without shared top-1 union,4
+RPG,2022-07-01,669304.9,143,False,Without shared top-1 union,4
+RPG,2022-08-01,630539.49,143,False,Without shared top-1 union,4
+RPG,2022-09-01,637662.7,143,False,Without shared top-1 union,4
+RPG,2022-10-01,652785.82,143,False,Without shared top-1 union,4
+RPG,2022-11-01,647167.36,143,False,Without shared top-1 union,4
+RPG,2022-12-01,755112.78,143,False,Without shared top-1 union,4
+RPG,2023-01-01,810116.1,143,False,Without shared top-1 union,4
+RPG,2023-02-01,681244.55,143,False,Without shared top-1 union,4
+RPG,2023-03-01,648201.28,143,False,Without shared top-1 union,4
+RPG,2023-04-01,717543.78,143,False,Without shared top-1 union,4
+RPG,2023-05-01,635905.98,143,False,Without shared top-1 union,4
+RPG,2023-06-01,620906.52,143,False,Without shared top-1 union,4
+RPG,2023-07-01,729726.64,143,False,Without shared top-1 union,4
+RPG,2023-08-01,1100835.63,143,False,Without shared top-1 union,4
+RPG,2023-09-01,913603.6,143,False,Without shared top-1 union,4
+RPG,2023-10-01,829205.76,143,False,Without shared top-1 union,4
+RPG,2023-11-01,726809.36,143,False,Without shared top-1 union,4
+RPG,2023-12-01,839608.61,143,False,Without shared top-1 union,4
+RPG,2024-01-01,891259.66,143,False,Without shared top-1 union,4
+RPG,2024-02-01,759128.81,143,False,Without shared top-1 union,4
+RPG,2024-03-01,816445.2,143,False,Without shared top-1 union,4
+RPG,2024-04-01,879078.99,143,False,Without shared top-1 union,4
+RPG,2024-05-01,841677.33,143,False,Without shared top-1 union,4
+RPG,2024-06-01,738476.16,143,False,Without shared top-1 union,4
+RPG,2024-07-01,814045.29,143,False,Without shared top-1 union,4
+RPG,2024-08-01,795187.89,143,False,Without shared top-1 union,4
+RPG,2024-09-01,677833.15,143,False,Without shared top-1 union,4
+RPG,2024-10-01,656175.89,143,False,Without shared top-1 union,4
+RPG,2024-11-01,676104.42,143,False,Without shared top-1 union,4
+RPG,2024-12-01,754095.5,143,False,Without shared top-1 union,4
+RPG,2025-01-01,793443.04,143,False,Without shared top-1 union,4
+RPG,2025-02-01,728387.41,143,False,Without shared top-1 union,4
+RPG,2025-03-01,701002.41,143,False,Without shared top-1 union,4
+RPG,2025-04-01,700150.32,143,False,Without shared top-1 union,4
+RPG,2025-05-01,676531.26,143,False,Without shared top-1 union,4
+RPG,2025-06-01,728113.59,143,False,Without shared top-1 union,4
+RPG,2025-07-01,759133.44,143,False,Without shared top-1 union,4
+RPG,2025-08-01,722822.73,143,False,Without shared top-1 union,4
+RPG,2025-09-01,625139.68,143,False,Without shared top-1 union,4
+RPG,2025-10-01,652324.58,143,False,Without shared top-1 union,4
+RPG,2025-11-01,716832.54,143,False,Without shared top-1 union,4
+RPG,2025-12-01,763505.47,143,False,Without shared top-1 union,4
+RPG,2026-01-01,855980.1,143,False,Without shared top-1 union,4
+Strategy,2021-02-01,628119.03,173,False,Without shared top-1 union,4
+Strategy,2021-03-01,593181.84,173,False,Without shared top-1 union,4
+Strategy,2021-04-01,581815.6,173,False,Without shared top-1 union,4
+Strategy,2021-05-01,572556.17,173,False,Without shared top-1 union,4
+Strategy,2021-06-01,543107.07,173,False,Without shared top-1 union,4
+Strategy,2021-07-01,570928.84,173,False,Without shared top-1 union,4
+Strategy,2021-08-01,563563.53,173,False,Without shared top-1 union,4
+Strategy,2021-09-01,548136.71,173,False,Without shared top-1 union,4
+Strategy,2021-10-01,524359.58,173,False,Without shared top-1 union,4
+Strategy,2021-11-01,543484.21,173,False,Without shared top-1 union,4
+Strategy,2021-12-01,584355.88,173,False,Without shared top-1 union,4
+Strategy,2022-01-01,641316.27,173,False,Without shared top-1 union,4
+Strategy,2022-02-01,586624.5,173,False,Without shared top-1 union,4
+Strategy,2022-03-01,527910.79,173,False,Without shared top-1 union,4
+Strategy,2022-04-01,563299.97,173,False,Without shared top-1 union,4
+Strategy,2022-05-01,559167.77,173,False,Without shared top-1 union,4
+Strategy,2022-06-01,532593.64,173,False,Without shared top-1 union,4
+Strategy,2022-07-01,556103.04,173,False,Without shared top-1 union,4
+Strategy,2022-08-01,527030.95,173,False,Without shared top-1 union,4
+Strategy,2022-09-01,530582.51,173,False,Without shared top-1 union,4
+Strategy,2022-10-01,533956.67,173,False,Without shared top-1 union,4
+Strategy,2022-11-01,549924.79,173,False,Without shared top-1 union,4
+Strategy,2022-12-01,575319.29,173,False,Without shared top-1 union,4
+Strategy,2023-01-01,618325.46,173,False,Without shared top-1 union,4
+Strategy,2023-02-01,555524.97,173,False,Without shared top-1 union,4
+Strategy,2023-03-01,552237.91,173,False,Without shared top-1 union,4
+Strategy,2023-04-01,562730.61,173,False,Without shared top-1 union,4
+Strategy,2023-05-01,550088.9,173,False,Without shared top-1 union,4
+Strategy,2023-06-01,535385.99,173,False,Without shared top-1 union,4
+Strategy,2023-07-01,622030.68,173,False,Without shared top-1 union,4
+Strategy,2023-08-01,985697.19,173,False,Without shared top-1 union,4
+Strategy,2023-09-01,784345.93,173,False,Without shared top-1 union,4
+Strategy,2023-10-01,677961.77,173,False,Without shared top-1 union,4
+Strategy,2023-11-01,646873.78,173,False,Without shared top-1 union,4
+Strategy,2023-12-01,693410.86,173,False,Without shared top-1 union,4
+Strategy,2024-01-01,734598.48,173,False,Without shared top-1 union,4
+Strategy,2024-02-01,627561.48,173,False,Without shared top-1 union,4
+Strategy,2024-03-01,625358.8,173,False,Without shared top-1 union,4
+Strategy,2024-04-01,611296.74,173,False,Without shared top-1 union,4
+Strategy,2024-05-01,596558.78,173,False,Without shared top-1 union,4
+Strategy,2024-06-01,599614.93,173,False,Without shared top-1 union,4
+Strategy,2024-07-01,639695.19,173,False,Without shared top-1 union,4
+Strategy,2024-08-01,622391.74,173,False,Without shared top-1 union,4
+Strategy,2024-09-01,660645.18,173,False,Without shared top-1 union,4
+Strategy,2024-10-01,655580.11,173,False,Without shared top-1 union,4
+Strategy,2024-11-01,651409.13,173,False,Without shared top-1 union,4
+Strategy,2024-12-01,657940.01,173,False,Without shared top-1 union,4
+Strategy,2025-01-01,675255.85,173,False,Without shared top-1 union,4
+Strategy,2025-02-01,606802.51,173,False,Without shared top-1 union,4
+Strategy,2025-03-01,599033.32,173,False,Without shared top-1 union,4
+Strategy,2025-04-01,585559.36,173,False,Without shared top-1 union,4
+Strategy,2025-05-01,593162.08,173,False,Without shared top-1 union,4
+Strategy,2025-06-01,580442.94,173,False,Without shared top-1 union,4
+Strategy,2025-07-01,617767.76,173,False,Without shared top-1 union,4
+Strategy,2025-08-01,601765.12,173,False,Without shared top-1 union,4
+Strategy,2025-09-01,556031.76,173,False,Without shared top-1 union,4
+Strategy,2025-10-01,570584.18,173,False,Without shared top-1 union,4
+Strategy,2025-11-01,557326.76,173,False,Without shared top-1 union,4
+Strategy,2025-12-01,602592.34,173,False,Without shared top-1 union,4
+Strategy,2026-01-01,657587.13,173,False,Without shared top-1 union,4
+Action,2021-02-01,1463743.77,298,False,Without shared top-5 union,17
+Action,2021-03-01,1343384.5,298,False,Without shared top-5 union,17
+Action,2021-04-01,1303580.56,298,False,Without shared top-5 union,17
+Action,2021-05-01,1214231.26,298,False,Without shared top-5 union,17
+Action,2021-06-01,1234152.02,298,False,Without shared top-5 union,17
+Action,2021-07-01,1255207.98,298,False,Without shared top-5 union,17
+Action,2021-08-01,1192705.54,298,False,Without shared top-5 union,17
+Action,2021-09-01,1151680.36,298,False,Without shared top-5 union,17
+Action,2021-10-01,1085550.2,298,False,Without shared top-5 union,17
+Action,2021-11-01,1086984.12,298,False,Without shared top-5 union,17
+Action,2021-12-01,1178069.12,298,False,Without shared top-5 union,17
+Action,2022-01-01,1240125.02,298,False,Without shared top-5 union,17
+Action,2022-02-01,1177380.53,298,False,Without shared top-5 union,17
+Action,2022-03-01,1074309.91,298,False,Without shared top-5 union,17
+Action,2022-04-01,1057209.42,298,False,Without shared top-5 union,17
+Action,2022-05-01,1050602.99,298,False,Without shared top-5 union,17
+Action,2022-06-01,1159317.53,298,False,Without shared top-5 union,17
+Action,2022-07-01,1212010.11,298,False,Without shared top-5 union,17
+Action,2022-08-01,1145753.28,298,False,Without shared top-5 union,17
+Action,2022-09-01,1097788.68,298,False,Without shared top-5 union,17
+Action,2022-10-01,1072759.8,298,False,Without shared top-5 union,17
+Action,2022-11-01,1086858.73,298,False,Without shared top-5 union,17
+Action,2022-12-01,1277900.88,298,False,Without shared top-5 union,17
+Action,2023-01-01,1345932.46,298,False,Without shared top-5 union,17
+Action,2023-02-01,1179744.34,298,False,Without shared top-5 union,17
+Action,2023-03-01,1241736.27,298,False,Without shared top-5 union,17
+Action,2023-04-01,1214397.39,298,False,Without shared top-5 union,17
+Action,2023-05-01,1105514.77,298,False,Without shared top-5 union,17
+Action,2023-06-01,1097896.4,298,False,Without shared top-5 union,17
+Action,2023-07-01,1264321.76,298,False,Without shared top-5 union,17
+Action,2023-08-01,1139068.96,298,False,Without shared top-5 union,17
+Action,2023-09-01,1111348.41,298,False,Without shared top-5 union,17
+Action,2023-10-01,1073540.05,298,False,Without shared top-5 union,17
+Action,2023-11-01,1057444.46,298,False,Without shared top-5 union,17
+Action,2023-12-01,1300295.51,298,False,Without shared top-5 union,17
+Action,2024-01-01,1280086.32,298,False,Without shared top-5 union,17
+Action,2024-02-01,1157129.78,298,False,Without shared top-5 union,17
+Action,2024-03-01,1242804.35,298,False,Without shared top-5 union,17
+Action,2024-04-01,1158209.6,298,False,Without shared top-5 union,17
+Action,2024-05-01,1121916.32,298,False,Without shared top-5 union,17
+Action,2024-06-01,1180589.14,298,False,Without shared top-5 union,17
+Action,2024-07-01,1190924.46,298,False,Without shared top-5 union,17
+Action,2024-08-01,1125039.61,298,False,Without shared top-5 union,17
+Action,2024-09-01,997801.59,298,False,Without shared top-5 union,17
+Action,2024-10-01,944480.02,298,False,Without shared top-5 union,17
+Action,2024-11-01,1007832.55,298,False,Without shared top-5 union,17
+Action,2024-12-01,1121099.21,298,False,Without shared top-5 union,17
+Action,2025-01-01,1103108.65,298,False,Without shared top-5 union,17
+Action,2025-02-01,1106840.9,298,False,Without shared top-5 union,17
+Action,2025-03-01,1019534.11,298,False,Without shared top-5 union,17
+Action,2025-04-01,931768.44,298,False,Without shared top-5 union,17
+Action,2025-05-01,910960.69,298,False,Without shared top-5 union,17
+Action,2025-06-01,1027102.68,298,False,Without shared top-5 union,17
+Action,2025-07-01,1055601.58,298,False,Without shared top-5 union,17
+Action,2025-08-01,998819.72,298,False,Without shared top-5 union,17
+Action,2025-09-01,921506.43,298,False,Without shared top-5 union,17
+Action,2025-10-01,901557.58,298,False,Without shared top-5 union,17
+Action,2025-11-01,919593.71,298,False,Without shared top-5 union,17
+Action,2025-12-01,983115.65,298,False,Without shared top-5 union,17
+Action,2026-01-01,1002671.63,298,False,Without shared top-5 union,17
+Indie,2021-02-01,798917.53,254,False,Without shared top-5 union,17
+Indie,2021-03-01,684123.47,254,False,Without shared top-5 union,17
+Indie,2021-04-01,607578.25,254,False,Without shared top-5 union,17
+Indie,2021-05-01,540125.97,254,False,Without shared top-5 union,17
+Indie,2021-06-01,520777.25,254,False,Without shared top-5 union,17
+Indie,2021-07-01,538173.6,254,False,Without shared top-5 union,17
+Indie,2021-08-01,529986.47,254,False,Without shared top-5 union,17
+Indie,2021-09-01,496596.54,254,False,Without shared top-5 union,17
+Indie,2021-10-01,480624.19,254,False,Without shared top-5 union,17
+Indie,2021-11-01,511270.48,254,False,Without shared top-5 union,17
+Indie,2021-12-01,535437.61,254,False,Without shared top-5 union,17
+Indie,2022-01-01,594961.45,254,False,Without shared top-5 union,17
+Indie,2022-02-01,556734.07,254,False,Without shared top-5 union,17
+Indie,2022-03-01,497405.95,254,False,Without shared top-5 union,17
+Indie,2022-04-01,503435.48,254,False,Without shared top-5 union,17
+Indie,2022-05-01,519055.29,254,False,Without shared top-5 union,17
+Indie,2022-06-01,586785.24,254,False,Without shared top-5 union,17
+Indie,2022-07-01,616332.33,254,False,Without shared top-5 union,17
+Indie,2022-08-01,539598.18,254,False,Without shared top-5 union,17
+Indie,2022-09-01,484185.27,254,False,Without shared top-5 union,17
+Indie,2022-10-01,507548.89,254,False,Without shared top-5 union,17
+Indie,2022-11-01,564795.51,254,False,Without shared top-5 union,17
+Indie,2022-12-01,650885.02,254,False,Without shared top-5 union,17
+Indie,2023-01-01,684033.38,254,False,Without shared top-5 union,17
+Indie,2023-02-01,561914.66,254,False,Without shared top-5 union,17
+Indie,2023-03-01,538838.2,254,False,Without shared top-5 union,17
+Indie,2023-04-01,588430.56,254,False,Without shared top-5 union,17
+Indie,2023-05-01,540523.21,254,False,Without shared top-5 union,17
+Indie,2023-06-01,507875.04,254,False,Without shared top-5 union,17
+Indie,2023-07-01,571764.54,254,False,Without shared top-5 union,17
+Indie,2023-08-01,555201.99,254,False,Without shared top-5 union,17
+Indie,2023-09-01,531680.13,254,False,Without shared top-5 union,17
+Indie,2023-10-01,529292.9,254,False,Without shared top-5 union,17
+Indie,2023-11-01,525431.34,254,False,Without shared top-5 union,17
+Indie,2023-12-01,587503.61,254,False,Without shared top-5 union,17
+Indie,2024-01-01,586881.44,254,False,Without shared top-5 union,17
+Indie,2024-02-01,539737.44,254,False,Without shared top-5 union,17
+Indie,2024-03-01,580388.68,254,False,Without shared top-5 union,17
+Indie,2024-04-01,549794.59,254,False,Without shared top-5 union,17
+Indie,2024-05-01,524428.29,254,False,Without shared top-5 union,17
+Indie,2024-06-01,495173.23,254,False,Without shared top-5 union,17
+Indie,2024-07-01,533605.57,254,False,Without shared top-5 union,17
+Indie,2024-08-01,540053.86,254,False,Without shared top-5 union,17
+Indie,2024-09-01,533117.84,254,False,Without shared top-5 union,17
+Indie,2024-10-01,518636.09,254,False,Without shared top-5 union,17
+Indie,2024-11-01,548273.87,254,False,Without shared top-5 union,17
+Indie,2024-12-01,567855.95,254,False,Without shared top-5 union,17
+Indie,2025-01-01,556749.76,254,False,Without shared top-5 union,17
+Indie,2025-02-01,513433.13,254,False,Without shared top-5 union,17
+Indie,2025-03-01,507474.18,254,False,Without shared top-5 union,17
+Indie,2025-04-01,492494.26,254,False,Without shared top-5 union,17
+Indie,2025-05-01,460873.39,254,False,Without shared top-5 union,17
+Indie,2025-06-01,519773.51,254,False,Without shared top-5 union,17
+Indie,2025-07-01,548611.38,254,False,Without shared top-5 union,17
+Indie,2025-08-01,492342.2,254,False,Without shared top-5 union,17
+Indie,2025-09-01,436304.3,254,False,Without shared top-5 union,17
+Indie,2025-10-01,462862.65,254,False,Without shared top-5 union,17
+Indie,2025-11-01,515793.9,254,False,Without shared top-5 union,17
+Indie,2025-12-01,509458.01,254,False,Without shared top-5 union,17
+Indie,2026-01-01,532694.33,254,False,Without shared top-5 union,17
+Massively Multiplayer,2021-02-01,347295.35,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-03-01,314968.25,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-04-01,338098.48,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-05-01,319818.48,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-06-01,336191.4,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-07-01,335646.29,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-08-01,339092.12,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-09-01,285623.07,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-10-01,278451.9,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-11-01,283464.49,66,False,Without shared top-5 union,17
+Massively Multiplayer,2021-12-01,313666.64,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-01-01,316527.05,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-02-01,317626.85,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-03-01,259478.73,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-04-01,280962.73,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-05-01,293022.77,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-06-01,347010.71,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-07-01,341096.46,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-08-01,305078.75,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-09-01,296793.97,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-10-01,261373.14,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-11-01,260770.36,66,False,Without shared top-5 union,17
+Massively Multiplayer,2022-12-01,309325.86,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-01-01,329698.55,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-02-01,292198.47,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-03-01,274862.06,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-04-01,341525.27,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-05-01,300644.09,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-06-01,281602.18,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-07-01,296299.84,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-08-01,297449.01,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-09-01,277292.52,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-10-01,269841.16,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-11-01,253533.81,66,False,Without shared top-5 union,17
+Massively Multiplayer,2023-12-01,305210.46,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-01-01,302472.4,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-02-01,254485.96,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-03-01,245718.56,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-04-01,287639.5,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-05-01,254348.27,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-06-01,251105.16,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-07-01,273502,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-08-01,305566.41,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-09-01,254555.51,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-10-01,222542.6,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-11-01,228516.59,66,False,Without shared top-5 union,17
+Massively Multiplayer,2024-12-01,235635.98,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-01-01,242672.23,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-02-01,247071.25,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-03-01,247204.22,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-04-01,224287.42,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-05-01,225176.04,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-06-01,274689.03,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-07-01,260207.15,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-08-01,234601.39,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-09-01,206359.06,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-10-01,207309.7,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-11-01,255833.36,66,False,Without shared top-5 union,17
+Massively Multiplayer,2025-12-01,228688.22,66,False,Without shared top-5 union,17
+Massively Multiplayer,2026-01-01,243546.71,66,False,Without shared top-5 union,17
+RPG,2021-02-01,748932.59,137,False,Without shared top-5 union,17
+RPG,2021-03-01,657035.45,137,False,Without shared top-5 union,17
+RPG,2021-04-01,563214.68,137,False,Without shared top-5 union,17
+RPG,2021-05-01,519967.54,137,False,Without shared top-5 union,17
+RPG,2021-06-01,540472.85,137,False,Without shared top-5 union,17
+RPG,2021-07-01,537963.95,137,False,Without shared top-5 union,17
+RPG,2021-08-01,524714.57,137,False,Without shared top-5 union,17
+RPG,2021-09-01,486812.91,137,False,Without shared top-5 union,17
+RPG,2021-10-01,456756.34,137,False,Without shared top-5 union,17
+RPG,2021-11-01,487532.63,137,False,Without shared top-5 union,17
+RPG,2021-12-01,552341.78,137,False,Without shared top-5 union,17
+RPG,2022-01-01,583539.99,137,False,Without shared top-5 union,17
+RPG,2022-02-01,552874.18,137,False,Without shared top-5 union,17
+RPG,2022-03-01,434304.46,137,False,Without shared top-5 union,17
+RPG,2022-04-01,444120.04,137,False,Without shared top-5 union,17
+RPG,2022-05-01,459503.11,137,False,Without shared top-5 union,17
+RPG,2022-06-01,507822.13,137,False,Without shared top-5 union,17
+RPG,2022-07-01,509960.42,137,False,Without shared top-5 union,17
+RPG,2022-08-01,483363.17,137,False,Without shared top-5 union,17
+RPG,2022-09-01,506089.96,137,False,Without shared top-5 union,17
+RPG,2022-10-01,493997.64,137,False,Without shared top-5 union,17
+RPG,2022-11-01,507263.33,137,False,Without shared top-5 union,17
+RPG,2022-12-01,595665.97,137,False,Without shared top-5 union,17
+RPG,2023-01-01,623135.57,137,False,Without shared top-5 union,17
+RPG,2023-02-01,507439.54,137,False,Without shared top-5 union,17
+RPG,2023-03-01,487104.94,137,False,Without shared top-5 union,17
+RPG,2023-04-01,549607.69,137,False,Without shared top-5 union,17
+RPG,2023-05-01,478302.96,137,False,Without shared top-5 union,17
+RPG,2023-06-01,457530.75,137,False,Without shared top-5 union,17
+RPG,2023-07-01,513732.74,137,False,Without shared top-5 union,17
+RPG,2023-08-01,481288.7,137,False,Without shared top-5 union,17
+RPG,2023-09-01,494600.85,137,False,Without shared top-5 union,17
+RPG,2023-10-01,522714.03,137,False,Without shared top-5 union,17
+RPG,2023-11-01,462224.66,137,False,Without shared top-5 union,17
+RPG,2023-12-01,534614.08,137,False,Without shared top-5 union,17
+RPG,2024-01-01,536357.09,137,False,Without shared top-5 union,17
+RPG,2024-02-01,493022.07,137,False,Without shared top-5 union,17
+RPG,2024-03-01,524157.36,137,False,Without shared top-5 union,17
+RPG,2024-04-01,565794.65,137,False,Without shared top-5 union,17
+RPG,2024-05-01,572467.66,137,False,Without shared top-5 union,17
+RPG,2024-06-01,485097.65,137,False,Without shared top-5 union,17
+RPG,2024-07-01,511031.82,137,False,Without shared top-5 union,17
+RPG,2024-08-01,508653.23,137,False,Without shared top-5 union,17
+RPG,2024-09-01,433826.4,137,False,Without shared top-5 union,17
+RPG,2024-10-01,400893.68,137,False,Without shared top-5 union,17
+RPG,2024-11-01,434422.59,137,False,Without shared top-5 union,17
+RPG,2024-12-01,486750.15,137,False,Without shared top-5 union,17
+RPG,2025-01-01,507965.72,137,False,Without shared top-5 union,17
+RPG,2025-02-01,473831.45,137,False,Without shared top-5 union,17
+RPG,2025-03-01,458811.95,137,False,Without shared top-5 union,17
+RPG,2025-04-01,455201.15,137,False,Without shared top-5 union,17
+RPG,2025-05-01,434831.04,137,False,Without shared top-5 union,17
+RPG,2025-06-01,491509.3,137,False,Without shared top-5 union,17
+RPG,2025-07-01,476533.54,137,False,Without shared top-5 union,17
+RPG,2025-08-01,466141.75,137,False,Without shared top-5 union,17
+RPG,2025-09-01,414888.64,137,False,Without shared top-5 union,17
+RPG,2025-10-01,431053.58,137,False,Without shared top-5 union,17
+RPG,2025-11-01,494127.06,137,False,Without shared top-5 union,17
+RPG,2025-12-01,486365.89,137,False,Without shared top-5 union,17
+RPG,2026-01-01,524227.67,137,False,Without shared top-5 union,17
+Strategy,2021-02-01,538975.44,169,False,Without shared top-5 union,17
+Strategy,2021-03-01,514963.62,169,False,Without shared top-5 union,17
+Strategy,2021-04-01,501336.67,169,False,Without shared top-5 union,17
+Strategy,2021-05-01,493621.15,169,False,Without shared top-5 union,17
+Strategy,2021-06-01,468108.99,169,False,Without shared top-5 union,17
+Strategy,2021-07-01,488506.47,169,False,Without shared top-5 union,17
+Strategy,2021-08-01,483366.94,169,False,Without shared top-5 union,17
+Strategy,2021-09-01,463995.49,169,False,Without shared top-5 union,17
+Strategy,2021-10-01,449910.44,169,False,Without shared top-5 union,17
+Strategy,2021-11-01,462519.58,169,False,Without shared top-5 union,17
+Strategy,2021-12-01,482035.21,169,False,Without shared top-5 union,17
+Strategy,2022-01-01,527367.5,169,False,Without shared top-5 union,17
+Strategy,2022-02-01,487029.32,169,False,Without shared top-5 union,17
+Strategy,2022-03-01,434174.29,169,False,Without shared top-5 union,17
+Strategy,2022-04-01,467033.41,169,False,Without shared top-5 union,17
+Strategy,2022-05-01,467854.96,169,False,Without shared top-5 union,17
+Strategy,2022-06-01,448659.89,169,False,Without shared top-5 union,17
+Strategy,2022-07-01,465558.83,169,False,Without shared top-5 union,17
+Strategy,2022-08-01,434647.73,169,False,Without shared top-5 union,17
+Strategy,2022-09-01,442258.24,169,False,Without shared top-5 union,17
+Strategy,2022-10-01,446686.08,169,False,Without shared top-5 union,17
+Strategy,2022-11-01,454664.56,169,False,Without shared top-5 union,17
+Strategy,2022-12-01,474557.37,169,False,Without shared top-5 union,17
+Strategy,2023-01-01,505301.16,169,False,Without shared top-5 union,17
+Strategy,2023-02-01,454153.02,169,False,Without shared top-5 union,17
+Strategy,2023-03-01,453343.94,169,False,Without shared top-5 union,17
+Strategy,2023-04-01,462952.15,169,False,Without shared top-5 union,17
+Strategy,2023-05-01,461073.38,169,False,Without shared top-5 union,17
+Strategy,2023-06-01,433106.56,169,False,Without shared top-5 union,17
+Strategy,2023-07-01,477343.13,169,False,Without shared top-5 union,17
+Strategy,2023-08-01,428339.86,169,False,Without shared top-5 union,17
+Strategy,2023-09-01,415691.46,169,False,Without shared top-5 union,17
+Strategy,2023-10-01,425818.72,169,False,Without shared top-5 union,17
+Strategy,2023-11-01,443406.94,169,False,Without shared top-5 union,17
+Strategy,2023-12-01,455520.64,169,False,Without shared top-5 union,17
+Strategy,2024-01-01,464576.6,169,False,Without shared top-5 union,17
+Strategy,2024-02-01,426061.14,169,False,Without shared top-5 union,17
+Strategy,2024-03-01,436763.64,169,False,Without shared top-5 union,17
+Strategy,2024-04-01,438925.96,169,False,Without shared top-5 union,17
+Strategy,2024-05-01,427671.02,169,False,Without shared top-5 union,17
+Strategy,2024-06-01,420245.43,169,False,Without shared top-5 union,17
+Strategy,2024-07-01,432537.2,169,False,Without shared top-5 union,17
+Strategy,2024-08-01,412640.74,169,False,Without shared top-5 union,17
+Strategy,2024-09-01,471859.99,169,False,Without shared top-5 union,17
+Strategy,2024-10-01,487905.31,169,False,Without shared top-5 union,17
+Strategy,2024-11-01,484461.59,169,False,Without shared top-5 union,17
+Strategy,2024-12-01,485662.63,169,False,Without shared top-5 union,17
+Strategy,2025-01-01,492559.21,169,False,Without shared top-5 union,17
+Strategy,2025-02-01,443486.54,169,False,Without shared top-5 union,17
+Strategy,2025-03-01,451957.51,169,False,Without shared top-5 union,17
+Strategy,2025-04-01,427600.62,169,False,Without shared top-5 union,17
+Strategy,2025-05-01,431834.95,169,False,Without shared top-5 union,17
+Strategy,2025-06-01,430119.66,169,False,Without shared top-5 union,17
+Strategy,2025-07-01,454497.46,169,False,Without shared top-5 union,17
+Strategy,2025-08-01,445716.64,169,False,Without shared top-5 union,17
+Strategy,2025-09-01,418736.73,169,False,Without shared top-5 union,17
+Strategy,2025-10-01,436837.79,169,False,Without shared top-5 union,17
+Strategy,2025-11-01,421999.13,169,False,Without shared top-5 union,17
+Strategy,2025-12-01,460074.93,169,False,Without shared top-5 union,17
+Strategy,2026-01-01,489872.58,169,False,Without shared top-5 union,17

@@ -1,0 +1,894 @@
+{
+  "sources": {
+    "policy": "reports/fixed_cohort_forecast_2027/frozen_policy.json",
+    "scores": "reports/fixed_cohort_evaluation/scores.csv",
+    "folds": "reports/fixed_cohort_diagnostics/leader_fold_stability.csv",
+    "bias": "reports/fixed_cohort_diagnostics/leader_bias.csv",
+    "cutoff": "reports/fixed_cohort_diagnostics/cutoff_sensitivity.csv",
+    "evaluation": "reports/fixed_cohort_evaluation/manifest.json"
+  },
+  "window": "Leads 12 to 23",
+  "status": "Provisional retrospective development policy; no independent holdout",
+  "categories": {
+    "Action": {
+      "selected_model": "Last value",
+      "saved_reason": "Negligible smoothing gain and cutoff sensitivity",
+      "diagnostic_candidate": "Damped trend",
+      "folds": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Damped trend",
+          "origin": "2024-01-01",
+          "mae": "83958.57756081545",
+          "rmse": "98915.37146773239",
+          "mean_error": "-57453.267484505464",
+          "wape_pct": "2.670784062457383",
+          "worst_absolute_error": "197893.1217631497",
+          "observations": "12",
+          "last_value_mae": "84086.98416666663",
+          "skill_vs_last_value_pct": "0.15270687505770653",
+          "fold_rank": "1.0"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Damped trend",
+          "origin": "2024-02-01",
+          "mae": "90864.53624213226",
+          "rmse": "121429.16309977182",
+          "mean_error": "57913.318258994994",
+          "wape_pct": "2.873776548299426",
+          "worst_absolute_error": "292728.32471909095",
+          "observations": "12",
+          "last_value_mae": "90796.68416666678",
+          "skill_vs_last_value_pct": "-0.07472968433619442",
+          "fold_rank": "3.0"
+        }
+      ],
+      "bias": [
+        {
+          "category": "Action",
+          "model": "Damped trend",
+          "underpredicted_cases": "11",
+          "overpredicted_cases": "13",
+          "mean_error": "230.02538724476472"
+        }
+      ],
+      "cutoff": [
+        {
+          "category": "Action",
+          "model": "Damped seasonal",
+          "shared_months": "11",
+          "average_forecast_shift": "68872.53102641435",
+          "max_forecast_shift": "77186.63274380285",
+          "first_cutoff_mae": "153692.3088197354",
+          "second_cutoff_mae": "222564.83984614964"
+        },
+        {
+          "category": "Action",
+          "model": "Damped trend",
+          "shared_months": "11",
+          "average_forecast_shift": "97106.93881773645",
+          "max_forecast_shift": "97106.93891669158",
+          "first_cutoff_mae": "89455.32304745205",
+          "second_cutoff_mae": "72513.28274422693"
+        },
+        {
+          "category": "Action",
+          "model": "Gradient boosting",
+          "shared_months": "11",
+          "average_forecast_shift": "22704.380543449977",
+          "max_forecast_shift": "46405.20086015016",
+          "first_cutoff_mae": "89822.57670818557",
+          "second_cutoff_mae": "78005.36435445555"
+        },
+        {
+          "category": "Action",
+          "model": "Last value",
+          "shared_months": "11",
+          "average_forecast_shift": "97159.26000000024",
+          "max_forecast_shift": "97159.26000000024",
+          "first_cutoff_mae": "89573.2536363636",
+          "second_cutoff_mae": "72458.17727272738"
+        },
+        {
+          "category": "Action",
+          "model": "SES",
+          "shared_months": "11",
+          "average_forecast_shift": "97159.2585259201",
+          "max_forecast_shift": "97159.2585259201",
+          "first_cutoff_mae": "89573.25362441155",
+          "second_cutoff_mae": "72458.17687787687"
+        },
+        {
+          "category": "Action",
+          "model": "Seasonal naive",
+          "shared_months": "11",
+          "average_forecast_shift": "3874.076363636392",
+          "max_forecast_shift": "42614.84000000032",
+          "first_cutoff_mae": "120973.7709090909",
+          "second_cutoff_mae": "124847.8472727273"
+        }
+      ],
+      "scores": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Damped seasonal",
+          "mae": "184232.6119857037",
+          "rmse": "202793.95820604538",
+          "mean_error": "184184.3974151559",
+          "wape_pct": "5.83967680029897",
+          "worst_fold_mae": "227532.39298276883",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Damped trend",
+          "mae": "87411.55690147386",
+          "rmse": "110172.2672837521",
+          "mean_error": "230.02538724476472",
+          "wape_pct": "2.7722803053784046",
+          "worst_fold_mae": "90864.53624213226",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Gradient boosting",
+          "mae": "91582.12416554302",
+          "rmse": "120362.78384789434",
+          "mean_error": "85628.02324155785",
+          "wape_pct": "2.9045933304939995",
+          "worst_fold_mae": "94738.23728948862",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Last value",
+          "mae": "87441.8341666667",
+          "rmse": "110198.81241937756",
+          "mean_error": "0.8433333335160569",
+          "wape_pct": "2.773249679397633",
+          "worst_fold_mae": "90796.68416666678",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "SES",
+          "mae": "87441.83391879554",
+          "rmse": "110198.8120674125",
+          "mean_error": "0.8426225881739811",
+          "wape_pct": "2.7732496715569943",
+          "worst_fold_mae": "90796.68368407172",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Action",
+          "model": "Seasonal naive",
+          "mae": "121797.36750000002",
+          "rmse": "149747.0443500921",
+          "mean_error": "-9271.995833333232",
+          "wape_pct": "3.8624572768817997",
+          "worst_fold_mae": "130723.94333333336",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        }
+      ]
+    },
+    "Strategy": {
+      "selected_model": "Damped seasonal",
+      "saved_reason": "Seasonal smoothing leads both folds",
+      "diagnostic_candidate": "Damped seasonal",
+      "folds": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Damped seasonal",
+          "origin": "2024-01-01",
+          "mae": "57003.78793087532",
+          "rmse": "66033.36142115507",
+          "mean_error": "-49745.56848397214",
+          "wape_pct": "5.3036731052559425",
+          "worst_absolute_error": "113815.37306383892",
+          "observations": "12",
+          "last_value_mae": "103705.2883333334",
+          "skill_vs_last_value_pct": "45.0329015549799",
+          "fold_rank": "1.0"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Damped seasonal",
+          "origin": "2024-02-01",
+          "mae": "44318.53252108796",
+          "rmse": "48108.85305559337",
+          "mean_error": "-10862.687004720103",
+          "wape_pct": "4.0900782052866065",
+          "worst_absolute_error": "82106.39409030031",
+          "observations": "12",
+          "last_value_mae": "74007.855",
+          "skill_vs_last_value_pct": "40.11644774586702",
+          "fold_rank": "1.0"
+        }
+      ],
+      "bias": [
+        {
+          "category": "Strategy",
+          "model": "Damped seasonal",
+          "underpredicted_cases": "7",
+          "overpredicted_cases": "17",
+          "mean_error": "-30304.127744346126"
+        }
+      ],
+      "cutoff": [
+        {
+          "category": "Strategy",
+          "model": "Damped seasonal",
+          "shared_months": "11",
+          "average_forecast_shift": "31393.607020112697",
+          "max_forecast_shift": "33591.347389274044",
+          "first_cutoff_mae": "56012.58523133679",
+          "second_cutoff_mae": "43496.773395369964"
+        },
+        {
+          "category": "Strategy",
+          "model": "Damped trend",
+          "shared_months": "11",
+          "average_forecast_shift": "9263.52337715398",
+          "max_forecast_shift": "10255.29159055301",
+          "first_cutoff_mae": "106846.22164190364",
+          "second_cutoff_mae": "99447.29673575934"
+        },
+        {
+          "category": "Strategy",
+          "model": "Gradient boosting",
+          "shared_months": "11",
+          "average_forecast_shift": "24139.9809338061",
+          "max_forecast_shift": "32205.80842788727",
+          "first_cutoff_mae": "67621.80401110231",
+          "second_cutoff_mae": "59220.16152823589"
+        },
+        {
+          "category": "Strategy",
+          "model": "Last value",
+          "shared_months": "11",
+          "average_forecast_shift": "119343.95000000019",
+          "max_forecast_shift": "119343.95000000019",
+          "first_cutoff_mae": "108307.5118181819",
+          "second_cutoff_mae": "65151.53090909089"
+        },
+        {
+          "category": "Strategy",
+          "model": "SES",
+          "shared_months": "11",
+          "average_forecast_shift": "36188.176732912194",
+          "max_forecast_shift": "36188.176732912194",
+          "first_cutoff_mae": "86986.26457788335",
+          "second_cutoff_mae": "70887.23756850022"
+        },
+        {
+          "category": "Strategy",
+          "model": "Seasonal naive",
+          "shared_months": "11",
+          "average_forecast_shift": "8919.261818181809",
+          "max_forecast_shift": "98111.87999999989",
+          "first_cutoff_mae": "64379.71000000001",
+          "second_cutoff_mae": "58539.119090909095"
+        }
+      ],
+      "scores": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Damped seasonal",
+          "mae": "50661.16022598164",
+          "rmse": "57071.10723837422",
+          "mean_error": "-30304.127744346122",
+          "wape_pct": "4.696875655271274",
+          "worst_fold_mae": "57003.78793087532",
+          "wins_vs_last_value": "2",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Damped trend",
+          "mae": "97562.3403962036",
+          "rmse": "114914.7479168651",
+          "mean_error": "-93144.0894587279",
+          "wape_pct": "9.041751204346227",
+          "worst_fold_mae": "100723.15193765901",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Gradient boosting",
+          "mae": "63403.80864988189",
+          "rmse": "75859.47990354961",
+          "mean_error": "-28396.469598567823",
+          "wape_pct": "5.8748357774646545",
+          "worst_fold_mae": "64584.266534054965",
+          "wins_vs_last_value": "2",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Last value",
+          "mae": "88856.5716666667",
+          "rmse": "104038.77424650667",
+          "mean_error": "-35975.727499999986",
+          "wape_pct": "8.23943338686059",
+          "worst_fold_mae": "103705.2883333334",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "SES",
+          "mae": "78248.37501429714",
+          "rmse": "94079.40504381966",
+          "mean_error": "-51494.311950956886",
+          "wape_pct": "7.252251191641825",
+          "worst_fold_mae": "81989.2031811775",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Strategy",
+          "model": "Seasonal naive",
+          "mae": "60719.64250000001",
+          "rmse": "96682.00468229351",
+          "mean_error": "-14112.912499999988",
+          "wape_pct": "5.627575940954525",
+          "worst_fold_mae": "63438.13666666668",
+          "wins_vs_last_value": "2",
+          "folds": "2"
+        }
+      ]
+    },
+    "RPG": {
+      "selected_model": "Damped seasonal",
+      "saved_reason": "Seasonal smoothing leads both folds, gains vary",
+      "diagnostic_candidate": "Damped seasonal",
+      "folds": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Damped seasonal",
+          "origin": "2024-01-01",
+          "mae": "51434.729359522986",
+          "rmse": "68069.42830042088",
+          "mean_error": "-30807.308558460307",
+          "wape_pct": "6.28618236370549",
+          "worst_absolute_error": "152008.31380759808",
+          "observations": "12",
+          "last_value_mae": "163106.08499999993",
+          "skill_vs_last_value_pct": "68.46547487206071",
+          "fold_rank": "1.0"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Damped seasonal",
+          "origin": "2024-02-01",
+          "mae": "48574.279399169805",
+          "rmse": "61429.84998354507",
+          "mean_error": "-8734.287679750143",
+          "wape_pct": "5.901101711032539",
+          "worst_absolute_error": "136155.60820807342",
+          "observations": "12",
+          "last_value_mae": "50146.14083333332",
+          "skill_vs_last_value_pct": "3.134561120840351",
+          "fold_rank": "1.0"
+        }
+      ],
+      "bias": [
+        {
+          "category": "RPG",
+          "model": "Damped seasonal",
+          "underpredicted_cases": "14",
+          "overpredicted_cases": "10",
+          "mean_error": "-19770.798119105224"
+        }
+      ],
+      "cutoff": [
+        {
+          "category": "RPG",
+          "model": "Damped seasonal",
+          "shared_months": "11",
+          "average_forecast_shift": "17448.406021276372",
+          "max_forecast_shift": "23001.940515093855",
+          "first_cutoff_mae": "49972.02214733274",
+          "second_cutoff_mae": "52497.46156119744"
+        },
+        {
+          "category": "RPG",
+          "model": "Damped trend",
+          "shared_months": "11",
+          "average_forecast_shift": "140044.6065829708",
+          "max_forecast_shift": "140044.60723987292",
+          "first_cutoff_mae": "171999.29055384497",
+          "second_cutoff_mae": "42302.457057570544"
+        },
+        {
+          "category": "RPG",
+          "model": "Gradient boosting",
+          "shared_months": "11",
+          "average_forecast_shift": "23574.67723384667",
+          "max_forecast_shift": "38699.74788709544",
+          "first_cutoff_mae": "89280.16387862414",
+          "second_cutoff_mae": "66817.69406435767"
+        },
+        {
+          "category": "RPG",
+          "model": "Last value",
+          "shared_months": "11",
+          "average_forecast_shift": "140079.83999999997",
+          "max_forecast_shift": "140079.83999999997",
+          "first_cutoff_mae": "172171.5672727272",
+          "second_cutoff_mae": "42365.081818181796"
+        },
+        {
+          "category": "RPG",
+          "model": "SES",
+          "shared_months": "11",
+          "average_forecast_shift": "140079.83705285587",
+          "max_forecast_shift": "140079.83705285587",
+          "first_cutoff_mae": "172171.56641293547",
+          "second_cutoff_mae": "42365.08276697831"
+        },
+        {
+          "category": "RPG",
+          "model": "Seasonal naive",
+          "shared_months": "11",
+          "average_forecast_shift": "6363.2063636363655",
+          "max_forecast_shift": "69995.27000000002",
+          "first_cutoff_mae": "111115.6063636364",
+          "second_cutoff_mae": "104752.40000000004"
+        }
+      ],
+      "scores": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Damped seasonal",
+          "mae": "50004.5043793464",
+          "rmse": "64749.639141982974",
+          "mean_error": "-19770.798119105224",
+          "wape_pct": "6.0936420373690146",
+          "worst_fold_mae": "51434.729359522986",
+          "wins_vs_last_value": "2",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Damped trend",
+          "mae": "106517.45182900704",
+          "rmse": "118681.06472119348",
+          "mean_error": "-90451.5534462483",
+          "wape_pct": "12.999909944891822",
+          "worst_fold_mae": "162934.4823038849",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Gradient boosting",
+          "mae": "74639.71261977107",
+          "rmse": "92083.15656168127",
+          "mean_error": "-72116.53925973231",
+          "wape_pct": "9.098924030654928",
+          "worst_fold_mae": "85506.69898717552",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Last value",
+          "mae": "106626.11291666662",
+          "rmse": "118781.54146019381",
+          "mean_error": "-90606.00958333329",
+          "wape_pct": "13.013173443160161",
+          "worst_fold_mae": "163106.08499999993",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "SES",
+          "mae": "106626.11283466278",
+          "rmse": "118781.54133710037",
+          "mean_error": "-90606.01019711356",
+          "wape_pct": "13.013173432883772",
+          "worst_fold_mae": "163106.08414020814",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "RPG",
+          "model": "Seasonal naive",
+          "mae": "101761.49583333335",
+          "rmse": "146424.64310569296",
+          "mean_error": "-43263.75333333334",
+          "wape_pct": "12.401746199961023",
+          "worst_fold_mae": "107138.12083333335",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        }
+      ]
+    },
+    "Massively Multiplayer": {
+      "selected_model": "Last value",
+      "saved_reason": "Small aggregate smoothing gain hides unstable ranks and underprediction",
+      "diagnostic_candidate": "Damped seasonal",
+      "folds": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Damped seasonal",
+          "origin": "2024-01-01",
+          "mae": "46795.82630986181",
+          "rmse": "58541.93848433785",
+          "mean_error": "46265.05781025391",
+          "wape_pct": "6.047439188454298",
+          "worst_absolute_error": "119679.92253619956",
+          "observations": "12",
+          "last_value_mae": "36773.65916666666",
+          "skill_vs_last_value_pct": "-27.253657564433276",
+          "fold_rank": "4.0"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Damped seasonal",
+          "origin": "2024-02-01",
+          "mae": "51641.468996995325",
+          "rmse": "64395.50202978494",
+          "mean_error": "51641.468996995325",
+          "wape_pct": "6.684264106063998",
+          "worst_absolute_error": "127046.25390369316",
+          "observations": "12",
+          "last_value_mae": "62256.229999999974",
+          "skill_vs_last_value_pct": "17.050118523085413",
+          "fold_rank": "1.0"
+        }
+      ],
+      "bias": [
+        {
+          "category": "Massively Multiplayer",
+          "model": "Damped seasonal",
+          "underpredicted_cases": "23",
+          "overpredicted_cases": "1",
+          "mean_error": "48953.263403624616"
+        }
+      ],
+      "cutoff": [
+        {
+          "category": "Massively Multiplayer",
+          "model": "Damped seasonal",
+          "shared_months": "11",
+          "average_forecast_shift": "8195.283844092099",
+          "max_forecast_shift": "18059.7278252081",
+          "first_cutoff_mae": "48635.12455990805",
+          "second_cutoff_mae": "56251.38822260971"
+        },
+        {
+          "category": "Massively Multiplayer",
+          "model": "Damped trend",
+          "shared_months": "11",
+          "average_forecast_shift": "54742.823359269445",
+          "max_forecast_shift": "54742.82363160711",
+          "first_cutoff_mae": "36261.188195799994",
+          "second_cutoff_mae": "60468.40047431096"
+        },
+        {
+          "category": "Massively Multiplayer",
+          "model": "Gradient boosting",
+          "shared_months": "11",
+          "average_forecast_shift": "5344.745268282321",
+          "max_forecast_shift": "13714.866304484196",
+          "first_cutoff_mae": "86227.69175636023",
+          "second_cutoff_mae": "87101.93550838472"
+        },
+        {
+          "category": "Massively Multiplayer",
+          "model": "Last value",
+          "shared_months": "11",
+          "average_forecast_shift": "54754.409999999916",
+          "max_forecast_shift": "54754.409999999916",
+          "first_cutoff_mae": "36277.149999999994",
+          "second_cutoff_mae": "60439.97636363634"
+        },
+        {
+          "category": "Massively Multiplayer",
+          "model": "SES",
+          "shared_months": "11",
+          "average_forecast_shift": "54754.40902445617",
+          "max_forecast_shift": "54754.40902445617",
+          "first_cutoff_mae": "36277.149956461944",
+          "second_cutoff_mae": "60439.97584442456"
+        },
+        {
+          "category": "Massively Multiplayer",
+          "model": "Seasonal naive",
+          "shared_months": "11",
+          "average_forecast_shift": "88.36727272726553",
+          "max_forecast_shift": "972.0399999999208",
+          "first_cutoff_mae": "91642.48",
+          "second_cutoff_mae": "91730.84727272727"
+        }
+      ],
+      "scores": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Damped seasonal",
+          "mae": "49218.64765342857",
+          "rmse": "61468.720257061395",
+          "mean_error": "48953.263403624616",
+          "wape_pct": "6.365851647259149",
+          "worst_fold_mae": "51641.468996995325",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Damped trend",
+          "mae": "49524.82883278215",
+          "rmse": "57697.04809615457",
+          "mean_error": "27638.051350161088",
+          "wape_pct": "6.406514170197749",
+          "worst_fold_mae": "62286.12966435353",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Gradient boosting",
+          "mae": "83704.05422928763",
+          "rmse": "93896.22088083782",
+          "mean_error": "83199.70107732146",
+          "wape_pct": "10.825679949269677",
+          "worst_fold_mae": "83982.57994064018",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Last value",
+          "mae": "49514.944583333316",
+          "rmse": "57679.57298680002",
+          "mean_error": "27587.245416666665",
+          "wape_pct": "6.405233750862759",
+          "worst_fold_mae": "62256.229999999974",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "SES",
+          "mae": "49514.94429806195",
+          "rmse": "57679.57267200969",
+          "mean_error": "27587.245088534306",
+          "wape_pct": "6.405233713941115",
+          "worst_fold_mae": "62256.22945606382",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Massively Multiplayer",
+          "model": "Seasonal naive",
+          "mae": "86950.93625",
+          "rmse": "99781.2378860786",
+          "mean_error": "84754.96791666668",
+          "wape_pct": "11.245578999632052",
+          "worst_fold_mae": "87525.21166666667",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        }
+      ]
+    },
+    "Indie": {
+      "selected_model": "Seasonal naive",
+      "saved_reason": "Seasonal reference improves both folds",
+      "diagnostic_candidate": "Seasonal naive",
+      "folds": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Seasonal naive",
+          "origin": "2024-01-01",
+          "mae": "30769.939166666667",
+          "rmse": "36921.117858882935",
+          "mean_error": "-8765.035833333328",
+          "wape_pct": "3.9801432712985965",
+          "worst_absolute_error": "69509.85999999999",
+          "observations": "12",
+          "last_value_mae": "73794.44833333336",
+          "skill_vs_last_value_pct": "58.30317881410638",
+          "fold_rank": "1.0"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Seasonal naive",
+          "origin": "2024-02-01",
+          "mae": "35048.036666666674",
+          "rmse": "39883.96400216446",
+          "mean_error": "-4473.483333333327",
+          "wape_pct": "4.535317123298255",
+          "worst_absolute_error": "69509.85999999999",
+          "observations": "12",
+          "last_value_mae": "49500.36000000004",
+          "skill_vs_last_value_pct": "29.196400457154958",
+          "fold_rank": "2.0"
+        }
+      ],
+      "bias": [
+        {
+          "category": "Indie",
+          "model": "Seasonal naive",
+          "underpredicted_cases": "11",
+          "overpredicted_cases": "13",
+          "mean_error": "-6619.259583333328"
+        }
+      ],
+      "cutoff": [
+        {
+          "category": "Indie",
+          "model": "Damped seasonal",
+          "shared_months": "11",
+          "average_forecast_shift": "31729.13691785879",
+          "max_forecast_shift": "36776.34068717214",
+          "first_cutoff_mae": "94752.89107002068",
+          "second_cutoff_mae": "63023.754152161884"
+        },
+        {
+          "category": "Indie",
+          "model": "Damped trend",
+          "shared_months": "11",
+          "average_forecast_shift": "86711.96654895319",
+          "max_forecast_shift": "86711.96693068685",
+          "first_cutoff_mae": "76408.68805792944",
+          "second_cutoff_mae": "42558.866944559995"
+        },
+        {
+          "category": "Indie",
+          "model": "Gradient boosting",
+          "shared_months": "11",
+          "average_forecast_shift": "13572.5491372398",
+          "max_forecast_shift": "26647.98509465519",
+          "first_cutoff_mae": "37596.45193575851",
+          "second_cutoff_mae": "32064.37088596838"
+        },
+        {
+          "category": "Indie",
+          "model": "Last value",
+          "shared_months": "11",
+          "average_forecast_shift": "86752.71000000008",
+          "max_forecast_shift": "86752.71000000008",
+          "first_cutoff_mae": "76571.44363636366",
+          "second_cutoff_mae": "42515.93727272731"
+        },
+        {
+          "category": "Indie",
+          "model": "SES",
+          "shared_months": "11",
+          "average_forecast_shift": "86752.70845351263",
+          "max_forecast_shift": "86752.70845351263",
+          "first_cutoff_mae": "76571.44342873259",
+          "second_cutoff_mae": "42515.936920168366"
+        },
+        {
+          "category": "Indie",
+          "model": "Seasonal naive",
+          "shared_months": "11",
+          "average_forecast_shift": "5015.439090909098",
+          "max_forecast_shift": "55169.830000000075",
+          "first_cutoff_mae": "29635.615454545456",
+          "second_cutoff_mae": "34636.37636363637"
+        }
+      ],
+      "scores": [
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Damped seasonal",
+          "mae": "75549.37014657113",
+          "rmse": "82528.37990890899",
+          "mean_error": "75549.37014657113",
+          "wape_pct": "9.77396789754291",
+          "worst_fold_mae": "91340.12458356952",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Damped trend",
+          "mae": "61607.14580992622",
+          "rmse": "72799.14694978236",
+          "mean_error": "-18970.646940757622",
+          "wape_pct": "7.970256478886386",
+          "worst_fold_mae": "73661.07176263399",
+          "wins_vs_last_value": "1",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Gradient boosting",
+          "mae": "35363.73885300392",
+          "rmse": "41590.41542917749",
+          "mean_error": "-12144.163928530548",
+          "wape_pct": "4.575169589605608",
+          "worst_fold_mae": "39067.97511783985",
+          "wins_vs_last_value": "2",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Last value",
+          "mae": "61647.4041666667",
+          "rmse": "72841.80037650657",
+          "mean_error": "-19149.181666666656",
+          "wape_pct": "7.975462611455509",
+          "worst_fold_mae": "73794.44833333336",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "SES",
+          "mae": "61647.40386662357",
+          "rmse": "72841.80002875636",
+          "mean_error": "-19149.182186139064",
+          "wape_pct": "7.975462572633393",
+          "worst_fold_mae": "73794.44816415249",
+          "wins_vs_last_value": "0",
+          "folds": "2"
+        },
+        {
+          "window": "Leads 12 to 23",
+          "category": "Indie",
+          "model": "Seasonal naive",
+          "mae": "32908.98791666667",
+          "rmse": "38402.5409305237",
+          "mean_error": "-6619.259583333327",
+          "wape_pct": "4.257730197298426",
+          "worst_fold_mae": "35048.036666666674",
+          "wins_vs_last_value": "2",
+          "folds": "2"
+        }
+      ]
+    }
+  }
+}

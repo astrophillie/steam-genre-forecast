@@ -1,0 +1,6 @@
+review_group,eligible,observed_apps,avg_players,activity_share_pct
+Game-related labels only,1,3561,3196727.72,96.09855629998148
+Mixed game/software labels,0,9,80331.25,2.4148810367787243
+Software/media labels only,0,84,39005.99,1.1725801051493727
+Missing metadata,0,174,7491.3099999999995,0.22520031070885643
+No decisive label,0,49,2953.35,0.08878224738156626

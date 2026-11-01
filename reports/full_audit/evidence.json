@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "All original raw source hashes match",
+    "SQLite integrity, foreign keys and all prepared Parquet values reconcile",
+    "All795 exploration targets reconcile with SQL",
+    "All1080 baseline and2700 statistical-comparison predictions freshly reproduce",
+    "Model/feature/tuning source lineage, numeric errors, actuals and complete per-model fold inventories pass",
+    "Fresh replay reproduces3240 model-family rows,2160 feature rows and324 tuned projections plus selected candidates",
+    "Frozen forecasts, policy, annual summaries and final-fit tuning evidence hashes pass",
+    "All source and94code cells in20notebooks parse; no saved error outputs"
+  ],
+  "notebooks": 20,
+  "parsed_code_cells": 94,
+  "target_cutoff": "2025-09-01",
+  "categories": 5,
+  "category_months": 795,
+  "source_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "database_sha256": "7f89e41d96616cd4398c52ab568c2008d80feca2762b09f2b3cbdeec0391efab",
+  "scope": "Read-only source/model reconciliation; report outputs only; historical policy ranking remains development evidence"
+}

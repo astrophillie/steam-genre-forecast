@@ -1,0 +1,41 @@
+category,origin,model,training_months,converged,clipped_predictions,warnings,training_rows,training_mae
+Action,2024-01-01,SES,36,True,0,,,
+Action,2024-01-01,Damped trend,36,True,0,,,
+Action,2024-01-01,Damped seasonal,36,True,0,,,
+Action,2024-01-01,Gradient boosting,36,,0,,24.0,27902.762248838244
+Action,2024-02-01,SES,37,True,0,,,
+Action,2024-02-01,Damped trend,37,True,0,,,
+Action,2024-02-01,Damped seasonal,37,True,0,,,
+Action,2024-02-01,Gradient boosting,37,,0,,25.0,26452.19415535813
+Indie,2024-01-01,SES,36,True,0,,,
+Indie,2024-01-01,Damped trend,36,True,0,,,
+Indie,2024-01-01,Damped seasonal,36,True,0,,,
+Indie,2024-01-01,Gradient boosting,36,,0,,24.0,10357.597290395948
+Indie,2024-02-01,SES,37,True,0,,,
+Indie,2024-02-01,Damped trend,37,True,0,,,
+Indie,2024-02-01,Damped seasonal,37,True,0,,,
+Indie,2024-02-01,Gradient boosting,37,,0,,25.0,10216.72187875024
+Massively Multiplayer,2024-01-01,SES,36,True,0,,,
+Massively Multiplayer,2024-01-01,Damped trend,36,True,0,,,
+Massively Multiplayer,2024-01-01,Damped seasonal,36,True,0,,,
+Massively Multiplayer,2024-01-01,Gradient boosting,36,,0,,24.0,6439.761564306493
+Massively Multiplayer,2024-02-01,SES,37,True,0,,,
+Massively Multiplayer,2024-02-01,Damped trend,37,True,0,,,
+Massively Multiplayer,2024-02-01,Damped seasonal,37,True,0,,,
+Massively Multiplayer,2024-02-01,Gradient boosting,37,,0,,25.0,5743.02325949524
+RPG,2024-01-01,SES,36,True,0,,,
+RPG,2024-01-01,Damped trend,36,True,0,,,
+RPG,2024-01-01,Damped seasonal,36,True,0,,,
+RPG,2024-01-01,Gradient boosting,36,,0,,24.0,26946.11775113239
+RPG,2024-02-01,SES,37,True,0,,,
+RPG,2024-02-01,Damped trend,37,True,0,,,
+RPG,2024-02-01,Damped seasonal,37,True,0,,,
+RPG,2024-02-01,Gradient boosting,37,,0,,25.0,23269.448593247005
+Strategy,2024-01-01,SES,36,True,0,,,
+Strategy,2024-01-01,Damped trend,36,True,0,,,
+Strategy,2024-01-01,Damped seasonal,36,True,0,,,
+Strategy,2024-01-01,Gradient boosting,36,,0,,24.0,20192.87465745238
+Strategy,2024-02-01,SES,37,True,0,,,
+Strategy,2024-02-01,Damped trend,37,True,0,,,
+Strategy,2024-02-01,Damped seasonal,37,True,0,,,
+Strategy,2024-02-01,Gradient boosting,37,,0,,25.0,20790.084286153022

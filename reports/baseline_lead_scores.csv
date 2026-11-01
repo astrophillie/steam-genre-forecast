@@ -1,0 +1,271 @@
+category,model,lead,mae,origins
+Action,Last value,1,35694.30000000005,4
+Action,Last value,2,76804.22250000003,4
+Action,Last value,3,148074.08499999996,4
+Action,Last value,4,192167.01750000002,4
+Action,Last value,5,159762.95999999996,4
+Action,Last value,6,73081.53500000003,4
+Action,Last value,7,226355.69000000018,4
+Action,Last value,8,197571.65249999997,4
+Action,Last value,9,167289.5249999999,4
+Action,Last value,10,182082.74999999994,4
+Action,Last value,11,166573.38000000006,4
+Action,Last value,12,161028.96750000014,4
+Action,Last value,13,181887.87250000006,4
+Action,Last value,14,144879.66500000004,4
+Action,Last value,15,223629.01000000007,4
+Action,Last value,16,202243.47249999997,4
+Action,Last value,17,131603.4225,4
+Action,Last value,18,207887.2825000002,4
+Action,Last value,19,246052.5675,4
+Action,Last value,20,277778.2975,4
+Action,Last value,21,329476.8800000001,4
+Action,Last value,22,316451.92250000016,4
+Action,Last value,23,312806.66250000015,4
+Action,Last value,24,307011.7925000002,4
+Action,Last value,25,279573.33250000014,4
+Action,Last value,26,265570.86250000016,4
+Action,Last value,27,240738.24250000023,4
+Action,Seasonal naive,1,231702.4875,4
+Action,Seasonal naive,2,172851.76999999996,4
+Action,Seasonal naive,3,213736.8675,4
+Action,Seasonal naive,4,259436.39,4
+Action,Seasonal naive,5,226663.185,4
+Action,Seasonal naive,6,248934.81000000017,4
+Action,Seasonal naive,7,218588.36249999993,4
+Action,Seasonal naive,8,190115.7374999998,4
+Action,Seasonal naive,9,303271.2050000001,4
+Action,Seasonal naive,10,365055.04999999993,4
+Action,Seasonal naive,11,296810.1625000001,4
+Action,Seasonal naive,12,161028.96750000014,4
+Action,Seasonal naive,13,308471.205,4
+Action,Seasonal naive,14,304742.2425,4
+Action,Seasonal naive,15,304320.8975000001,4
+Action,Seasonal naive,16,254711.70499999996,4
+Action,Seasonal naive,17,251935.85749999998,4
+Action,Seasonal naive,18,280386.0475000001,4
+Action,Seasonal naive,19,200933.05499999993,4
+Action,Seasonal naive,20,217824.39749999996,4
+Action,Seasonal naive,21,406991.14000000013,4
+Action,Seasonal naive,22,410037.7024999999,4
+Action,Seasonal naive,23,384576.025,4
+Action,Seasonal naive,24,307011.7925000002,4
+Action,Seasonal naive,25,424414.3099999999,4
+Action,Seasonal naive,26,417560.87499999994,4
+Action,Seasonal naive,27,436668.70000000007,4
+Indie,Last value,1,60206.30250000002,4
+Indie,Last value,2,53363.32249999995,4
+Indie,Last value,3,74883.93249999997,4
+Indie,Last value,4,37322.399999999965,4
+Indie,Last value,5,11041.88500000001,4
+Indie,Last value,6,56501.38250000001,4
+Indie,Last value,7,165933.22250000003,4
+Indie,Last value,8,76288.95750000002,4
+Indie,Last value,9,24720.820000000036,4
+Indie,Last value,10,41147.12250000003,4
+Indie,Last value,11,18481.215000000026,4
+Indie,Last value,12,37700.76500000004,4
+Indie,Last value,13,96175.12750000003,4
+Indie,Last value,14,55430.567500000005,4
+Indie,Last value,15,35096.94999999998,4
+Indie,Last value,16,32610.752499999973,4
+Indie,Last value,17,40009.60500000001,4
+Indie,Last value,18,93326.75,4
+Indie,Last value,19,156891.71250000002,4
+Indie,Last value,20,83800.34500000003,4
+Indie,Last value,21,26041.732499999984,4
+Indie,Last value,22,53750.95750000002,4
+Indie,Last value,23,35691.58500000002,4
+Indie,Last value,24,56919.505000000005,4
+Indie,Last value,25,131860.87500000003,4
+Indie,Last value,26,63491.63750000001,4
+Indie,Last value,27,28788.132500000007,4
+Indie,Seasonal naive,1,92199.3725,4
+Indie,Seasonal naive,2,94815.35249999995,4
+Indie,Seasonal naive,3,78470.3025,4
+Indie,Seasonal naive,4,95894.69999999997,4
+Indie,Seasonal naive,5,89932.00750000002,4
+Indie,Seasonal naive,6,75233.97750000001,4
+Indie,Seasonal naive,7,126327.03249999997,4
+Indie,Seasonal naive,8,96256.08000000005,4
+Indie,Seasonal naive,9,33571.25999999998,4
+Indie,Seasonal naive,10,95141.21999999997,4
+Indie,Seasonal naive,11,33940.524999999994,4
+Indie,Seasonal naive,12,37700.76500000004,4
+Indie,Seasonal naive,13,128168.19750000001,4
+Indie,Seasonal naive,14,137958.24749999997,4
+Indie,Seasonal naive,15,118656.09499999999,4
+Indie,Seasonal naive,16,109058.13249999999,4
+Indie,Seasonal naive,17,100043.87749999999,4
+Indie,Seasonal naive,18,100190.50499999998,4
+Indie,Seasonal naive,19,85693.82250000001,4
+Indie,Seasonal naive,20,76711.57749999998,4
+Indie,Seasonal naive,21,50480.52249999996,4
+Indie,Seasonal naive,22,140264.21,4
+Indie,Seasonal naive,23,57495.83499999999,4
+Indie,Seasonal naive,24,56919.505000000005,4
+Indie,Seasonal naive,25,163853.945,4
+Indie,Seasonal naive,26,146019.31749999998,4
+Indie,Seasonal naive,27,134574.9875,4
+Massively Multiplayer,Last value,1,20784.49000000002,4
+Massively Multiplayer,Last value,2,31396.477500000008,4
+Massively Multiplayer,Last value,3,55558.67499999993,4
+Massively Multiplayer,Last value,4,71193.94499999995,4
+Massively Multiplayer,Last value,5,64247.13749999995,4
+Massively Multiplayer,Last value,6,37542.36499999999,4
+Massively Multiplayer,Last value,7,86680.63250000004,4
+Massively Multiplayer,Last value,8,57749.08250000002,4
+Massively Multiplayer,Last value,9,22408.977500000008,4
+Massively Multiplayer,Last value,10,49581.33250000002,4
+Massively Multiplayer,Last value,11,16622.872499999998,4
+Massively Multiplayer,Last value,12,31881.660000000003,4
+Massively Multiplayer,Last value,13,38825.52000000002,4
+Massively Multiplayer,Last value,14,39418.85750000001,4
+Massively Multiplayer,Last value,15,46679.16249999998,4
+Massively Multiplayer,Last value,16,46291.31999999998,4
+Massively Multiplayer,Last value,17,56720.20749999996,4
+Massively Multiplayer,Last value,18,68653.42000000001,4
+Massively Multiplayer,Last value,19,101685.90750000003,4
+Massively Multiplayer,Last value,20,79750.05250000002,4
+Massively Multiplayer,Last value,21,60269.45000000007,4
+Massively Multiplayer,Last value,22,75538.32000000004,4
+Massively Multiplayer,Last value,23,44817.64500000002,4
+Massively Multiplayer,Last value,24,77032.25250000003,4
+Massively Multiplayer,Last value,25,73604.725,4
+Massively Multiplayer,Last value,26,63672.76000000001,4
+Massively Multiplayer,Last value,27,23704.38500000004,4
+Massively Multiplayer,Seasonal naive,1,39561.23000000001,4
+Massively Multiplayer,Seasonal naive,2,51829.63250000001,4
+Massively Multiplayer,Seasonal naive,3,36692.08249999999,4
+Massively Multiplayer,Seasonal naive,4,24781.170000000013,4
+Massively Multiplayer,Seasonal naive,5,28708.29249999998,4
+Massively Multiplayer,Seasonal naive,6,53783.18500000003,4
+Massively Multiplayer,Seasonal naive,7,43906.965000000026,4
+Massively Multiplayer,Seasonal naive,8,31337.817499999976,4
+Massively Multiplayer,Seasonal naive,9,30008.57249999998,4
+Massively Multiplayer,Seasonal naive,10,48674.22499999998,4
+Massively Multiplayer,Seasonal naive,11,28575.099999999977,4
+Massively Multiplayer,Seasonal naive,12,31881.660000000003,4
+Massively Multiplayer,Seasonal naive,13,60654.984999999986,4
+Massively Multiplayer,Seasonal naive,14,66846.7425,4
+Massively Multiplayer,Seasonal naive,15,69688.215,4
+Massively Multiplayer,Seasonal naive,16,72788.89000000001,4
+Massively Multiplayer,Seasonal naive,17,76563.60749999998,4
+Massively Multiplayer,Seasonal naive,18,96984.5,4
+Massively Multiplayer,Seasonal naive,19,54413.505000000034,4
+Massively Multiplayer,Seasonal naive,20,54393.847499999974,4
+Massively Multiplayer,Seasonal naive,21,74537.065,4
+Massively Multiplayer,Seasonal naive,22,66374.19749999998,4
+Massively Multiplayer,Seasonal naive,23,52676.642500000016,4
+Massively Multiplayer,Seasonal naive,24,77032.25250000003,4
+Massively Multiplayer,Seasonal naive,25,92111.03,4
+Massively Multiplayer,Seasonal naive,26,94818.68999999997,4
+Massively Multiplayer,Seasonal naive,27,92974.35749999998,4
+RPG,Last value,1,45508.69500000001,4
+RPG,Last value,2,28035.57500000001,4
+RPG,Last value,3,56642.70000000001,4
+RPG,Last value,4,69862.315,4
+RPG,Last value,5,50001.5025,4
+RPG,Last value,6,55048.15750000003,4
+RPG,Last value,7,124867.91999999998,4
+RPG,Last value,8,69910.91999999995,4
+RPG,Last value,9,39457.287500000006,4
+RPG,Last value,10,74586.065,4
+RPG,Last value,11,47078.9675,4
+RPG,Last value,12,19357.314999999973,4
+RPG,Last value,13,62730.139999999985,4
+RPG,Last value,14,33625.005000000005,4
+RPG,Last value,15,57404.82500000001,4
+RPG,Last value,16,65040.07250000001,4
+RPG,Last value,17,43478.71250000002,4
+RPG,Last value,18,49420.10500000001,4
+RPG,Last value,19,112643.2775,4
+RPG,Last value,20,77855.02499999997,4
+RPG,Last value,21,39119.109999999986,4
+RPG,Last value,22,67062.64749999999,4
+RPG,Last value,23,40522.71000000002,4
+RPG,Last value,24,22232.065000000002,4
+RPG,Last value,25,66049.31499999997,4
+RPG,Last value,26,29662.675000000017,4
+RPG,Last value,27,71151.17500000002,4
+RPG,Seasonal naive,1,56771.817500000034,4
+RPG,Seasonal naive,2,61020.96000000002,4
+RPG,Seasonal naive,3,58554.31000000001,4
+RPG,Seasonal naive,4,65879.5875,4
+RPG,Seasonal naive,5,56933.04500000003,4
+RPG,Seasonal naive,6,61906.69750000001,4
+RPG,Seasonal naive,7,78200.215,4
+RPG,Seasonal naive,8,97857.65249999997,4
+RPG,Seasonal naive,9,70650.59749999997,4
+RPG,Seasonal naive,10,128346.03999999998,4
+RPG,Seasonal naive,11,79565.70750000002,4
+RPG,Seasonal naive,12,19357.314999999973,4
+RPG,Seasonal naive,13,67576.9975,4
+RPG,Seasonal naive,14,82823.555,4
+RPG,Seasonal naive,15,67939.175,4
+RPG,Seasonal naive,16,72609.83499999999,4
+RPG,Seasonal naive,17,66121.075,4
+RPG,Seasonal naive,18,94260.05000000002,4
+RPG,Seasonal naive,19,90424.85749999998,4
+RPG,Seasonal naive,20,106763.80249999996,4
+RPG,Seasonal naive,21,76769.49499999997,4
+RPG,Seasonal naive,22,161974.68250000002,4
+RPG,Seasonal naive,23,98958.54000000001,4
+RPG,Seasonal naive,24,22232.065000000002,4
+RPG,Seasonal naive,25,70896.17249999999,4
+RPG,Seasonal naive,26,72509.225,4
+RPG,Seasonal naive,27,67782.18499999998,4
+Strategy,Last value,1,36967.13500000004,4
+Strategy,Last value,2,14053.649999999994,4
+Strategy,Last value,3,29237.73499999997,4
+Strategy,Last value,4,39438.7475,4
+Strategy,Last value,5,21983.515000000014,4
+Strategy,Last value,6,36176.8425,4
+Strategy,Last value,7,75270.725,4
+Strategy,Last value,8,26647.04250000001,4
+Strategy,Last value,9,15898.285000000003,4
+Strategy,Last value,10,16196.702500000014,4
+Strategy,Last value,11,10497.870000000024,4
+Strategy,Last value,12,18459.182499999995,4
+Strategy,Last value,13,37097.44500000001,4
+Strategy,Last value,14,18747.945000000007,4
+Strategy,Last value,15,36546.779999999955,4
+Strategy,Last value,16,37094.44999999998,4
+Strategy,Last value,17,32883.42750000002,4
+Strategy,Last value,18,34414.73749999999,4
+Strategy,Last value,19,68066.90000000002,4
+Strategy,Last value,20,10836.88499999998,4
+Strategy,Last value,21,19399.90750000003,4
+Strategy,Last value,22,20800.347500000003,4
+Strategy,Last value,23,16939.04250000001,4
+Strategy,Last value,24,25532.149999999994,4
+Strategy,Last value,25,43583.31,4
+Strategy,Last value,26,29589.647499999992,4
+Strategy,Last value,27,46752.55749999998,4
+Strategy,Seasonal naive,1,53925.92499999999,4
+Strategy,Seasonal naive,2,44672.174999999974,4
+Strategy,Seasonal naive,3,46028.18250000001,4
+Strategy,Seasonal naive,4,61869.87999999999,4
+Strategy,Seasonal naive,5,52497.42249999997,4
+Strategy,Seasonal naive,6,34183.49250000001,4
+Strategy,Seasonal naive,7,51722.715,4
+Strategy,Seasonal naive,8,53458.9675,4
+Strategy,Seasonal naive,9,32749.70750000002,4
+Strategy,Seasonal naive,10,65727.57499999995,4
+Strategy,Seasonal naive,11,33967.215,4
+Strategy,Seasonal naive,12,18459.182499999995,4
+Strategy,Seasonal naive,13,52312.19999999998,4
+Strategy,Seasonal naive,14,53830.78999999999,4
+Strategy,Seasonal naive,15,59285.792499999996,4
+Strategy,Seasonal naive,16,48649.77249999998,4
+Strategy,Seasonal naive,17,33676.425,4
+Strategy,Seasonal naive,18,37301.49250000004,4
+Strategy,Seasonal naive,19,58926.53999999998,4
+Strategy,Seasonal naive,20,50784.76999999999,4
+Strategy,Seasonal naive,21,30797.100000000064,4
+Strategy,Seasonal naive,22,85398.475,4
+Strategy,Seasonal naive,23,49481.52249999999,4
+Strategy,Seasonal naive,24,25532.149999999994,4
+Strategy,Seasonal naive,25,38373.42500000002,4
+Strategy,Seasonal naive,26,40292.98249999997,4
+Strategy,Seasonal naive,27,52630.27499999998,4

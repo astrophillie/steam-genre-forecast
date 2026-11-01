@@ -1,0 +1,43 @@
+{
+  "downloaded_at_utc": "2026-10-19T20:07:10.855237+00:00",
+  "sources": [
+    {
+      "name": "FronkonGames Steam metadata",
+      "revision": "6a31fcb42082345acc817e176b28849b7c05f248",
+      "source": "https://huggingface.co/datasets/FronkonGames/steam-games-dataset",
+      "download_url": "https://huggingface.co/datasets/FronkonGames/steam-games-dataset/resolve/6a31fcb42082345acc817e176b28849b7c05f248/data/train-00000-of-00001.parquet?download=true",
+      "license_as_reported": "mit",
+      "source_updated_at": "2026-10-15T11:05:39.000Z",
+      "files": [
+        {
+          "path": "data/raw/fronkon_metadata/games.parquet",
+          "bytes": 191983414,
+          "sha256": "775b17f2a5a52b96a8441739cd0dd4939916335b6edeebbfc4a1b238388c5a77"
+        }
+      ],
+      "limitations": "Metadata snapshot; release dates do not provide historical player counts."
+    },
+    {
+      "name": "Steam Monthly Average Players",
+      "version": 2,
+      "source": "https://www.kaggle.com/datasets/lunthu/steam-monthly-average-players",
+      "download_url": "https://www.kaggle.com/api/v1/datasets/download/lunthu/steam-monthly-average-players?datasetVersionNumber=2",
+      "license_as_reported": "CC0: Public Domain",
+      "source_updated_at": "2025-10-30T20:29:07.573Z",
+      "files": [
+        {
+          "path": "data/raw/monthly_players/steam_monthly_players.zip",
+          "bytes": 8685553,
+          "sha256": "b274c4296c72aa336f7643a740a550200886687d5fcbacaedd1ca5303a8de7bf"
+        },
+        {
+          "path": "data/raw/monthly_players/steamcharts.csv",
+          "bytes": 37887109,
+          "sha256": "07668e0ab970099a28cd83fea2ab34813867e209f255c6b156b3e28aeb3483cb"
+        }
+      ],
+      "limitations": "Historical sample, updated in 2025; misses low-audience and some major games. Not approved for final 2027 forecasting without a freshness/coverage audit."
+    }
+  ],
+  "reviews": "Deferred until the first two sources are understood, as agreed in the project guide."
+}

@@ -1,0 +1,6 @@
+category,model,training_months,clipped_predictions,converged,warnings
+Action,Last value,60,0,,
+Indie,Seasonal naive,60,0,,
+Massively Multiplayer,Last value,60,0,,
+RPG,Damped seasonal,60,0,True,
+Strategy,Damped seasonal,60,0,True,

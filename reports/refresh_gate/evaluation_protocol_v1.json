@@ -1,0 +1,41 @@
+{
+  "registered_on": "2026-10-26",
+  "version": "v1",
+  "forecast_checksums": {
+    "monthly_projections.csv": "c8557c0561f4556b22957acb6b3ad4ea4aa5ab7c3335894f17de59a32171f6ea",
+    "annual_summary.csv": "eb62a2dd598ab0bf846c68fcc8a660e206ca5869eddc28bda74d8c36317c27fd",
+    "frozen_policy.json": "b5e045846c0f268d04e7e2fc21a654f20cbd7b2f5952a5b1cb163cadfc88911d",
+    "final_fit_inner_trials.csv": "9c242b845197aacbee1fba34c2c4d9615bcf4a01c1f59430f43ea32b02bfeed8"
+  },
+  "database_sha256": "7f89e41d96616cd4398c52ab568c2008d80feca2762b09f2b3cbdeec0391efab",
+  "cohort": "Existing6094 eligible apps with pinned snapshot category labels",
+  "target_months": [
+    "2027-01-01",
+    "2027-02-01",
+    "2027-03-01",
+    "2027-04-01",
+    "2027-05-01",
+    "2027-06-01",
+    "2027-07-01",
+    "2027-08-01",
+    "2027-09-01",
+    "2027-10-01",
+    "2027-11-01",
+    "2027-12-01"
+  ],
+  "primary_metric": "Per-category monthly MAE",
+  "secondary_metrics": [
+    "RMSE",
+    "signed bias",
+    "annual mean error and category rank error after all12 months"
+  ],
+  "rules": [
+    "Freeze forecasts and cohort before2027 outcomes",
+    "Do not retune using evaluation outcomes",
+    "Require explicit missing-observation handling; never zero-fill unavailable activity",
+    "Do not score incomplete category totals as full-cohort actuals",
+    "Newly obtained pre-registration history remains retrospective validation, not an untouched test",
+    "A changed cohort,source,cutoff or policy requires a separate forecast version"
+  ],
+  "availability": "Future observations not yet collected; this local registration is not an externally timestamped preregistration"
+}

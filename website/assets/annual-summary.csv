@@ -1,0 +1,11 @@
+category,policy,model,projected_mean_activity,months,rank
+Action,Last-value reference,Last value,3396661.7900000005,12,1
+Action,Provisional v2 policy,Last value,3396661.7900000005,12,1
+Indie,Last-value reference,Last value,875035.09,12,4
+Indie,Provisional v2 policy,Seasonal naive,772780.2866666666,12,5
+Massively Multiplayer,Last-value reference,Last value,800468.0599999999,12,5
+Massively Multiplayer,Provisional v2 policy,Last value,800468.0599999999,12,4
+RPG,Last-value reference,Last value,976982.89,12,3
+RPG,Provisional v2 policy,Damped seasonal,849198.8437488037,12,3
+Strategy,Last-value reference,Last value,1226911.31,12,2
+Strategy,Provisional v2 policy,Damped seasonal,1174261.2404317886,12,2

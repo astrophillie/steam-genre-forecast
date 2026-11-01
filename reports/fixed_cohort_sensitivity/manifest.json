@@ -1,0 +1,42 @@
+{
+  "analysis": "Descriptive cohort coverage and shared-leader exclusions; no 2027 forecasts or model fitting",
+  "history": [
+    "2021-02-01",
+    "2026-01-01"
+  ],
+  "cohort_games": 519,
+  "inputs_sha256": {
+    "scope": "04ca0bf539f007f923f437da7666d4d10c3508aceb5d48084d164a0db9b0622c",
+    "database": "cf19efe39dd98787b2cf73c30fbca511f256133a455af297fc210dd72c12c176",
+    "category_input": "883121c359ba763d1f9d2570e395c1005efb9a94d3bcfff7486b54103d0ef1f2",
+    "registry": "1f95f2fe58c8ed1cdd28115d375020e0a63c72e70f3e88d6917461a5c9b19dc9"
+  },
+  "input_paths": {
+    "scope": "config/project_scope.json",
+    "database": "database/steam_v2.sqlite",
+    "category_input": "reports/fixed_sources_v2/category_monthly.csv",
+    "registry": "reports/fixed_sources_v2/source_registry.json"
+  },
+  "libraries": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4"
+  },
+  "script_sha256": "2b68d37261ecb58ea8e52b40203545f73424240d1584a69c2a99e4dee36a6149",
+  "outputs_sha256": {
+    "archive_coverage.csv": "1537a0bac78ba7ccc18f4000f29b1ecabd4a6a77a09be40a149f57e4f8cdd725",
+    "excluded_leaders.csv": "36508c96f23a812bdeeb2b5ed2ff79c4da0d1ac0b8d542f2b54d6b5c252ae92f",
+    "scenario_monthly.csv": "7841d14edd61d69feb342ea3c4ec3bc0a3ad2bc8be700525841c3702fd3422a0",
+    "scenario_summary.csv": "1573cedb8a77ea686b0beb0bbb2675775adb2f470158ce6d0cec87f96f3cacd9"
+  },
+  "coverage_denominator": "Eligible selected-label games in this archive only; activity share conditional on records observed at cutoff",
+  "exclusions": "Union of original January 2026 cohort top one/top five games per category, removed from every category for every month; ties use AppID ascending",
+  "rank_rule": "Descending activity, minimum rank for ties; exhausted categories unranked",
+  "missingness": "No unavailable input activity filled; empty scenario groups explicitly zero by construction; zero-denominator percentages unavailable",
+  "limitations": [
+    "Retrospectively selected leaders and cohort",
+    "Archive is not the Steam market",
+    "Endpoint-selected exclusions mechanically affect growth",
+    "No causal or predictive-accuracy claim",
+    "Overlapping labels; category values cannot be added as distinct audiences"
+  ]
+}

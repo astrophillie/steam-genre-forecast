@@ -1,0 +1,11 @@
+policy,category,projected_mean_activity,months,rank
+Last-value reference,Action,2503728.38,12,1
+Last-value reference,Indie,760753.82,12,2
+Last-value reference,Massively Multiplayer,693909.44,12,3
+Last-value reference,RPG,625704.13,12,4
+Last-value reference,Strategy,526923.53,12,5
+Provisional development policy,Action,2503728.38,12,1
+Provisional development policy,Indie,831344.767805192,12,2
+Provisional development policy,RPG,718471.8523193459,12,3
+Provisional development policy,Massively Multiplayer,693909.44,12,4
+Provisional development policy,Strategy,563150.9449447588,12,5

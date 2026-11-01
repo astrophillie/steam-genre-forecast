@@ -1,0 +1,21 @@
+{
+  "snapshot_url": "https://github.com/Aakash-1107/Game-Market-Intelligence/releases/download/data-2026-10-07/game_market_snapshot.duckdb",
+  "snapshot_sha256": "ccb6257ae46617a9dd077b8fb5db1afabacb4b522359a06a10e85229ec4f3c6e",
+  "snapshot_release": "2026-10-07",
+  "baseline_cutoff": "2025-09-01",
+  "supplemental_apps": 55,
+  "raw_monthly_rows": 4994,
+  "completed_rows": 4994,
+  "first_month": "2012-07-01",
+  "last_raw_month": "2026-09-01",
+  "last_completed_month": "2026-09-01",
+  "excluded_partial_rows": 0,
+  "overlap_rows": 3632,
+  "overlap_mismatches": 0,
+  "new_completed_rows": 607,
+  "new_catalog_apps": 26,
+  "baseline_database_sha256": "7f89e41d96616cd4398c52ab568c2008d80feca2762b09f2b3cbdeec0391efab",
+  "baseline_monthly_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "scope": "Supplemental evidence only; not merged into category targets. Upstream reuse terms unresolved.",
+  "calendar_scope": "Deterministic future-known month, days, sine and cosine; no speculative event or review values"
+}

@@ -1,0 +1,18 @@
+{
+  "target_month": "2026-09-01",
+  "eligible_apps": 6094,
+  "eligible_import_apps": 12,
+  "observed_eligible_apps_at_target": 10,
+  "missing_eligible_apps_at_target": 6084,
+  "overlap_rows": 1422,
+  "overlap_mismatches": 0,
+  "outside_cohort_rows": 777,
+  "missing_refresh_app_months": 72997,
+  "apps_without_overlap_evidence": 6082,
+  "promotion_ready": false,
+  "gate": "Strict full-cohort monthly refresh completeness and per-app compatible overlap; separate access/eligibility review still required",
+  "as_of": "2026-10-26",
+  "source_sha256": "03563b1787dfb656c4a3f183bf0d856ad4a7e7705e320af635b0e0263ec4535a",
+  "baseline_sha256": "7f89e41d96616cd4398c52ab568c2008d80feca2762b09f2b3cbdeec0391efab",
+  "scope": "Existing pilot used to exercise import gate; no new collection or target promotion"
+}

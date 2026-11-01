@@ -1,0 +1,109 @@
+{
+  "sources": {
+    "scope": "config/project_scope.json",
+    "evaluation": "reports/fixed_cohort_evaluation/manifest.json",
+    "policy": "reports/fixed_cohort_forecast_2027/frozen_policy.json"
+  },
+  "saved_artifacts": {
+    "scope": {
+      "active_dataset": "fixed_sources_v2",
+      "source_registry": "reports/fixed_sources_v2/source_registry.json",
+      "database": "database/steam_v2.sqlite",
+      "category_input": "reports/fixed_sources_v2/category_monthly.csv",
+      "cohort": "519 eligible covered games with complete February2021–January2026 history",
+      "source_policy": "Use only the frozen registry sources for remaining project work; no additional discovery/collection",
+      "target_year": 2027,
+      "training_cutoff": "2026-01-01",
+      "forecast_horizon": 23,
+      "target_leads": [
+        12,
+        23
+      ],
+      "legacy_v1": "Existing historical evaluation modules and forecasts remain pinned to their original inputs; future v2 evaluation must be separately versioned"
+    },
+    "evaluation": {
+      "input_sha256": "883121c359ba763d1f9d2570e395c1005efb9a94d3bcfff7486b54103d0ef1f2",
+      "registry_sha256": "1f95f2fe58c8ed1cdd28115d375020e0a63c72e70f3e88d6917461a5c9b19dc9",
+      "scope_sha256": "04ca0bf539f007f923f437da7666d4d10c3508aceb5d48084d164a0db9b0622c",
+      "origins": [
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "horizon": 23,
+      "target_leads": [
+        12,
+        23
+      ],
+      "models": [
+        "Last value",
+        "Seasonal naive",
+        "SES",
+        "Damped trend",
+        "Damped seasonal",
+        "Gradient boosting"
+      ],
+      "boosting_parameters": {
+        "n_estimators": 100,
+        "learning_rate": 0.05,
+        "max_depth": 2,
+        "min_samples_leaf": 5,
+        "loss": "squared_error",
+        "random_state": 42
+      },
+      "statistical_configs": {
+        "SES": {},
+        "Damped trend": {
+          "trend": "add",
+          "damped_trend": true
+        },
+        "Damped seasonal": {
+          "trend": "add",
+          "damped_trend": true,
+          "seasonal": "add",
+          "seasonal_periods": 12
+        }
+      },
+      "training_months": [
+        36,
+        37
+      ],
+      "scope": "Retrospective development comparison of the frozen 519-game cohort selected with October 2026 knowledge; overlapping test periods; no independent test or final selection",
+      "error_sign": "actual minus prediction; positive means underprediction",
+      "metric_note": "Scores average two fold metrics; WAPE unavailable if observed total is zero; no inferential confidence from overlapping folds",
+      "predictions_sha256": "b85fd7e1b911463703c68e9e15977133aabbecca3e5d6fa71f4cba18ed3d86e7"
+    },
+    "policy": {
+      "version": "fixed_cohort_forecast_v2",
+      "cutoff": "2026-01-01",
+      "horizon": 23,
+      "target_year": 2027,
+      "cohort_apps": 519,
+      "routes": {
+        "Action": "Last value",
+        "Indie": "Seasonal naive",
+        "Massively Multiplayer": "Last value",
+        "RPG": "Damped seasonal",
+        "Strategy": "Damped seasonal"
+      },
+      "statistical_config": {
+        "trend": "add",
+        "damped_trend": true,
+        "seasonal": "add",
+        "seasonal_periods": 12
+      },
+      "input_sha256": "883121c359ba763d1f9d2570e395c1005efb9a94d3bcfff7486b54103d0ef1f2",
+      "registry_sha256": "1f95f2fe58c8ed1cdd28115d375020e0a63c72e70f3e88d6917461a5c9b19dc9",
+      "evaluation_manifest_sha256": "3c1652ef8755dd63ad5cfa33ef46fb776223e06331c26bc123cbc33e84d1a524",
+      "diagnostics_manifest_sha256": "f0aaadeb1721ad23b016c325cbec1f5d57f6dc40e1cba159953debbeb958dff6",
+      "status": "Provisional retrospective development policy; no independent holdout",
+      "reasons": {
+        "Action": "Negligible smoothing gain and cutoff sensitivity",
+        "Indie": "Seasonal reference improves both folds",
+        "Massively Multiplayer": "Small aggregate smoothing gain hides unstable ranks and underprediction",
+        "RPG": "Seasonal smoothing leads both folds, gains vary",
+        "Strategy": "Seasonal smoothing leads both folds"
+      },
+      "range_method": "90th percentile (higher) of worst absolute error per unique target month, leads12–23;13 dependent development months; symmetric radius, lower clipped at zero; not a calibrated predictive interval"
+    }
+  }
+}

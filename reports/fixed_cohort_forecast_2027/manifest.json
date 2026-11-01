@@ -1,0 +1,25 @@
+{
+  "policy_sha256": "eee5a6e73e3ea88cb38991a7ab6cb78eefa34493fd66363865e816a67b6ae5e7",
+  "outputs": {
+    "monthly_projections.csv": "55e14b0860be4a8288afb78ae5ca7435886b49cb9ded2a40902818c34fc38cf4",
+    "annual_summary.csv": "51dd7fa20aca153002abb5de00c4543ab6987bd517f06fe514958cf3ad8ed7e4",
+    "baseline_comparison.csv": "af6852934727a8ce10398cb7df9e6261b5202c13a499c52fc36d1f74d04c47ea",
+    "monthly_historical_error_ranges.csv": "0842611d8c8bd86775df5765d1f2601e9740b2884257124e0568fce8b64da264",
+    "historical_error_radii.csv": "2296bca5e5d60286df6102cbdefe12f4e89cac84e9abbe1a31ab029becbc1ec7",
+    "fit_diagnostics.csv": "7a76520976e62be2cad51dc2aaf026e79a838199e09e4624ee096ec1ffabc89d"
+  },
+  "range_status": "Uncalibrated development-error sensitivity; no annual interval or ranking probability",
+  "coverage_check": "Unavailable: neither 2024 origin has earlier matured lead12\u201323 errors from these folds for past-only calibration",
+  "scope": "January2026-cutoff fixed519-game cohort projection; excludes future releases and untracked games; later archive data excluded",
+  "diagnostic_outputs": {
+    "case_app_contributions.csv": "c04f1aef36b8c15c1876473c24a0343ba5e88c271e84e4cca42f71db58084682",
+    "category_concentration.csv": "89900f1afe8405782d1b3fba41d6d4663461ddd1dc4112466e3d2f5a0acf561d",
+    "cutoff_sensitivity.csv": "5b9f39795f195ee2f6a1635f7973199bf18549f04da9b72a6ffc6ef14bf53ea7",
+    "largest_leader_errors.csv": "fb89c34ce2c2cc78044a86576c3f97b3ff248b8e83469d9ef123c08fb6b291be",
+    "leader_bias.csv": "22e16d64c4c1c2261b7089de46c3ea74ac05c08f902becf450985c3155696624",
+    "leader_fold_stability.csv": "a0c82a59ad45b944c4f70ca9e145f16c3646ba49c61039dec3b1c7f6d90c14ff",
+    "leading_models.csv": "67de27373f196175a8b0479f246433f3cf8bf2ee66873e3d32a4fd3e189f3a17",
+    "top_case_changes.csv": "9d8d595ac3ec7bcaec9c6b3efdb95bde449066fd48771ed9d08083fb5e5b08d9",
+    "top_seasonal_changes.csv": "4653d953fa49902dfc07d2f3f85903d3af6bb5642ce3cb1317b51b5f7c6d36da"
+  }
+}

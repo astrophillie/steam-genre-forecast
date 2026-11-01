@@ -1,0 +1,16 @@
+{
+  "active_dataset": "fixed_sources_v2",
+  "source_registry": "reports/fixed_sources_v2/source_registry.json",
+  "database": "database/steam_v2.sqlite",
+  "category_input": "reports/fixed_sources_v2/category_monthly.csv",
+  "cohort": "519 eligible covered games with complete February2021\u2013January2026 history",
+  "source_policy": "Use only the frozen registry sources for remaining project work; no additional discovery/collection",
+  "target_year": 2027,
+  "training_cutoff": "2026-01-01",
+  "forecast_horizon": 23,
+  "target_leads": [
+    12,
+    23
+  ],
+  "legacy_v1": "Existing historical evaluation modules and forecasts remain pinned to their original inputs; future v2 evaluation must be separately versioned"
+}

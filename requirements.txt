@@ -1,0 +1,11 @@
+# Compatible installed versions are recorded separately in requirements-lock.txt.
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+ipykernel
+pytest
+requests
+pyarrow

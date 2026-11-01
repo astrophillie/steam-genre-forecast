@@ -1,0 +1,6 @@
+category,model,radius,forecast_cases,unique_target_months,origins
+Action,Last value,198152.33000000007,24,13,2
+Indie,Seasonal naive,62484.76000000001,24,13,2
+Massively Multiplayer,Last value,105411.79999999992,24,13,2
+RPG,Damped seasonal,125701.86252272456,24,13,2
+Strategy,Damped seasonal,93781.41857204564,24,13,2

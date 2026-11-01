@@ -1,0 +1,21 @@
+category,model,worst_fold_mae,wins_vs_reference
+Action,Recent changes,528785.1933139347,0
+Action,Reference,490602.71142594976,0
+Action,Rolling variability,599302.4974641439,0
+Action,Time trend,469176.3196468824,2
+Indie,Recent changes,62782.117627222186,1
+Indie,Reference,63895.05677770616,0
+Indie,Rolling variability,102650.02510752843,1
+Indie,Time trend,63895.05677770616,1
+Massively Multiplayer,Recent changes,139221.64910063244,0
+Massively Multiplayer,Reference,99577.27759230456,0
+Massively Multiplayer,Rolling variability,116083.0445694014,0
+Massively Multiplayer,Time trend,98705.70992848331,2
+RPG,Recent changes,72601.78625847728,1
+RPG,Reference,98099.45505010057,0
+RPG,Rolling variability,68397.30272982584,1
+RPG,Time trend,98327.15835266106,3
+Strategy,Recent changes,49385.83410291854,3
+Strategy,Reference,79646.15214125325,0
+Strategy,Rolling variability,52897.16890311335,3
+Strategy,Time trend,78960.54220390877,2

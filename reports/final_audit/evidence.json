@@ -1,0 +1,24 @@
+{
+  "audit_date": "2026-10-27",
+  "checks": [
+    "All five registered history-source fingerprints and metadata fingerprint match.",
+    "SQLite integrity, foreign keys, unique canonical grain, 519-member cohort and all 300 independently recomputed category totals pass.",
+    "All three v2 Parquet exports reconcile in full with SQLite.",
+    "Provisional policy, six final forecast CSVs and nine diagnostic CSVs match frozen fingerprints; forecast replay is byte-for-byte identical.",
+    "Original v1 policy and forecast fingerprints remain valid.",
+    "All Python sources/tests and 96 code cells in 20 notebooks parse; no saved error outputs. Final notebook retains two embedded charts and nine ordered executions.",
+    "Current portfolio summary, interview walkthrough and checkpoint handoff links resolve."
+  ],
+  "notebooks": 20,
+  "parsed_code_cells": 96,
+  "source_files": 27,
+  "test_files": 24,
+  "scope": "Core v1 replay evidence in reports/full_audit/evidence.json; full fixed-source v2 reconciliation; final presentation and saved notebook audit. Historical notebook outputs checked structurally, not all rerun in a native Jupyter kernel.",
+  "remaining_limits": [
+    "Retrospective cohort and label selection",
+    "Two heavily overlapping development folds, no untouched holdout",
+    "Uncalibrated descriptive error ranges",
+    "Raw sources/database local; source redistribution caveats retained",
+    "Many project changes remain uncommitted; no commit or publication performed"
+  ]
+}

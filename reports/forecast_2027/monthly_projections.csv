@@ -1,0 +1,271 @@
+policy,category,month,lead,prediction,training_cutoff,issued_on
+Last-value reference,Action,2025-10-01,1,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2025-11-01,2,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2025-12-01,3,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-01-01,4,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-02-01,5,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-03-01,6,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-04-01,7,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-05-01,8,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-06-01,9,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-07-01,10,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-08-01,11,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-09-01,12,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-10-01,13,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-11-01,14,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2026-12-01,15,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-01-01,16,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-02-01,17,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-03-01,18,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-04-01,19,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-05-01,20,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-06-01,21,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-07-01,22,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-08-01,23,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-09-01,24,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-10-01,25,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-11-01,26,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Action,2027-12-01,27,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2025-10-01,1,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2025-11-01,2,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2025-12-01,3,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-01-01,4,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-02-01,5,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-03-01,6,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-04-01,7,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-05-01,8,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-06-01,9,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-07-01,10,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-08-01,11,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-09-01,12,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-10-01,13,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-11-01,14,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2026-12-01,15,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-01-01,16,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-02-01,17,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-03-01,18,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-04-01,19,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-05-01,20,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-06-01,21,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-07-01,22,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-08-01,23,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-09-01,24,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-10-01,25,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-11-01,26,2503728.38,2025-09-01,2026-10-26
+Provisional development policy,Action,2027-12-01,27,2503728.38,2025-09-01,2026-10-26
+Last-value reference,Indie,2025-10-01,1,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2025-11-01,2,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2025-12-01,3,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-01-01,4,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-02-01,5,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-03-01,6,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-04-01,7,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-05-01,8,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-06-01,9,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-07-01,10,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-08-01,11,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-09-01,12,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-10-01,13,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-11-01,14,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2026-12-01,15,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-01-01,16,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-02-01,17,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-03-01,18,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-04-01,19,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-05-01,20,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-06-01,21,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-07-01,22,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-08-01,23,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-09-01,24,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-10-01,25,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-11-01,26,760753.82,2025-09-01,2026-10-26
+Last-value reference,Indie,2027-12-01,27,760753.82,2025-09-01,2026-10-26
+Provisional development policy,Indie,2025-10-01,1,795796.1005830101,2025-09-01,2026-10-26
+Provisional development policy,Indie,2025-11-01,2,816796.5964986458,2025-09-01,2026-10-26
+Provisional development policy,Indie,2025-12-01,3,865687.2040905261,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-01-01,4,925159.8532507082,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-02-01,5,807730.0796532138,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-03-01,6,799112.2646994904,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-04-01,7,828173.6643927861,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-05-01,8,822159.9035181339,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-06-01,9,813634.5797637511,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-07-01,10,877826.0711212517,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-08-01,11,824729.8100144798,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-09-01,12,785750.5756795512,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-10-01,13,810841.1792406089,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-11-01,14,816796.5964986458,2025-09-01,2026-10-26
+Provisional development policy,Indie,2026-12-01,15,865687.2040905261,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-01-01,16,923695.2849898641,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-02-01,17,807730.0796532138,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-03-01,18,796542.3582031445,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-04-01,19,828173.6643927861,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-05-01,20,824729.8100144798,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-06-01,21,813634.5797637511,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-07-01,22,877826.0711212517,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-08-01,23,822159.9035181339,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-09-01,24,785750.5756795512,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-10-01,25,810841.1792406089,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-11-01,26,819366.5029949917,2025-09-01,2026-10-26
+Provisional development policy,Indie,2027-12-01,27,865687.2040905261,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2025-10-01,1,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2025-11-01,2,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2025-12-01,3,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-01-01,4,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-02-01,5,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-03-01,6,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-04-01,7,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-05-01,8,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-06-01,9,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-07-01,10,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-08-01,11,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-09-01,12,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-10-01,13,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-11-01,14,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2026-12-01,15,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-01-01,16,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-02-01,17,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-03-01,18,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-04-01,19,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-05-01,20,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-06-01,21,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-07-01,22,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-08-01,23,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-09-01,24,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-10-01,25,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-11-01,26,693909.44,2025-09-01,2026-10-26
+Last-value reference,Massively Multiplayer,2027-12-01,27,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2025-10-01,1,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2025-11-01,2,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2025-12-01,3,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-01-01,4,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-02-01,5,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-03-01,6,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-04-01,7,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-05-01,8,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-06-01,9,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-07-01,10,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-08-01,11,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-09-01,12,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-10-01,13,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-11-01,14,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2026-12-01,15,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-01-01,16,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-02-01,17,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-03-01,18,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-04-01,19,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-05-01,20,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-06-01,21,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-07-01,22,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-08-01,23,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-09-01,24,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-10-01,25,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-11-01,26,693909.44,2025-09-01,2026-10-26
+Provisional development policy,Massively Multiplayer,2027-12-01,27,693909.44,2025-09-01,2026-10-26
+Last-value reference,RPG,2025-10-01,1,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2025-11-01,2,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2025-12-01,3,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-01-01,4,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-02-01,5,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-03-01,6,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-04-01,7,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-05-01,8,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-06-01,9,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-07-01,10,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-08-01,11,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-09-01,12,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-10-01,13,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-11-01,14,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2026-12-01,15,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-01-01,16,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-02-01,17,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-03-01,18,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-04-01,19,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-05-01,20,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-06-01,21,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-07-01,22,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-08-01,23,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-09-01,24,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-10-01,25,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-11-01,26,625704.13,2025-09-01,2026-10-26
+Last-value reference,RPG,2027-12-01,27,625704.13,2025-09-01,2026-10-26
+Provisional development policy,RPG,2025-10-01,1,631204.4480663761,2025-09-01,2026-10-26
+Provisional development policy,RPG,2025-11-01,2,613150.5859041276,2025-09-01,2026-10-26
+Provisional development policy,RPG,2025-12-01,3,672628.0045641708,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-01-01,4,753211.8738570121,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-02-01,5,751520.5715954449,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-03-01,6,748267.3630105198,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-04-01,7,727632.7788567309,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-05-01,8,722060.5131866079,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-06-01,9,719730.5690528775,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-07-01,10,740596.7013090061,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-08-01,11,716107.7348031817,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-09-01,12,653144.1670274873,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-10-01,13,634538.508411461,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-11-01,14,642599.3568990766,2025-09-01,2026-10-26
+Provisional development policy,RPG,2026-12-01,15,684977.4290282783,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-01-01,16,798186.4437267397,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-02-01,17,780003.9770521253,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-03-01,18,741874.2781399952,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-04-01,19,724776.289831264,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-05-01,20,719578.9722564664,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-06-01,21,716107.7348031817,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-07-01,22,735550.3653806603,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-08-01,23,717342.3681931917,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-09-01,24,655419.5202548921,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-10-01,25,640242.9844813879,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-11-01,26,658350.4781530332,2025-09-01,2026-10-26
+Provisional development policy,RPG,2027-12-01,27,734228.815559214,2025-09-01,2026-10-26
+Last-value reference,Strategy,2025-10-01,1,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2025-11-01,2,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2025-12-01,3,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-01-01,4,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-02-01,5,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-03-01,6,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-04-01,7,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-05-01,8,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-06-01,9,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-07-01,10,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-08-01,11,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-09-01,12,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-10-01,13,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-11-01,14,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2026-12-01,15,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-01-01,16,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-02-01,17,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-03-01,18,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-04-01,19,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-05-01,20,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-06-01,21,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-07-01,22,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-08-01,23,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-09-01,24,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-10-01,25,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-11-01,26,526923.53,2025-09-01,2026-10-26
+Last-value reference,Strategy,2027-12-01,27,526923.53,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2025-10-01,1,564427.2482618024,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2025-11-01,2,566540.0646036355,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2025-12-01,3,579909.7441558783,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-01-01,4,583984.6977465034,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-02-01,5,571924.529631721,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-03-01,6,562008.5244434599,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-04-01,7,561607.3201296781,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-05-01,8,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-06-01,9,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-07-01,10,562880.3828567768,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-08-01,11,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-09-01,12,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-10-01,13,562666.4074786688,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-11-01,14,562666.4074786688,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2026-12-01,15,564505.1720303096,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-01-01,16,577262.6859746202,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-02-01,17,563067.6117924507,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-03-01,18,561607.3201296781,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-04-01,19,562666.4074786688,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-05-01,20,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-06-01,21,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-07-01,22,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-08-01,23,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-09-01,24,561041.6183051361,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-10-01,25,562666.4074786688,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-11-01,26,562666.4074786688,2025-09-01,2026-10-26
+Provisional development policy,Strategy,2027-12-01,27,562666.4074786688,2025-09-01,2026-10-26

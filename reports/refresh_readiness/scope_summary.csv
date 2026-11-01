@@ -1,0 +1,4 @@
+refresh_scope,app_count,pilot_checked,baseline_latest_activity
+Catalog expansion probe,3,3,
+Existing eligible cohort,6094,13,3196727.72
+Held out under existing rule,635,4,129781.9

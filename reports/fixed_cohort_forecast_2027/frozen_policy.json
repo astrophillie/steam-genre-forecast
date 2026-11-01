@@ -1,0 +1,33 @@
+{
+  "version": "fixed_cohort_forecast_v2",
+  "cutoff": "2026-01-01",
+  "horizon": 23,
+  "target_year": 2027,
+  "cohort_apps": 519,
+  "routes": {
+    "Action": "Last value",
+    "Indie": "Seasonal naive",
+    "Massively Multiplayer": "Last value",
+    "RPG": "Damped seasonal",
+    "Strategy": "Damped seasonal"
+  },
+  "statistical_config": {
+    "trend": "add",
+    "damped_trend": true,
+    "seasonal": "add",
+    "seasonal_periods": 12
+  },
+  "input_sha256": "883121c359ba763d1f9d2570e395c1005efb9a94d3bcfff7486b54103d0ef1f2",
+  "registry_sha256": "1f95f2fe58c8ed1cdd28115d375020e0a63c72e70f3e88d6917461a5c9b19dc9",
+  "evaluation_manifest_sha256": "3c1652ef8755dd63ad5cfa33ef46fb776223e06331c26bc123cbc33e84d1a524",
+  "diagnostics_manifest_sha256": "f0aaadeb1721ad23b016c325cbec1f5d57f6dc40e1cba159953debbeb958dff6",
+  "status": "Provisional retrospective development policy; no independent holdout",
+  "reasons": {
+    "Action": "Negligible smoothing gain and cutoff sensitivity",
+    "Indie": "Seasonal reference improves both folds",
+    "Massively Multiplayer": "Small aggregate smoothing gain hides unstable ranks and underprediction",
+    "RPG": "Seasonal smoothing leads both folds, gains vary",
+    "Strategy": "Seasonal smoothing leads both folds"
+  },
+  "range_method": "90th percentile (higher) of worst absolute error per unique target month, leads12\u201323;13 dependent development months; symmetric radius, lower clipped at zero; not a calibrated predictive interval"
+}

@@ -1,0 +1,15 @@
+{
+  "run_id": "20261025T085419Z_52879d",
+  "as_of": "2026-10-25",
+  "baseline_cutoff": "2025-09-01",
+  "latest_complete_calendar_month": "2026-09-01",
+  "selected_apps": 20,
+  "successful_apps": 19,
+  "failed_apps": 1,
+  "completed_month_rows": 2330,
+  "overlap_rows": 1885,
+  "overlap_mismatches": 0,
+  "new_month_rows": 215,
+  "scope": "Pilot only; original raw files, prepared database, and model inputs unchanged",
+  "raw_manifest": "data/raw/steamcharts_pilot/20261025T085419Z_52879d/manifest.json"
+}

@@ -1,0 +1,21 @@
+category,origin,training_rows,clipped_predictions
+Action,2020-06-01,84,0
+Action,2021-06-01,96,0
+Action,2022-06-01,108,0
+Action,2023-06-01,120,0
+Indie,2020-06-01,84,0
+Indie,2021-06-01,96,0
+Indie,2022-06-01,108,0
+Indie,2023-06-01,120,0
+Massively Multiplayer,2020-06-01,84,0
+Massively Multiplayer,2021-06-01,96,0
+Massively Multiplayer,2022-06-01,108,0
+Massively Multiplayer,2023-06-01,120,0
+RPG,2020-06-01,84,0
+RPG,2021-06-01,96,0
+RPG,2022-06-01,108,0
+RPG,2023-06-01,120,0
+Strategy,2020-06-01,84,0
+Strategy,2021-06-01,96,0
+Strategy,2022-06-01,108,0
+Strategy,2023-06-01,120,0

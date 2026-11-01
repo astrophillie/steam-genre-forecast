@@ -1,0 +1,48 @@
+{
+  "sources": [
+    {
+      "name": "Liu giveaway research",
+      "file_sha256": "3e91cbdb2f186a86ee79225262db81d24acde13e895b164d3acbb8ad3c3881b6",
+      "apps": 446,
+      "rows": 38642,
+      "latest_month": "2026-02-01",
+      "overlap_rows": 27110,
+      "overlap_mismatches": 0,
+      "max_overlap_difference": 0.0,
+      "newer_rows": 1516,
+      "newer_apps": 402,
+      "newer_eligible_apps": 230,
+      "apps_absent_from_existing55": 442,
+      "latest_month_app_count": 3
+    },
+    {
+      "name": "Aanomali multiplayer",
+      "file_sha256": "7e9df8ef83acf895fa643acd0a198e18777b213d34b2fbb8385caced79631044",
+      "apps": 362,
+      "rows": 38821,
+      "latest_month": "2026-02-01",
+      "overlap_rows": 30097,
+      "overlap_mismatches": 0,
+      "max_overlap_difference": 0.0,
+      "newer_rows": 1806,
+      "newer_apps": 362,
+      "newer_eligible_apps": 254,
+      "apps_absent_from_existing55": 336,
+      "latest_month_app_count": 362
+    }
+  ],
+  "union": {
+    "union_apps": 762,
+    "unique_rows": 72781,
+    "newer_rows": 3138,
+    "newer_apps": 718,
+    "newer_eligible_apps": 449,
+    "month_counts": {
+      "2025-10-01": 700,
+      "2025-11-01": 679,
+      "2025-12-01": 695,
+      "2026-01-01": 699,
+      "2026-02-01": 365
+    }
+  }
+}

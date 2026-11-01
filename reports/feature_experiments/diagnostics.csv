@@ -1,0 +1,81 @@
+category,origin,group,training_rows,features,clipped_predictions
+Action,2020-06-01,Reference,84,10,0
+Action,2020-06-01,Recent changes,84,12,0
+Action,2020-06-01,Rolling variability,84,12,0
+Action,2020-06-01,Time trend,84,11,0
+Action,2021-06-01,Reference,96,10,0
+Action,2021-06-01,Recent changes,96,12,0
+Action,2021-06-01,Rolling variability,96,12,0
+Action,2021-06-01,Time trend,96,11,0
+Action,2022-06-01,Reference,108,10,0
+Action,2022-06-01,Recent changes,108,12,0
+Action,2022-06-01,Rolling variability,108,12,0
+Action,2022-06-01,Time trend,108,11,0
+Action,2023-06-01,Reference,120,10,0
+Action,2023-06-01,Recent changes,120,12,0
+Action,2023-06-01,Rolling variability,120,12,0
+Action,2023-06-01,Time trend,120,11,0
+Indie,2020-06-01,Reference,84,10,0
+Indie,2020-06-01,Recent changes,84,12,0
+Indie,2020-06-01,Rolling variability,84,12,0
+Indie,2020-06-01,Time trend,84,11,0
+Indie,2021-06-01,Reference,96,10,0
+Indie,2021-06-01,Recent changes,96,12,0
+Indie,2021-06-01,Rolling variability,96,12,0
+Indie,2021-06-01,Time trend,96,11,0
+Indie,2022-06-01,Reference,108,10,0
+Indie,2022-06-01,Recent changes,108,12,0
+Indie,2022-06-01,Rolling variability,108,12,0
+Indie,2022-06-01,Time trend,108,11,0
+Indie,2023-06-01,Reference,120,10,0
+Indie,2023-06-01,Recent changes,120,12,0
+Indie,2023-06-01,Rolling variability,120,12,0
+Indie,2023-06-01,Time trend,120,11,0
+Massively Multiplayer,2020-06-01,Reference,84,10,0
+Massively Multiplayer,2020-06-01,Recent changes,84,12,0
+Massively Multiplayer,2020-06-01,Rolling variability,84,12,0
+Massively Multiplayer,2020-06-01,Time trend,84,11,0
+Massively Multiplayer,2021-06-01,Reference,96,10,0
+Massively Multiplayer,2021-06-01,Recent changes,96,12,0
+Massively Multiplayer,2021-06-01,Rolling variability,96,12,0
+Massively Multiplayer,2021-06-01,Time trend,96,11,0
+Massively Multiplayer,2022-06-01,Reference,108,10,0
+Massively Multiplayer,2022-06-01,Recent changes,108,12,0
+Massively Multiplayer,2022-06-01,Rolling variability,108,12,0
+Massively Multiplayer,2022-06-01,Time trend,108,11,0
+Massively Multiplayer,2023-06-01,Reference,120,10,0
+Massively Multiplayer,2023-06-01,Recent changes,120,12,0
+Massively Multiplayer,2023-06-01,Rolling variability,120,12,0
+Massively Multiplayer,2023-06-01,Time trend,120,11,0
+RPG,2020-06-01,Reference,84,10,0
+RPG,2020-06-01,Recent changes,84,12,0
+RPG,2020-06-01,Rolling variability,84,12,0
+RPG,2020-06-01,Time trend,84,11,0
+RPG,2021-06-01,Reference,96,10,0
+RPG,2021-06-01,Recent changes,96,12,0
+RPG,2021-06-01,Rolling variability,96,12,0
+RPG,2021-06-01,Time trend,96,11,0
+RPG,2022-06-01,Reference,108,10,0
+RPG,2022-06-01,Recent changes,108,12,0
+RPG,2022-06-01,Rolling variability,108,12,0
+RPG,2022-06-01,Time trend,108,11,0
+RPG,2023-06-01,Reference,120,10,0
+RPG,2023-06-01,Recent changes,120,12,0
+RPG,2023-06-01,Rolling variability,120,12,0
+RPG,2023-06-01,Time trend,120,11,0
+Strategy,2020-06-01,Reference,84,10,0
+Strategy,2020-06-01,Recent changes,84,12,0
+Strategy,2020-06-01,Rolling variability,84,12,0
+Strategy,2020-06-01,Time trend,84,11,0
+Strategy,2021-06-01,Reference,96,10,0
+Strategy,2021-06-01,Recent changes,96,12,0
+Strategy,2021-06-01,Rolling variability,96,12,0
+Strategy,2021-06-01,Time trend,96,11,0
+Strategy,2022-06-01,Reference,108,10,0
+Strategy,2022-06-01,Recent changes,108,12,0
+Strategy,2022-06-01,Rolling variability,108,12,0
+Strategy,2022-06-01,Time trend,108,11,0
+Strategy,2023-06-01,Reference,120,10,0
+Strategy,2023-06-01,Recent changes,120,12,0
+Strategy,2023-06-01,Rolling variability,120,12,0
+Strategy,2023-06-01,Time trend,120,11,0

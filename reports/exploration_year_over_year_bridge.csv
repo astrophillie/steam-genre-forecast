@@ -1,0 +1,16 @@
+category,component,activity_change,apps
+Action,Observed in both months,85865.87000000002,1523
+Action,Observed only in comparison month,-1070.41,129
+Action,Observed only in latest month,2427.65,83
+Indie,Observed in both months,-39791.37999999999,1504
+Indie,Observed only in comparison month,-1463.91,199
+Indie,Observed only in latest month,3904.17,117
+Massively Multiplayer,Observed in both months,-56856.83,226
+Massively Multiplayer,Observed only in comparison month,-21.16,3
+Massively Multiplayer,Observed only in latest month,29.73,10
+RPG,Observed in both months,-24228.499999999985,836
+RPG,Observed only in comparison month,-305.45,68
+RPG,Observed only in latest month,1039.71,21
+Strategy,Observed in both months,-67112.91,1053
+Strategy,Observed only in comparison month,-372.6,80
+Strategy,Observed only in latest month,608.57,43

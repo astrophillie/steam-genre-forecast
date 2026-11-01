@@ -1,0 +1,6 @@
+{
+  "predictions_sha256": "08e816b9f612fffe49efece837a7f72836691ec44fe63cb21f089c4d5ecd9493",
+  "activity_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "flag_rule": "Absolute robust z >3.5 on monthly fractional changes; median/MAD from previous24 changes; minimum12; unknown with undefined scale",
+  "scope": "Exploratory retrospective diagnostics; no rows removed, no alert evaluation, no final selection"
+}

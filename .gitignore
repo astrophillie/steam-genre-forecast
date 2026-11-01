@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+
+data/raw/*
+!data/raw/README.md
+!data/raw/sources.json
+
+data/processed/*
+!data/processed/.gitkeep
+
+database/*.db
+database/*.sqlite*
+*.part
+
+# Local transfer bundles; source and evidence files are tracked separately.
+/data.zip
+/outputs.zip
+/reports.zip
+
+# Personal learning notes and editor preferences stay in the local checkout.
+/STEAM_ML_PROJECT_PLAN.md
+/Steam Genre Forecast.code-workspace
+/.vscode/
+/reports/CHECKPOINT_*.md
+/reports/COURSE_ALIGNMENT_PLAN.md
+/reports/INTERVIEW_WALKTHROUGH.md
+/reports/DATA_ENRICHMENT_RESEARCH.md
+/reports/HISTORY_RESEARCH_AND_ARCHITECTURE_2026-10-26.md
+/reports/PORTFOLIO_REVIEW.md
+/reports/PROJECT_ALIGNMENT_REVIEW.md
+/reports/SETUP_CHECK.md
+/reports/VSCODE_VIEWER_SETUP.md
+/reports/*/notebook_preview.html

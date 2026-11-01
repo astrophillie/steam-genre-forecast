@@ -1,0 +1,6 @@
+category,model,underpredicted_cases,overpredicted_cases,mean_error
+Action,Damped trend,11,13,230.02538724476472
+Indie,Seasonal naive,11,13,-6619.259583333328
+Massively Multiplayer,Damped seasonal,23,1,48953.263403624616
+RPG,Damped seasonal,14,10,-19770.798119105224
+Strategy,Damped seasonal,7,17,-30304.127744346126

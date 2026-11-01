@@ -1,0 +1,8 @@
+{
+  "predictions_sha256": "b85fd7e1b911463703c68e9e15977133aabbecca3e5d6fa71f4cba18ed3d86e7",
+  "evaluation_manifest_sha256": "3c1652ef8755dd63ad5cfa33ef46fb776223e06331c26bc123cbc33e84d1a524",
+  "database_sha256": "cf19efe39dd98787b2cf73c30fbca511f256133a455af297fc210dd72c12c176",
+  "cases": 15,
+  "case_policy": "Three largest lead12\u201323 errors per category; repeated calendar months at different origins remain separate forecast cases",
+  "interpretation": "App changes exactly decompose last-value and seasonal-naive residuals using their respective historical references. ETS residuals have no app-level forecast allocation. Observed changes and concentration are descriptive, not causal. Two overlapping retrospective folds, no independent validation or final model choice."
+}

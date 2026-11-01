@@ -1,0 +1,19 @@
+* text=auto
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+
+# Frozen evidence is fingerprinted byte-for-byte; do not normalize its newlines.
+config/project_scope.json -text whitespace=cr-at-eol
+data/raw/sources.json -text whitespace=cr-at-eol
+reports/**/*.csv -text whitespace=cr-at-eol
+reports/**/*.json -text whitespace=cr-at-eol
+# Matplotlib SVG exports intentionally contain spaces inside path data.
+outputs/final_figures/*.svg -whitespace
+
+# Preserve audited publication bytes and recorded fingerprints.
+notebooks/*.ipynb -text !eol
+website/** -text !eol
+outputs/final_figures/*.svg -text !eol

@@ -1,0 +1,21 @@
+app_id,name,selection_reason,source_url,status,rows,first_month,last_month,error,overlap_months,overlap_mismatches,new_months,has_latest_complete_month,internal_missing_months
+730,Counter-Strike 2,Previously verified overlap anchor,https://steamcharts.com/app/730,ok,171,2012-07-01,2026-09-01,,159,0,12,True,0.0
+252490,Rust,Previously verified overlap anchor,https://steamcharts.com/app/252490,ok,154,2013-12-01,2026-09-01,,142,0,12,True,0.0
+289070,Sid Meier’s Civilization® VI,Previously verified overlap anchor,https://steamcharts.com/app/289070,ok,120,2016-10-01,2026-09-01,,108,0,12,True,0.0
+570,Dota 2,Large-title coverage probe,https://steamcharts.com/app/570,ok,171,2012-07-01,2026-09-01,,0,0,12,True,0.0
+578080,PUBG: BATTLEGROUNDS,High-activity Action coverage,https://steamcharts.com/app/578080,ok,115,2017-03-01,2026-09-01,,103,0,12,True,0.0
+413150,Stardew Valley,High-activity Indie coverage,https://steamcharts.com/app/413150,ok,130,2015-12-01,2026-09-01,,118,0,12,True,0.0
+394360,Hearts of Iron IV,High-activity Strategy coverage,https://steamcharts.com/app/394360,ok,126,2016-04-01,2026-09-01,,114,0,12,True,0.0
+242050,Assassin’s Creed® IV Black Flag™,Tracked app without matched metadata,https://steamcharts.com/app/242050,ok,154,2013-12-01,2026-09-01,,142,0,12,True,0.0
+436150,Governor of Poker 3,Tracked app without matched metadata,https://steamcharts.com/app/436150,ok,128,2016-02-01,2026-09-01,,116,0,12,True,0.0
+431960,Wallpaper Engine,Mixed-label software probe,https://steamcharts.com/app/431960,ok,121,2016-09-01,2026-09-01,,109,0,12,True,0.0
+629520,Soundpad,Software-only eligibility holdout,https://steamcharts.com/app/629520,ok,108,2017-10-01,2026-09-01,,96,0,12,True,0.0
+405680,Sentou Gakuen: Revival,History with many internal gaps,https://steamcharts.com/app/405680,ok,14,2016-04-01,2026-02-01,,9,0,5,False,105.0
+378690,Potions: A Curious Tale,History with many internal gaps,https://steamcharts.com/app/378690,failed,0,,,HTTP 500; no history inferred,0,0,0,False,
+606500,HellSign,Small-audience observed app,https://steamcharts.com/app/606500,ok,87,2018-11-01,2026-07-01,,80,0,7,False,6.0
+403400,ARCADE GAME SERIES: DIG DUG,Small-audience observed app,https://steamcharts.com/app/403400,ok,123,2016-04-01,2026-09-01,,112,0,11,True,3.0
+1476970,IdleOn,Metadata release date after old player cutoff,https://steamcharts.com/app/1476970,ok,66,2021-04-01,2026-09-01,,0,0,12,True,0.0
+1145350,Hades II,Metadata release date after old player cutoff,https://steamcharts.com/app/1145350,ok,29,2024-05-01,2026-09-01,,0,0,12,True,0.0
+40,Deathmatch Classic,Additional small-audience coverage,https://steamcharts.com/app/40,ok,171,2012-07-01,2026-09-01,,159,0,12,True,0.0
+60,Ricochet,Additional small-audience coverage,https://steamcharts.com/app/60,ok,171,2012-07-01,2026-09-01,,159,0,12,True,0.0
+280,Half-Life: Source,Additional small-audience coverage,https://steamcharts.com/app/280,ok,171,2012-07-01,2026-09-01,,159,0,12,True,0.0

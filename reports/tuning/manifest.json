@@ -1,0 +1,46 @@
+{
+  "source_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "shortlist": {
+    "Indie": "Reference",
+    "RPG": "Rolling variability",
+    "Strategy": "Recent changes"
+  },
+  "grid": [
+    {
+      "n_estimators": 100,
+      "learning_rate": 0.05,
+      "max_depth": 1,
+      "min_samples_leaf": 5,
+      "loss": "squared_error",
+      "random_state": 42
+    },
+    {
+      "n_estimators": 200,
+      "learning_rate": 0.05,
+      "max_depth": 1,
+      "min_samples_leaf": 5,
+      "loss": "squared_error",
+      "random_state": 42
+    },
+    {
+      "n_estimators": 100,
+      "learning_rate": 0.05,
+      "max_depth": 2,
+      "min_samples_leaf": 5,
+      "loss": "squared_error",
+      "random_state": 42
+    },
+    {
+      "n_estimators": 200,
+      "learning_rate": 0.05,
+      "max_depth": 2,
+      "min_samples_leaf": 5,
+      "loss": "squared_error",
+      "random_state": 42
+    }
+  ],
+  "inner_windows": 2,
+  "inner_horizon": 27,
+  "objective": "MAE on leads16\u201327",
+  "scope": "Nested time-aware parameter selection; feature shortlist already informed by development outcomes; not independent final test"
+}

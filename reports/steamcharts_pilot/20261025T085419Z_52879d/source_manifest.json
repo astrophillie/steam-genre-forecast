@@ -1,0 +1,260 @@
+{
+  "run_id": "20261025T085419Z_52879d",
+  "created_at_utc": "2026-10-25T08:54:19.952945+00:00",
+  "as_of": "2026-10-25",
+  "source": "https://steamcharts.com",
+  "baseline_database_sha256": "7f89e41d96616cd4398c52ab568c2008d80feca2762b09f2b3cbdeec0391efab",
+  "baseline_sources_sha256": "844cdcd32b45f0b4e63b327d49c29fb109741725e694716ad2faa971db6126ad",
+  "cohort": [
+    {
+      "app_id": 730,
+      "name": "Counter-Strike 2",
+      "selection_reason": "Previously verified overlap anchor"
+    },
+    {
+      "app_id": 252490,
+      "name": "Rust",
+      "selection_reason": "Previously verified overlap anchor"
+    },
+    {
+      "app_id": 289070,
+      "name": "Sid Meier’s Civilization® VI",
+      "selection_reason": "Previously verified overlap anchor"
+    },
+    {
+      "app_id": 570,
+      "name": "Dota 2",
+      "selection_reason": "Large-title coverage probe"
+    },
+    {
+      "app_id": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "selection_reason": "High-activity Action coverage"
+    },
+    {
+      "app_id": 413150,
+      "name": "Stardew Valley",
+      "selection_reason": "High-activity Indie coverage"
+    },
+    {
+      "app_id": 394360,
+      "name": "Hearts of Iron IV",
+      "selection_reason": "High-activity Strategy coverage"
+    },
+    {
+      "app_id": 242050,
+      "name": "Assassin’s Creed® IV Black Flag™",
+      "selection_reason": "Tracked app without matched metadata"
+    },
+    {
+      "app_id": 436150,
+      "name": "Governor of Poker 3",
+      "selection_reason": "Tracked app without matched metadata"
+    },
+    {
+      "app_id": 431960,
+      "name": "Wallpaper Engine",
+      "selection_reason": "Mixed-label software probe"
+    },
+    {
+      "app_id": 629520,
+      "name": "Soundpad",
+      "selection_reason": "Software-only eligibility holdout"
+    },
+    {
+      "app_id": 405680,
+      "name": "Sentou Gakuen: Revival",
+      "selection_reason": "History with many internal gaps"
+    },
+    {
+      "app_id": 378690,
+      "name": "Potions: A Curious Tale",
+      "selection_reason": "History with many internal gaps"
+    },
+    {
+      "app_id": 606500,
+      "name": "HellSign",
+      "selection_reason": "Small-audience observed app"
+    },
+    {
+      "app_id": 403400,
+      "name": "ARCADE GAME SERIES: DIG DUG",
+      "selection_reason": "Small-audience observed app"
+    },
+    {
+      "app_id": 1476970,
+      "name": "IdleOn",
+      "selection_reason": "Metadata release date after old player cutoff"
+    },
+    {
+      "app_id": 1145350,
+      "name": "Hades II",
+      "selection_reason": "Metadata release date after old player cutoff"
+    },
+    {
+      "app_id": 40,
+      "name": "Deathmatch Classic",
+      "selection_reason": "Additional small-audience coverage"
+    },
+    {
+      "app_id": 60,
+      "name": "Ricochet",
+      "selection_reason": "Additional small-audience coverage"
+    },
+    {
+      "app_id": 280,
+      "name": "Half-Life: Source",
+      "selection_reason": "Additional small-audience coverage"
+    }
+  ],
+  "user_agent": "SteamGenreForecastResearch/0.1 (single-threaded portfolio validation)",
+  "entries": {
+    "730": {
+      "http_status": 200,
+      "sha256": "8c3fae0a06f491ec7f22ac00dd28b6dc68d48c30136f9ae315b48e04644762ae",
+      "retrieved_at_utc": "2026-10-25T08:54:27.563220+00:00",
+      "source_url": "https://steamcharts.com/app/730",
+      "bytes": 52573
+    },
+    "252490": {
+      "http_status": 200,
+      "sha256": "9f88073b2584b5c46c65ec2169a11f3f41e1ef14781e9973148cd1577b76897a",
+      "retrieved_at_utc": "2026-10-25T08:54:29.793126+00:00",
+      "source_url": "https://steamcharts.com/app/252490",
+      "bytes": 47425
+    },
+    "289070": {
+      "http_status": 200,
+      "sha256": "d4faed9406ea830dfb1abd32499bf03e4e8076df2d3ddfe0c1c782ded225628e",
+      "retrieved_at_utc": "2026-10-25T08:54:31.983969+00:00",
+      "source_url": "https://steamcharts.com/app/289070",
+      "bytes": 38023
+    },
+    "570": {
+      "http_status": 200,
+      "sha256": "4d01c98e223503e429d25e0911ed4c1a11ba6d0234ee955462b69b3b7ff1eca1",
+      "retrieved_at_utc": "2026-10-25T08:54:34.177834+00:00",
+      "source_url": "https://steamcharts.com/app/570",
+      "bytes": 52503
+    },
+    "578080": {
+      "http_status": 200,
+      "sha256": "016dcff4a2cb28096c949aea326867beac0dc60a5eba71b900242624ddbd6c02",
+      "retrieved_at_utc": "2026-10-25T08:54:36.451591+00:00",
+      "source_url": "https://steamcharts.com/app/578080",
+      "bytes": 36919
+    },
+    "413150": {
+      "http_status": 200,
+      "sha256": "4adc72539b64a4d4031c26c3f50bb7db8643278a8e90a9883ea078c51ded155e",
+      "retrieved_at_utc": "2026-10-25T08:54:38.655720+00:00",
+      "source_url": "https://steamcharts.com/app/413150",
+      "bytes": 40765
+    },
+    "394360": {
+      "http_status": 200,
+      "sha256": "744505dfe4d05408de3d24bf4a1c1c21991f3c5b5c02d16040c36d09112c95f6",
+      "retrieved_at_utc": "2026-10-25T08:54:40.904939+00:00",
+      "source_url": "https://steamcharts.com/app/394360",
+      "bytes": 39562
+    },
+    "242050": {
+      "http_status": 200,
+      "sha256": "a6b3bed947f0e4950d1e363da4ab2eda70ad54f48490bd5aaede601d884e7ae9",
+      "retrieved_at_utc": "2026-10-25T08:54:43.097732+00:00",
+      "source_url": "https://steamcharts.com/app/242050",
+      "bytes": 46927
+    },
+    "436150": {
+      "http_status": 200,
+      "sha256": "0bfbd4b7c4c6dc9d645d6c42c37bfb0e92db481e66e6bc4760fb627c07735ee8",
+      "retrieved_at_utc": "2026-10-25T08:54:45.379877+00:00",
+      "source_url": "https://steamcharts.com/app/436150",
+      "bytes": 39637
+    },
+    "431960": {
+      "http_status": 200,
+      "sha256": "3634e22a8564986f705671a0a1c2c48de78d6cf29b163280ea1ff19899e94eba",
+      "retrieved_at_utc": "2026-10-25T08:54:47.594964+00:00",
+      "source_url": "https://steamcharts.com/app/431960",
+      "bytes": 38239
+    },
+    "629520": {
+      "http_status": 200,
+      "sha256": "fef358daed31ef68a9bf457f32d99b78f2387f7cd4af4d5e39c5d6970f4c1723",
+      "retrieved_at_utc": "2026-10-25T08:54:49.784566+00:00",
+      "source_url": "https://steamcharts.com/app/629520",
+      "bytes": 34419
+    },
+    "405680": {
+      "http_status": 200,
+      "sha256": "d25079ede8b16c52f601c017d5dba8514a7487ef2d5279d3e61ce320ec1800fd",
+      "retrieved_at_utc": "2026-10-25T08:54:51.964186+00:00",
+      "source_url": "https://steamcharts.com/app/405680",
+      "bytes": 8536
+    },
+    "378690": {
+      "http_status": 500,
+      "sha256": "38a208c43c95bcee1100a23cbac465ebe3654e5378c04c885e9646ec708ae3b0",
+      "retrieved_at_utc": "2026-10-25T08:54:54.128068+00:00",
+      "source_url": "https://steamcharts.com/app/378690",
+      "bytes": 2105
+    },
+    "606500": {
+      "http_status": 200,
+      "sha256": "8eb63368a83ea508cbf43f8594351cc6fb7df57202be8644c8a6a6a0fb0bd6a2",
+      "retrieved_at_utc": "2026-10-25T08:54:56.321501+00:00",
+      "source_url": "https://steamcharts.com/app/606500",
+      "bytes": 27961
+    },
+    "403400": {
+      "http_status": 200,
+      "sha256": "01a12fab65fd49893beb01adf775452c08cb31814bb81d3595437ad664bc92a4",
+      "retrieved_at_utc": "2026-10-25T08:54:58.501906+00:00",
+      "source_url": "https://steamcharts.com/app/403400",
+      "bytes": 37545
+    },
+    "1476970": {
+      "http_status": 200,
+      "sha256": "c6e9dfe14cc5d1eb923c69aa2ca7cfff6ce16e52ba6b906bca53bc8a2e15ee93",
+      "retrieved_at_utc": "2026-10-25T08:55:00.740954+00:00",
+      "source_url": "https://steamcharts.com/app/1476970",
+      "bytes": 22945
+    },
+    "1145350": {
+      "http_status": 200,
+      "sha256": "90ee747d306977b9d2f1cfab66ca1076c80e47494e7f6bb0c2256e7428b5c934",
+      "retrieved_at_utc": "2026-10-25T08:55:02.916784+00:00",
+      "source_url": "https://steamcharts.com/app/1145350",
+      "bytes": 12737
+    },
+    "40": {
+      "http_status": 200,
+      "sha256": "9aa2c86219555f5f50b324dfa0a99778984771965a1ae01370961e59921f3113",
+      "retrieved_at_utc": "2026-10-25T08:55:05.200516+00:00",
+      "source_url": "https://steamcharts.com/app/40",
+      "bytes": 50368
+    },
+    "60": {
+      "http_status": 200,
+      "sha256": "a600a0bee32c564cb0e3aa652027291b46874d6f257fc686b574e7a42ee37c80",
+      "retrieved_at_utc": "2026-10-25T08:55:07.401726+00:00",
+      "source_url": "https://steamcharts.com/app/60",
+      "bytes": 50318
+    },
+    "280": {
+      "http_status": 200,
+      "sha256": "972af0e596b2d4f64e228ef0bffc11c71474aadfbd10b4a899c275f07aa5490b",
+      "retrieved_at_utc": "2026-10-25T08:55:09.650890+00:00",
+      "source_url": "https://steamcharts.com/app/280",
+      "bytes": 50709
+    }
+  },
+  "scope": "Bounded pilot; no bulk-access or redistribution permission established",
+  "robots": {
+    "status": 404,
+    "sha256": "b16e15764b8bc06c5c3f9f19bc8b99fa48e7894aa5a6ccdad65da49bbf564793"
+  },
+  "pilot_status": "completed_with_failures",
+  "last_replayed_at_utc": "2026-10-25T09:16:32.059155+00:00"
+}

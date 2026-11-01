@@ -1,0 +1,33 @@
+{
+  "input_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "groups": {
+    "Reference": [],
+    "Recent changes": [
+      "change_1",
+      "change_3"
+    ],
+    "Rolling variability": [
+      "std_3",
+      "std_12"
+    ],
+    "Time trend": [
+      "elapsed_months"
+    ]
+  },
+  "parameters": {
+    "n_estimators": 100,
+    "learning_rate": 0.05,
+    "max_depth": 2,
+    "min_samples_leaf": 5,
+    "loss": "squared_error",
+    "random_state": 42
+  },
+  "origins": [
+    "2020-06-01",
+    "2021-06-01",
+    "2022-06-01",
+    "2023-06-01"
+  ],
+  "horizon": 27,
+  "scope": "Exploratory feature additions; unchanged model parameters; no final selection"
+}

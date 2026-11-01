@@ -1,0 +1,56 @@
+app_id,first_month,last_month,rows,name,app_type,steam_genres,eligible
+570,2012-07-01,2026-09-01,171,Dota 2,game,"Action, Strategy, Free To Play",
+730,2012-07-01,2026-09-01,171,Counter-Strike 2,game,"Action, Free To Play",1.0
+39210,2014-02-01,2026-09-01,152,FINAL FANTASY XIV Online,game,"Massively Multiplayer, RPG",1.0
+105600,2012-07-01,2026-09-01,171,Terraria,game,"Action, Adventure, Indie, RPG",1.0
+218620,2012-08-01,2026-09-01,170,PAYDAY 2,game,"Action, RPG",1.0
+221100,2012-09-01,2026-09-01,169,DayZ,game,"Action, Adventure, Massively Multiplayer",1.0
+227300,2013-01-01,2026-09-01,165,Euro Truck Simulator 2,game,"Indie, Simulation",1.0
+230410,2013-01-01,2026-09-01,165,Warframe,game,"Action, RPG, Free To Play",1.0
+236390,2013-04-01,2026-09-01,162,War Thunder,game,"Action, Massively Multiplayer, Simulation, Free To Play",1.0
+238960,2013-10-01,2026-09-01,156,Path of Exile,game,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",1.0
+251570,2013-12-01,2026-09-01,154,7 Days to Die,game,"Action, Adventure, Indie, RPG, Simulation, Strategy",1.0
+252490,2013-12-01,2026-09-01,154,Rust,game,"Action, Adventure, Indie, Massively Multiplayer, RPG",1.0
+255710,2014-08-01,2026-09-01,140,Cities: Skylines,game,"Simulation, Strategy",1.0
+264710,2014-03-01,2026-09-01,151,Subnautica,game,"Adventure, Indie",1.0
+275850,2016-08-01,2026-09-01,122,No Man's Sky,game,"Action, Adventure",1.0
+281990,2015-08-01,2026-09-01,128,Stellaris,game,"Simulation, Strategy",1.0
+292030,2015-05-01,2026-09-01,137,The Witcher 3: Wild Hunt — Remastered,game,RPG,1.0
+294100,2016-05-01,2026-09-01,125,RimWorld,game,"Indie, Simulation, Strategy",1.0
+359550,2015-12-01,2026-09-01,130,Tom Clancy's Rainbow Six Siege,game,"Action, Free To Play",1.0
+374320,2016-04-01,2026-09-01,126,DARK SOULS™ III,game,Action,1.0
+377160,2015-11-01,2026-09-01,131,Fallout 4,game,RPG,1.0
+394360,2016-04-01,2026-09-01,126,Hearts of Iron IV,game,"Simulation, Strategy",1.0
+413150,2015-12-01,2026-09-01,130,Stardew Valley,game,"Indie, RPG, Simulation",1.0
+427520,2016-02-01,2026-09-01,128,Factorio,game,"Casual, Indie, Simulation, Strategy",1.0
+435150,2016-08-01,2026-09-01,122,Divinity: Original Sin 2 - Definitive Edition,game,"Adventure, RPG, Strategy",1.0
+489830,2016-09-01,2026-09-01,121,The Elder Scrolls V: Skyrim Special Edition,game,RPG,1.0
+553850,2024-02-01,2026-09-01,32,HELLDIVERS™ 2,game,Action,1.0
+578080,2017-03-01,2026-09-01,115,PUBG: BATTLEGROUNDS,game,"Action, Adventure, Massively Multiplayer, Free To Play",1.0
+588650,2017-02-01,2026-09-01,116,Dead Cells,game,"Action, Adventure, Indie",1.0
+646570,2017-06-01,2026-09-01,111,Slay the Spire,game,"Indie, Strategy",1.0
+892970,2021-02-01,2026-09-01,68,Valheim,game,"Action, Adventure, Indie, RPG",
+1086940,2020-10-01,2026-09-01,72,Baldur's Gate 3,game,"Adventure, RPG, Strategy",
+1091500,2020-12-01,2026-09-01,70,Cyberpunk 2077,game,RPG,
+1145360,2019-12-01,2026-09-01,82,Hades,game,"Action, Indie, RPG",
+1172470,2020-11-01,2026-09-01,71,Apex Legends™,game,"Action, Adventure, Free To Play",
+1174180,2019-12-01,2026-09-01,82,Red Dead Redemption 2,game,"Action, Adventure",
+1222670,2020-06-01,2026-09-01,76,The Sims™ 4,game,"Adventure, Casual, Simulation, Free To Play",
+1245620,2022-03-01,2026-09-01,55,ELDEN RING,game,"Action, RPG",
+1364780,2023-06-01,2026-09-01,40,Street Fighter™ 6,game,"Action, Adventure",
+1623730,2024-01-01,2026-09-01,33,Palworld,game,"Action, Adventure, Indie, RPG",
+2246340,2025-03-01,2026-09-01,19,Monster Hunter Wilds,game,"Action, Adventure, RPG",
+2357570,2023-08-01,2026-09-01,38,Overwatch®,game,"Action, Free To Play",
+2483190,2026-05-01,2026-09-01,5,Forza Horizon 6,game,"Racing, Simulation, Sports",
+2638890,2026-09-01,2026-09-01,1,Onimusha: Way of the Sword,game,"Action, Adventure, RPG",
+2694490,2024-12-01,2026-09-01,22,Path of Exile 2,game,"Action, Adventure, Massively Multiplayer, RPG, Early Access",
+2767030,2024-12-01,2026-09-01,22,Marvel Rivals,game,"Action, Adventure, Casual, Massively Multiplayer, Racing, RPG, Strategy, Free To Play",
+2807960,2025-10-01,2026-09-01,12,Battlefield™ 6,game,Action,
+3240220,2025-03-01,2026-09-01,19,Grand Theft Auto V Enhanced,game,"Action, Adventure, Racing",
+3321460,2026-03-01,2026-09-01,7,Crimson Desert Enhanced,game,"Action, Adventure",
+3405690,2025-10-01,2026-09-01,12,EA SPORTS FC™ 26,game,"Simulation, Sports",
+3419430,2025-03-01,2026-09-01,19,Bongo Cat,game,"Casual, Indie, Massively Multiplayer, Simulation, Free To Play",
+3678970,2026-06-01,2026-09-01,4,TBH: Task Bar Hero,game,"Casual, Indie, RPG, Free To Play",
+3751260,2026-09-01,2026-09-01,1,The Blood of Dawnwalker,game,"Action, Adventure, RPG",
+3932890,2025-11-01,2026-09-01,11,Escape from Tarkov,game,"Action, Massively Multiplayer, RPG, Simulation",
+4001890,2026-08-01,2026-09-01,2,How to Fish,game,"Action, Casual, Indie, Simulation",

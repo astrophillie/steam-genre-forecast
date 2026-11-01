@@ -1,0 +1,94 @@
+{
+  "issued_on": "2026-10-26",
+  "training_cutoff": "2025-09-01",
+  "target": "2027 monthly average concurrent category activity; fixed historical cohort",
+  "policy": {
+    "Action": {
+      "method": "Last value"
+    },
+    "Indie": {
+      "method": "Boosting",
+      "features": "Reference"
+    },
+    "Massively Multiplayer": {
+      "method": "Last value"
+    },
+    "RPG": {
+      "method": "Tuned boosting",
+      "features": "Rolling variability"
+    },
+    "Strategy": {
+      "method": "Boosting",
+      "features": "Recent changes"
+    }
+  },
+  "fits": [
+    {
+      "category": "Action",
+      "method": "Last value",
+      "parameters": null
+    },
+    {
+      "category": "Indie",
+      "method": "Boosting",
+      "features": 10,
+      "parameters": {
+        "n_estimators": 100,
+        "learning_rate": 0.05,
+        "max_depth": 2,
+        "min_samples_leaf": 5,
+        "loss": "squared_error",
+        "random_state": 42
+      },
+      "training_rows": 147,
+      "clipped_predictions": 0
+    },
+    {
+      "category": "Massively Multiplayer",
+      "method": "Last value",
+      "parameters": null
+    },
+    {
+      "category": "RPG",
+      "method": "Tuned boosting",
+      "features": 12,
+      "parameters": {
+        "n_estimators": 200,
+        "learning_rate": 0.05,
+        "max_depth": 2,
+        "min_samples_leaf": 5,
+        "loss": "squared_error",
+        "random_state": 42
+      },
+      "training_rows": 147,
+      "clipped_predictions": 0
+    },
+    {
+      "category": "Strategy",
+      "method": "Boosting",
+      "features": 12,
+      "parameters": {
+        "n_estimators": 100,
+        "learning_rate": 0.05,
+        "max_depth": 2,
+        "min_samples_leaf": 5,
+        "loss": "squared_error",
+        "random_state": 42
+      },
+      "training_rows": 147,
+      "clipped_predictions": 0
+    }
+  ],
+  "input_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "comparison_sha256": "5c67e526795e37fa44c365d2d0ca2d323dc91e0abd5253e0335a9c4927fe2da3",
+  "selection_rationale": {
+    "Action": "Last value retained: challengers did not improve mean error reliably",
+    "Massively Multiplayer": "Last value retained: challengers offered no useful average advantage",
+    "Indie": "Original boosting retained: tiny trend addition is not persuasive; tuning worsens",
+    "RPG": "Tuned variability candidate retained provisionally: improved mean and worst-fold error",
+    "Strategy": "Untuned recent changes retained provisionally: three ML fold wins, modest gain over last value; worst-fold limitations retained"
+  },
+  "scope": "Exploratory projection, not a validated current-market forecast or untouched-test result",
+  "evaluation_policy": "Freeze output bytes now. Future matching 2027 observations may be scored without retuning; source/eligibility changes require separately versioned evaluation. Already-reviewed development outcomes are not a final holdout.",
+  "uncertainty": "No calibrated prediction intervals established; model-policy differences are sensitivity comparisons, not confidence bounds"
+}

@@ -1,0 +1,25 @@
+{
+  "input_sha256": "46abc3ceb81807b16f3e55058504a01859bf7106f5a07c46ff6d58412ca09112",
+  "origins": [
+    "2020-06-01",
+    "2021-06-01",
+    "2022-06-01",
+    "2023-06-01"
+  ],
+  "horizon": 27,
+  "configs": {
+    "SES": {},
+    "Damped trend": {
+      "trend": "add",
+      "damped_trend": true
+    },
+    "Damped seasonal": {
+      "trend": "add",
+      "damped_trend": true,
+      "seasonal": "add",
+      "seasonal_periods": 12
+    }
+  },
+  "negative_prediction_policy": "Clip at zero and report count",
+  "scope": "Historical development comparison; no final selection or current 2027 forecast"
+}
