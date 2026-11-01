@@ -1,7 +1,5 @@
 # Steam Genre Forecast 2027
 
-**2027 average concurrent activity forecasts for a fixed cohort of 519 Steam games.**
-
 I love video games, so when I started learning data analysis and forecasting, Steam seemed like a good place to try things out.
 
 I wanted to see how activity in different game categories had changed over the years, then try forecasting it through 2027. Would a seasonal model do better than simply carrying the latest month forward? Would the same approach work for Action and Indie?
