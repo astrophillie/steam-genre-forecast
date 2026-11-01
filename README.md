@@ -2,7 +2,14 @@
 
 **2027 average concurrent activity forecasts for a fixed cohort of 519 Steam games.**
 
-This project combines Steam metadata and monthly activity histories to compare forecasting methods and produce a provisional category-level projection. The target is average concurrent activity, not unique monthly players, sales, revenue or the whole Steam market.
+I love video games, so when I started learning data analysis and forecasting, Steam seemed like a good place to try things out.
+
+I wanted to see how activity in different game categories had changed over the years, then try forecasting it through 2027. Would a seasonal model do better than simply carrying the latest month forward? Would the same approach work for Action and Indie?
+
+This repo contains the analysis, the model comparisons, and an arcade-style website where you can explore the results.
+
+The forecasts cover 519 games with complete histories. They’re provisional estimates of average concurrent activity, not a prediction of the whole Steam market.
+
 
 ## Interactive website
 
