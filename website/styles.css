@@ -1255,3 +1255,6 @@ body[data-direction="rpg"] .nav-link[aria-current="page"]::before { content:none
   /* Preserve the original 9px × .08em tracking in physical pixels. */
   letter-spacing: 0.72px;
 }
+@media (max-width: 360px) {
+  .marquee { flex-direction: row; flex-wrap: wrap; }
+}

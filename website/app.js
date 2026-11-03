@@ -489,7 +489,7 @@ const sharedCategory = (() => {
     document.getElementById('history-readout-title').textContent = `${label(state.category)} · ${monthName(record.month)}`;
     document.getElementById('history-observation-kind').textContent = kind + (kind === 'Observed' ? ' · historical value' : ` · selected models · ${record.model}`);
     document.getElementById('history-value').textContent = number.format(record.value);
-    document.getElementById('history-range-readout').textContent = kind === 'Observed' ? 'Historical error ranges do not apply to observed values.' : range ? `Historical error range: ${number.format(range.lower)}–${number.format(range.upper)}. Not a calibrated prediction interval.` : 'Historical error range unavailable';
+    document.getElementById('history-range-readout').textContent = kind === 'Observed' ? 'Historical error ranges do not apply to observed values.' : range ? `Historical error range: ${number.format(range.lower)}–${number.format(range.upper)}. I have not checked how often this range would contain future values.` : 'Historical error range unavailable';
     cursor.setAttribute('d', `M${x(state.index)} ${top}V${bottom}`);
     point.setAttribute('x',x(state.index)-4.5); point.setAttribute('y',y(record.value)-4.5);
     point.dataset.month = record.month; point.dataset.value = record.value;
