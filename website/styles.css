@@ -120,6 +120,17 @@ svg { display: block; }
   color: #fff2ff;
   text-shadow: 3px 3px 0 #671d85;
 }
+.marquee .header-note {
+  position: absolute;
+  top: calc(100% + 2px);
+  margin: 0;
+  padding: 0 8px;
+  background: #171030;
+  color: #f4efff;
+  font-size: 12px;
+  line-height: 1.2;
+  text-shadow: none;
+}
 .marquee h1 {
   margin: 0;
   font: 400 clamp(13px, 1.65vw, 27px) / 1.45 Arcade, "Courier New", monospace;
@@ -215,7 +226,7 @@ svg { display: block; }
 }
 .screen-content:focus-visible { outline-offset: -5px; }
 .view { padding: clamp(16px, 1.5vw, 26px); }
-.view h2 {
+.view h2:not(:where(#overview-title)), .view .overview-tagline {
   margin: 0 0 12px;
   font: 400 clamp(30px, 2.35vw, 38px) / 1.1 "Jersey 10", "Courier New", monospace;
   letter-spacing: 0;
@@ -333,6 +344,7 @@ svg { display: block; }
   .arcade-scene { aspect-ratio: auto; padding-top: clamp(150px, 22vw, 220px); padding-bottom: 20px; }
   .scene-art { height: clamp(255px, 34vw, 365px); object-fit: cover; object-position: center top; }
   .marquee { position: relative; top: auto; left: auto; width: calc(100% - 40px); height: auto; margin-inline: 20px; padding: 22px 16px; gap: 9px; border: 3px solid #5c468e; border-bottom: 0; background: var(--plum); }
+  .marquee .header-note { position: static; display: block; max-width: none; margin-top: 4px; text-align: center; }
   .marquee h1 { font-size: clamp(12px, 2vw, 21px); }
   .marquee-year { font-size: 15px; }
   .terminal { position: relative; inset: auto; width: calc(100% - 40px); height: auto; min-height: 540px; margin-inline: 20px; border-width: 3px; }
@@ -340,7 +352,7 @@ svg { display: block; }
   .nav-link { padding: 10px; font-size: 14px; }
   .screen-content { overflow: visible; }
   .view { padding: 24px; }
-  .view h2 { font-size: 32px; }
+  .view h2:not(:where(#overview-title)), .view .overview-tagline { font-size: 32px; }
   .scope-item dd { font-size: 27px; }
   .shell-note { margin-top: 0; }
 }
@@ -376,7 +388,7 @@ svg { display: block; }
   .nav-link { flex: 1 1 40%; justify-content: flex-start; padding: 10px 12px; }
   .nav-link:last-child { flex-basis: 100%; }
   .view { padding: 21px 16px 24px; }
-  .view h2 { font-size: clamp(27px, 7.7vw, 32px); line-height: 1.1; }
+  .view h2:not(:where(#overview-title)), .view .overview-tagline { font-size: clamp(27px, 7.7vw, 32px); line-height: 1.1; }
   .lede { font-size: 16px; }
   .overview-layout { grid-template-columns: 1fr; gap: 24px; }
   .overview-actions { align-items: stretch; flex-direction: column; gap: 10px; }
@@ -432,7 +444,7 @@ html:not(.js) .screen-content { scroll-behavior: auto; }
 
 .view { padding:12px 14px 16px; }
 .section-head { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:9px; }
-.section-head h2 { font:400 29px/1.08 "Jersey 10",monospace; letter-spacing:0; color:var(--ui-title); margin:0; text-wrap:balance; }
+.section-head h2, .section-head .overview-tagline { font:400 29px/1.08 "Jersey 10",monospace; letter-spacing:0; color:var(--ui-title); margin:0; text-wrap:balance; }
 .section-head .eyebrow { color:var(--ui-muted); margin-bottom:4px; font-size:9px; letter-spacing:.08em; }
 .small-status { flex:none; padding:4px 6px; border:1px solid #9775b3; font-size:9px; font-weight:750; color:var(--ui-text); }
 .small-status::before { content:""; display:inline-block; width:5px; height:5px; margin-right:5px; background:#d0a6eb; }
@@ -525,7 +537,7 @@ body[data-direction="rpg"] .terminal :focus-visible { outline-color:var(--t-focu
 @media(max-width:1100px) {
  .terminal { min-height:540px; }
  body[data-direction="rpg"] .terminal { grid-template-rows:29px auto 25px; }
- .section-head h2 { font-size:31px; }
+ .section-head h2, .section-head .overview-tagline { font-size:31px; }
  .section-intro { font-size:14px; }
  .figure-caption,.scope-note,.table-note { font-size:12px; }
  .category-controls button { min-height:44px; font-size:13px; }
@@ -534,7 +546,7 @@ body[data-direction="rpg"] .terminal :focus-visible { outline-color:var(--t-focu
  .terminal-toolbar { min-height:40px; }
  .terminal-id { font-size:14px; }
  .section-head { align-items:flex-start; }
- .section-head h2 { font-size:28px; }
+ .section-head h2, .section-head .overview-tagline { font-size:28px; }
  .section-head .small-status { display:none; }
  .view { padding:16px 12px; }
  .overview-workspace,.forecast-workspace,.methods-layout { display:flex; flex-direction:column; gap:12px; }
@@ -622,7 +634,7 @@ body[data-direction="rpg"] .terminal { grid-template-rows:29px minmax(0,1fr) aut
 /* C002: Overview narrative hierarchy, within the existing research terminal. */
 #overview .terminal-welcome { margin:0 0 12px; max-width:76ch; font-size:15px; line-height:1.6; color:var(--ui-text); }
 #overview .overview-finding { margin:0 0 10px; padding:0 0 0 12px; border-left:3px solid #9570b5; }
-#overview .overview-finding h3 { margin:0 0 4px; color:var(--ui-title); font:400 26px/1.15 "Jersey 10",monospace; letter-spacing:0; }
+#overview .overview-finding h2 { margin:0 0 4px; color:var(--ui-title); font:400 26px/1.15 "Jersey 10",monospace; letter-spacing:0; }
 #overview .overview-finding p { margin:0; max-width:78ch; color:var(--ui-text); font-size:14px; line-height:1.6; }
 #overview .overview-entry { display:flex; align-items:center; flex-wrap:wrap; gap:8px 18px; margin-bottom:10px; }
 #overview .overview-entry .pixel-button { min-height:44px; display:inline-flex; align-items:center; gap:12px; font-size:14px; }
@@ -637,7 +649,7 @@ body[data-direction="rpg"] .terminal { grid-template-rows:29px minmax(0,1fr) aut
 #overview .overview-evidence-body .evidence-origin { font-size:11px; color:var(--ui-muted); overflow-wrap:anywhere; }
 @media(max-width:640px) {
  #overview .terminal-welcome { font-size:16px; }
- #overview .overview-finding h3 { font-size:27px; }
+ #overview .overview-finding h2 { font-size:27px; }
  #overview .overview-finding p { font-size:15px; }
  #overview .overview-entry { align-items:stretch; flex-direction:column; gap:0; }
  #overview .overview-model-link { align-self:flex-start; }
@@ -1092,3 +1104,154 @@ body[data-direction="rpg"] .nav-link[aria-current="page"]::before { content:none
   .terminal .key-held { box-shadow:none; border-color:Highlight; }
 }
 
+
+/* T0003: scope callout only; existing styles remain unchanged. */
+.scope-callout {
+  margin: 12px 0;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
+  background: var(--t-finding);
+  color: var(--t-ink);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+/* T0006 polish: styles apply only to the Overview model table. */
+.overview-model-table {
+  width: 100%;
+  margin-top: 18px;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid var(--t-line);
+  background: var(--t-paper);
+  color: var(--t-ink);
+  font: 13px/1.5 "Segoe UI", system-ui, sans-serif;
+}
+.overview-model-table caption {
+  text-align: left;
+  background: var(--t-bg);
+}
+.overview-model-table th,
+.overview-model-table td {
+  padding: 8px 6px;
+  border-bottom: 1px solid var(--t-separator);
+  text-align: left;
+  vertical-align: top;
+}
+.overview-model-table th {
+  background: var(--t-heading);
+  font-weight: 600;
+}
+.overview-model-table th:first-child { width: 24%; }
+.overview-model-table th:nth-child(2) { width: 44%; }
+.overview-model-table th:last-child { width: 32%; }
+.overview-model-table td:last-child { font-variant-numeric: tabular-nums; }
+.overview-model-table small { font-size: 12px; }
+@media (max-width: 640px) {
+  .overview-model-table th,
+  .overview-model-table td { padding: 6px 3px; }
+}
+
+/* Caveat-only panels remain in normal flow, visible at the start of each view. */
+.near-tie-caveats {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--t-line);
+  border-left: 4px solid var(--accent);
+  background: var(--t-finding);
+  color: var(--t-ink);
+  font: 13px/1.5 "Segoe UI", system-ui, sans-serif;
+}
+.near-tie-caveats p { margin: 0; }
+.near-tie-caveats p + p { margin-top: 12px; }
+
+/* Forecast caveats belong below the annual axis, inside its existing panel. */
+.near-tie-caveats#annual-near-ties { margin: 12px; }
+#overview .overview-finding #hero-near-tie { display: block; margin-top: 8px; }
+
+/* T0008: monthly typical-error context, scoped to the new note only. */
+.typical-error-note {
+  margin: 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--t-line);
+  background: var(--t-finding);
+  color: var(--t-ink);
+  font: 13px/1.5 "Segoe UI", system-ui, sans-serif;
+}
+.typical-error-note p { margin: 0; }
+.typical-error-note p + p { margin-top: 12px; }
+
+/* T0010: the existing Models buttons gain a visible, associated label. */
+.models-category-control-label {
+  display: block;
+  margin: 0 0 6px;
+  color: var(--t-muted);
+  font: 600 13px/1.5 "Segoe UI", system-ui, sans-serif;
+}
+
+
+/* T0012: measured legibility failures; hero and chart artwork stay unchanged. */
+.nav-link[aria-current="page"] .nav-number { color: inherit; }
+.terminal-toolbar .status-badge { font-size: 12px; line-height: 1.2; }
+.terminal-dock, .small-status { font-size: 12px; }
+#forecasts .section-head .eyebrow,
+#history .section-head .eyebrow,
+#models .section-head .eyebrow,
+#methods .section-head .eyebrow { font-size: 12px; }
+#overview .overview-context,
+#overview .overview-evidence-body .evidence-origin,
+#overview .table-note,
+#forecasts .monthly-key p,
+#models .table-note,
+#models .model-window table,
+#models .model-window th,
+#models .model-tag,
+.window-title a { font-size: 12px; }
+#models .model-window .table-scroll { max-width: 100%; overflow-x: auto; }
+@media (min-width: 1101px) {
+  #forecasts .monthly-redesign .rounding-note { font-size: 12px !important; }
+  .figure-caption,
+  #forecasts #forecast-month-label,
+  #forecasts #timeline-help,
+  #forecasts .scope-note,
+  #forecasts .table-note,
+  #history .scope-note,
+  #models .scope-note { font-size: 12px; }
+}
+@media (max-width: 640px) {
+  /* Keep the existing header line box, so the cabinet and hero do not move. */
+  .site-header .wordmark { font-size: 12px; line-height: 17.05px; }
+  html:not(.js) .nojs-data .table-scroll {
+    border-inline-end: 3px solid var(--t-muted);
+    box-shadow: inset -10px 0 8px -10px var(--t-muted);
+    scrollbar-color: var(--t-muted) var(--t-paper);
+  }
+  html:not(.js) .nojs-data .table-scroll::-webkit-scrollbar { height: 12px; }
+  html:not(.js) .nojs-data .table-scroll::-webkit-scrollbar-track { background: var(--t-paper); }
+  html:not(.js) .nojs-data .table-scroll::-webkit-scrollbar-thumb {
+    background: var(--t-muted); border: 2px solid var(--t-paper);
+  }
+}
+#forecasts .approach-controls label:has(input:focus-visible) {
+  outline: 2px solid var(--t-focus); outline-offset: 2px;
+}
+#forecasts #monthly-live:focus-visible { outline-offset: -2px; }
+@media (prefers-color-scheme: dark) {
+  #forecast-month { accent-color: var(--t-observed); }
+}
+
+
+/* T0014: shared banner backing paint; typography and layout are unchanged. */
+.marquee { --banner-strip: #171030; }
+.marquee .header-note { background: var(--banner-strip); }
+.marquee h1, .marquee-year {
+  background: var(--banner-strip);
+  box-shadow: 8px 0 0 var(--banner-strip), -8px 0 0 var(--banner-strip);
+  border-radius: 0;
+}
+#overview .overview-opening .section-head .eyebrow {
+  font-size: 12px;
+  /* Preserve the original 9px × .08em tracking in physical pixels. */
+  letter-spacing: 0.72px;
+}
